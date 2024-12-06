@@ -1,0 +1,2 @@
+// add prohibited chat words on your server
+// 在你的服务器上添加聊天违禁词
