@@ -16,7 +16,7 @@ bool SlotWeaponClear[5] = {true, true, true, true, true};
 ConVar Cvar_SlotWeaponsClear[5];
 ConVar Cvar_UpWeaponClear;
 
-char SlotWeaponText[5][20] = {"主武器", "副武器", "投掷物", "医疗包", "止痛药/肾上腺素"};
+char SlotWeaponText[5][20] = {"主武器", "副武器", "投掷物", "医疗包/除颤器", "止痛药/肾上腺素"};
 
 public void OnPluginStart()
 {
