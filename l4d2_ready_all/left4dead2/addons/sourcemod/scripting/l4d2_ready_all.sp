@@ -107,7 +107,7 @@ public void Event_RoundStart(Event event, const char[] name, bool dontBroadcast)
 		IsLockWalk[i] = false;
 		TP_GameTimer[i] = 0.0;
 	}
-	CreateTimer(1.0, CT);
+	CreateTimer(1.0, CT, _, TIMER_FLAG_NO_MAPCHANGE);
 }
 
 public void Event_RoundEnd(Event event, const char[] name, bool dontBroadcast)
