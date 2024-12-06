@@ -13,14 +13,6 @@ public void OnPluginStart()
 	RegConsoleCmd("sm_unlockname",		Command_Unlock_Name,		"解除锁名.");
 }
 
-
-
-
-
-// ====================================================================================================
-// Game void
-// ====================================================================================================
-
 public void OnClientPutInServer(int client)
 {
 	if (IsFakeClient(client))
@@ -37,12 +29,12 @@ public void OnClientPutInServer(int client)
 			{
 				if (i != client)
 				{
-					Format(TempString, sizeof(TempString), "%s", Default_Name[i]);
-					Format(Default_Name[i], sizeof(Default_Name[]), "%s", Default_Name[client]);
-					Format(Default_Name[client], sizeof(Default_Name[]), "%s", TempString);
-					Format(TempString, sizeof(TempString), "%s", Locked_Name[i]);
-					Format(Locked_Name[i], sizeof(Locked_Name[]), "%s", Locked_Name[client]);
-					Format(Locked_Name[client], sizeof(Locked_Name[]), "%s", TempString);
+					TempString = Default_Name[i];
+					Default_Name[i] = Default_Name[client];
+					Default_Name[client] = TempString;
+					TempString = Locked_Name[i];
+					Locked_Name[i] = Locked_Name[client];
+					Locked_Name[client] = TempString;
 				}
 				CreateTimer(1.0, SetLockedName, client, TIMER_FLAG_NO_MAPCHANGE);
 				return;
@@ -53,14 +45,6 @@ public void OnClientPutInServer(int client)
 	FormatEx(Default_Name[client], sizeof(Default_Name[]), "%N", client);
 	Locked_Name[client] = "";
 }
-
-
-
-
-
-// ====================================================================================================
-// Command Action
-// ====================================================================================================
 
 public Action Command_Lock_Name(int client, int args)
 {
@@ -90,28 +74,12 @@ public Action Command_Unlock_Name(int client, int args)
 	return Plugin_Handled;
 }
 
-
-
-
-
-// ====================================================================================================
-// Timer Action
-// ====================================================================================================
-
 public Action SetLockedName(Handle timer, int client)
 {
 	if (IsValidClient(client))
 		SetClientInfo(client, "name", Locked_Name[client]);
 	return Plugin_Continue;
 }
-
-
-
-
-
-// ====================================================================================================
-// bool
-// ====================================================================================================
 
 public bool IsValidClient(int client)
 {
