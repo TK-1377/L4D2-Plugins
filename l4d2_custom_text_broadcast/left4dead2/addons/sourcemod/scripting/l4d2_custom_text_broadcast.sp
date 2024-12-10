@@ -22,7 +22,7 @@ public void OnPluginStart()
 	Cvar_InforPrintInterval = CreateConVar("l4d2_text_print_interval", "60.0", "文本输出的时间间隔.(s)", CVAR_FLAGS, true, 30.0);
 	Cvar_InforPrintInterval.AddChangeHook(ConVarChanged);
 
-	GetCustonText();
+	GetCustomText();
 
 	AutoExecConfig(true, "l4d2_custom_text_broadcast");
 
@@ -43,18 +43,18 @@ public void ConVarChanged(ConVar convar, const char[] oldValue, const char[] new
 
 public Action ToPrintText(Handle timer)
 {
-	CPrintToChatAll("{olive}[P] {blue}%s\n", TextPrint[GetRandomInt(0, TextPrintNum - 1)]);
+	CPrintToChatAll("\n{olive}[P] {blue}%s\n", TextPrint[GetRandomInt(0, TextPrintNum - 1)]);
 	return Plugin_Continue;
 }
 
-public void GetCustonText()
+public void GetCustomText()
 {
 	BuildPath(Path_SM, FilePath, sizeof(FilePath), "configs/l4d2_custom_text_broadcast.txt");
 	if (FileExists(FilePath))
-		IsSetCustonText();
+		SetCustomText();
 }
 
-public void IsSetCustonText()
+public void SetCustomText()
 {
 	File file = OpenFile(FilePath, "rb");
 
