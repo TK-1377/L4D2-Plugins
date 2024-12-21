@@ -1,0 +1,7604 @@
+"Mode_Spawn"
+{
+	"c1m1_hotel"
+	{
+		// FistSpawn Trigger
+		"min_trigger"		"190.0"
+		"max_trigger"		"300.0"
+		"trigger_type"		"0"
+		"map_ci"			"11"
+		"center_point"		"384.55 5629.44 2656.03"
+
+		// WaitSpawn Trigger
+		"wl_minpos_1"		"2050.00 5720.00 1160.00"
+		"wl_maxpos_1"		"2280.00 5920.00 2460.00"
+		"ws_mintrdist_1"	"100.0"
+		"ws_maxtrdist_1"	"200.0"
+		"ws_trtype_1"		"0"
+		"ws_cpoint_1"		"2167.03 5703.13 1188.03"
+
+		// SurFlow Change Spwn Type
+		"sur_flow_1"		"1.0"
+		"spawn_type1_1"		"1"
+		"spawn_type2_1"		"0"
+		"sur_flow_2"		"890.0"
+		"spawn_type1_2"		"1"
+		"spawn_type2_2"		"2"
+		"sur_flow_3"		"5290.0"
+		"spawn_type1_3"		"1"
+		"spawn_type2_3"		"0"
+		"sur_flow_4"		"6080.0"
+		"spawn_type1_4"		"1"
+		"spawn_type2_4"		"1"
+		"sur_flow_5"		"8550.0"
+		"spawn_type1_5"		"1"
+		"spawn_type2_5"		"0"
+		"sur_flow_6"		"16000.0"
+	}
+	"c1m2_streets"
+	{
+		// FistSpawn Trigger
+		"min_trigger"		"160.0"
+		"max_trigger"		"240.0"
+		"trigger_type"		"0"
+		"map_ci"			"12"
+		"center_point"		"2321.27 4938.55 448.03"
+
+		// FirstSpawn Pos
+		"fs_minpos_1"		"1980.00 4716.81 704.03" // 右边屋顶
+		"fs_maxpos_1"		"1980.00 4902.20 704.03"
+		"fs_type_1"			"1"
+		"fs_select_1"		"0 4 2 8 6 7"
+
+		"fs_minpos_2"		"2076.67 4591.96 451.23" // 墙后
+		"fs_type_2"			"0"
+		"fs_select_2"		"0 3 0 0 2 3"
+
+		"fs_minpos_3"		"1695.15 4615.42 448.88" // 右边墙后
+		"fs_type_3"			"0"
+		"fs_select_3"		"2 0 5 0 0 0"
+
+		"fs_minpos_4"		"1731.89 4895.80 481.05" // 右边盆栽后
+		"fs_type_4"			"0"
+		"fs_select_4"		"2 0 0 0 2 0"
+
+		"fs_minpos_5"		"2605.22 4549.67 455.46" // 左边车厢侧边
+		"fs_type_5"			"0"
+		"fs_select_5"		"2 3 0 0 0 0"
+
+		"fs_minpos_6"		"2580.88 4218.15 659.06" // 左边车厢上方
+		"fs_type_6"			"0"
+		"fs_select_6"		"2 0 1 0 0 0"
+
+		"fs_minpos_7"		"2477.81 3964.71 524.17" // 左边车厢后方
+		"fs_type_7"			"0"
+		"fs_select_7"		"1 0 1 1 0 0"
+
+		"fs_minpos_8"		"2123.41 4024.80 517.79" // 对面车厢后方
+		"fs_type_8"			"0"
+		"fs_select_8"		"1 0 1 1 0 0"
+
+		// SurFlow Change Spwn Type
+		"sur_flow_1"		"1.0"
+		"spawn_type1_1"		"1"
+		"spawn_type2_1"		"0"
+		"sur_flow_2"		"4570.0"
+		"spawn_type1_2"		"2"
+		"spawn_type2_2"		"0"
+		"sur_flow_3"		"5220.0"
+		"spawn_type1_3"		"3"
+		"spawn_type2_3"		"0"
+		"sur_flow_4"		"7770.0"
+		"spawn_type1_4"		"2"
+		"spawn_type2_4"		"0"
+		"sur_flow_5"		"8100.0"
+		"spawn_type1_5"		"1"
+		"spawn_type2_5"		"0"
+		"sur_flow_6"		"12760.0"
+		"spawn_type1_6"		"2"
+		"spawn_type2_6"		"0"
+		"sur_flow_7"		"17890.0"
+		"spawn_type1_7"		"3"
+		"spawn_type2_7"		"0"
+		"sur_flow_8"		"20500.0"
+		"spawn_type1_8"		"2"
+		"spawn_type2_8"		"0"
+		"sur_flow_9"		"23500.0"
+		"spawn_type1_9"		"1"
+		"spawn_type2_9"		"0"
+		"sur_flow_10"		"30300.0"
+		"spawn_type1_10"	"1"
+		"spawn_type2_10"	"0"
+	}
+	"c1m3_mall"
+	{
+		// FistSpawn Trigger
+		"min_trigger"		"100.0"
+		"max_trigger"		"200.0"
+		"trigger_type"		"0"
+		"map_ci"			"13"
+		"center_point"		"6903.70 -1534.12 24.03"
+
+		// SurFlow Change Spwn Type
+		"sur_flow_1"		"1.0"
+		"spawn_type1_1"		"1"
+		"spawn_type2_1"		"1"
+		"sur_flow_2"		"1700.0"
+		"spawn_type1_2"		"2"
+		"spawn_type2_2"		"0"
+		"sur_flow_3"		"2250.0"
+		"spawn_type1_3"		"1"
+		"spawn_type2_3"		"2"
+		"sur_flow_4"		"5130.0"
+		"spawn_type1_4"		"1"
+		"spawn_type2_4"		"0"
+		"sur_flow_5"		"9300.0"
+		"spawn_type1_5"		"2"
+		"spawn_type2_5"		"2"
+		"sur_flow_6"		"9850.0"
+		"spawn_type1_6"		"3"
+		"spawn_type2_6"		"0"
+		"sur_flow_7"		"16500.0"
+		"spawn_type1_7"		"1"
+		"spawn_type2_7"		"2"
+		"sur_flow_8"		"20300.0"
+		"spawn_type1_8"		"1"
+		"spawn_type2_8"		"0"
+		"sur_flow_9"		"25280.0"
+		"spawn_type1_9"		"1"
+		"spawn_type2_9"		"2"
+		"sur_flow_10"		"28500.0"
+	}
+	"c1m4_atrium"
+	{
+		// FistSpawn Trigger
+		"min_trigger"		"160.0"
+		"max_trigger"		"220.0"
+		"trigger_type"		"2"
+		"map_ci"			"14"
+		"center_point"		"-2027.29 -4838.03 536.03"
+
+		// WaitSpawn Trigger
+		"wl_minpos_1"		"-4130.00 -3500.00 0.0"
+		"wl_maxpos_1"		"-3940.00 -3300.00 530.0"
+		"ws_mintrdist_1"	"10.0"
+		"ws_maxtrdist_1"	"30.0"
+		"ws_trtype_1"		"0"
+		"ws_cpoint_1"		"-3940.37 -3411.34 4.03"
+
+		// SurFlow Change Spwn Type
+		"sur_flow_1"		"1.0"
+		"spawn_type1_1"		"1"
+		"spawn_type2_1"		"2"
+		"sur_flow_2"		"5000.0"
+		"spawn_type1_2"		"1"
+		"spawn_type2_2"		"0"
+	}
+	"c2m1_highway"
+	{
+		// FistSpawn Trigger
+		"min_trigger"		"240.0"
+		"max_trigger"		"380.0"
+		"trigger_type"		"2"
+		"map_ci"			"21"
+		"center_point"		"9598.88 8194.93 -529.92"
+
+		// FirstSpawn Pos
+		"fs_minpos_1"		"9476.52 8549.59 -121.08" // 大广告牌高点
+		"fs_type_1"			"0"
+		"fs_select_1"		"0 8 0 3 4 6"
+
+		"fs_minpos_2"		"8769.70 8466.85 -579.44" // 警车后
+		"fs_type_2"			"0"
+		"fs_select_2"		"4 0 2 0 1 0"
+
+		"fs_minpos_3"		"8975.54 7990.87 -487.16" // 班车头
+		"fs_type_3"			"0"
+		"fs_select_3"		"0 0 0 0 2 2"
+
+		"fs_minpos_4"		"8724.98 7823.45 -291.87" // 小广告牌后
+		"fs_maxpos_4"		"8724.98 7943.42 -291.87"
+		"fs_type_4"			"1"
+		"fs_select_4"		"4 0 0 2 0 0"
+
+		"fs_minpos_5"		"8546.05 8725.85 -596.91" // 草丛里的树后
+		"fs_type_5"			"0"
+		"fs_select_5"		"2 2 7 3 3 2"
+
+		"fs_minpos_6"		"8372.76 8189.00 -570.58" // 公路旁树后
+		"fs_type_6"			"0"
+		"fs_select_6"		"0 0 1 2 0 0"
+
+		// SurFlow Change Spwn Type
+		"sur_flow_1"		"1.0"
+		"spawn_type1_1"		"1"
+		"spawn_type2_1"		"0"
+		"sur_flow_2"		"7770.0"
+		"spawn_type1_2"		"3"
+		"spawn_type2_2"		"0"
+		"sur_flow_3"		"10480.0"
+		"spawn_type1_3"		"1"
+		"spawn_type2_3"		"0"
+		"sur_flow_4"		"10600.0"
+		"spawn_type1_4"		"1"
+		"spawn_type2_4"		"2"
+		"sur_flow_5"		"17610.0"
+		"spawn_type1_5"		"2"
+		"spawn_type2_5"		"2"
+		"limit_pos_min_5"	"1166.50 3190.00 -626.00"
+		"limit_pos_max_5"	"2610.00 3195.00 -625.50"
+		"sur_flow_6"		"19820.0"
+		"spawn_type1_6"		"1"
+		"spawn_type2_6"		"0"
+		"sur_flow_7"		"23610.0"
+		"spawn_type1_7"		"2"
+		"spawn_type2_7"		"0"
+		"sur_flow_8"		"24100.0"
+		"spawn_type1_8"		"1"
+		"spawn_type2_8"		"0"
+		"sur_flow_9"		"26500.0"
+		"spawn_type1_9"		"1"
+		"spawn_type2_9"		"0"
+	}
+	"c2m2_fairgrounds"
+	{
+		// FistSpawn Trigger
+		"min_trigger"		"120.0"
+		"max_trigger"		"180.0"
+		"trigger_type"		"0"
+		"map_ci"			"22"
+		"center_point"		"1744.00 2748.00 4.51"
+
+		// FirstSpawn Pos
+		"fs_minpos_1"		"1564.65 2574.00 173.03" // 屋顶
+		"fs_maxpos_1"		"1692.00 2992.00 173.03"
+		"fs_type_1"			"1"
+		"fs_select_1"		"0 0 0 1 1 0"
+
+		"fs_minpos_2"		"1692.00 2574.00 173.03" // 屋顶前点
+		"fs_maxpos_2"		"1692.00 2992.00 173.03"
+		"fs_type_2"			"1"
+		"fs_select_2"		"0 1 1 0 4 1"
+
+		"fs_minpos_3"		"1564.65 2574.00 173.03" // 屋顶后点
+		"fs_maxpos_3"		"1564.65 2992.00 173.03"
+		"fs_type_3"			"1"
+		"fs_select_3"		"25 0 0 4 0 0"
+
+		"fs_minpos_4"		"1580.20 2371.71 128.01" // 高草丛
+		"fs_maxpos_4"		"1618.20 2371.71 128.01"
+		"fs_type_4"			"1"
+		"fs_select_4"		"15 0 0 0 0 0"
+
+		"fs_minpos_5"		"2446.15 1983.97 1.22" // 远处柱子处 *1
+		"fs_type_5"			"0"
+		"fs_select_5"		"2 0 0 0 0 0"
+
+		"fs_minpos_6"		"1645.63 1983.96 1.40" // 远处柱子处 *2
+		"fs_type_6"			"0"
+		"fs_select_6"		"2 0 0 0 0 0"
+
+		"fs_minpos_7"		"2059.82 1843.80 4.03" // 远处柱子处 *3
+		"fs_type_7"			"0"
+		"fs_select_7"		"2 0 0 0 0 0"
+
+		"fs_minpos_8"		"2323.01 1844.69 4.03" // 远处柱子处 *4
+		"fs_type_8"			"0"
+		"fs_select_8"		"2 0 0 0 0 0"
+
+		"fs_minpos_9"		"1794.58 1843.96 4.03" // 远处柱子处 *5
+		"fs_type_9"			"0"
+		"fs_select_9"		"2 0 0 0 0 0"
+
+		// SurFlow Change Spwn Type
+		"sur_flow_1"		"1.0"
+		"spawn_type1_1"		"0"
+		"spawn_type2_1"		"0"
+		"sur_flow_2"		"938.0"
+		"spawn_type1_2"		"2"
+		"spawn_type2_2"		"0"
+		"sur_flow_3"		"2000.0"
+		"spawn_type1_3"		"1"
+		"spawn_type2_3"		"0"
+		"sur_flow_4"		"4100.0"
+		"spawn_type1_4"		"2"
+		"spawn_type2_4"		"0"
+		"sur_flow_5"		"5460.0"
+		"spawn_type1_5"		"3"
+		"spawn_type2_5"		"1"
+		"sur_flow_6"		"8180.0"
+		"spawn_type1_6"		"2"
+		"spawn_type2_6"		"0"
+		"sur_flow_7"		"9150.0"
+		"spawn_type1_7"		"3"
+		"spawn_type2_7"		"0"
+		"sur_flow_8"		"10475.0"
+		"spawn_type1_8"		"0"
+		"spawn_type2_8"		"0"
+		"sur_flow_9"		"13800.0"
+		"spawn_type1_9"		"2"
+		"spawn_type2_9"		"0"
+		"sur_flow_10"		"15320.0"
+		"spawn_type1_10"	"1"
+		"spawn_type2_10"	"0"
+		"sur_flow_11"		"16200.0"
+		"spawn_type1_11"	"1"
+		"spawn_type2_11"	"2"
+		"sur_flow_12"		"18370.0"
+		"spawn_type1_12"	"0"
+		"spawn_type2_12"	"3"
+		"sur_flow_13"		"20180.0"
+		"spawn_type1_13"	"1"
+		"spawn_type2_13"	"2"
+		"sur_flow_14"		"21800.0"
+		"spawn_type1_14"	"2"
+		"spawn_type2_14"	"3"
+		"sur_flow_15"		"22880.0"
+		"spawn_type1_15"	"0"
+		"spawn_type2_15"	"1"
+		"sur_flow_16"		"24640.0"
+		"spawn_type1_16"	"2"
+		"spawn_type2_16"	"3"
+		"sur_flow_17"		"26680.0"
+		"spawn_type1_17"	"1"
+		"spawn_type2_17"	"3"
+		"sur_flow_18"		"28670.0"
+		"spawn_type1_18"	"1"
+		"spawn_type2_18"	"0"
+	}
+	"c2m3_coaster"
+	{
+		// FistSpawn Trigger
+		"min_trigger"		"700.0"
+		"max_trigger"		"815.0"
+		"trigger_type"		"2"
+		"map_ci"			"23"
+		"center_point"		"3850.00 2052.15 -63.96"
+
+		// FirstSpawn Pos
+		"fs_minpos_1"		"2911.96 1936.03 -7.96" // 左边墙后
+		"fs_type_1"			"0"
+		"fs_select_1"		"0 3 0 0 3 0"
+
+		"fs_minpos_2"		"2911.48 2236.56 -7.96" // 右边墙后
+		"fs_type_2"			"0"
+		"fs_select_2"		"0 2 4 0 4 0"
+
+		"fs_minpos_3"		"2671.99 1883.89 -7.96" // 左边小屋门处
+		"fs_type_3"			"0"
+		"fs_select_3"		"1 0 4 1 3 1"
+
+		"fs_minpos_4"		"2415.98 1929.14 35.28" // 左边远点墙后
+		"fs_type_4"			"0"
+		"fs_select_4"		"2 0 1 2 0 0"
+
+		"fs_minpos_5"		"2415.96 2170.36 35.28" // 右边远点墙后
+		"fs_type_5"			"0"
+		"fs_select_5"		"2 0 1 2 0 0"
+
+		// SurFlow Change Spwn Type
+		"sur_flow_1"		"1.0"
+		"spawn_type1_1"		"3"
+		"spawn_type2_1"		"0"
+		"sur_flow_2"		"1940.0"
+		"spawn_type1_2"		"1"
+		"spawn_type2_2"		"0"
+		"sur_flow_3"		"3940.0"
+		"spawn_type1_3"		"1"
+		"spawn_type2_3"		"1"
+		"sur_flow_4"		"4850.0"
+		"spawn_type1_4"		"1"
+		"spawn_type2_4"		"0"
+		"sur_flow_5"		"6300.0"
+		"spawn_type1_5"		"1"
+		"spawn_type2_5"		"0"
+		"sur_flow_6"		"9300.0"
+		"spawn_type1_6"		"4"
+		"spawn_type2_6"		"2"
+		"sur_flow_7"		"10430.0"
+		"spawn_type1_7"		"1"
+		"spawn_type2_7"		"0"
+		"sur_flow_8"		"13520.0"
+		"spawn_type1_8"		"2"
+		"spawn_type2_8"		"0"
+		"sur_flow_9"		"16000.0"
+		"spawn_type1_9"		"2"
+		"spawn_type2_9"		"0"
+		"sur_flow_10"		"18000.0"
+		"spawn_type1_10"	"3"
+		"spawn_type2_10"	"2"
+		"sur_flow_11"		"25480.0"
+		"spawn_type1_11"	"2"
+		"spawn_type2_11"	"0"
+		"sur_flow_12"		"27000.0"
+		"spawn_type1_12"	"1"
+		"spawn_type2_12"	"2"
+		"sur_flow_13"		"33000.0"
+		"spawn_type1_13"	"1"
+		"spawn_type2_13"	"0"
+	}
+	"c2m4_barns"
+	{
+		// FistSpawn Trigger
+		"min_trigger"		"160.0"
+		"max_trigger"		"360.0"
+		"trigger_type"		"0"
+		"map_ci"			"24"
+		"center_point"		"2864.59 3351.90 -187.96"
+
+		// FirstSpawn Pos
+		"fs_minpos_1"		"2890.00 3342.45 -3.96" // 屋顶
+		"fs_maxpos_1"		"2890.00 3589.88 -3.96"
+		"fs_type_1"			"1"
+		"fs_select_1"		"0 9 3 3 6 7"
+
+		"fs_minpos_2"		"3200.89 3101.36 -182.16" // 左边树后
+		"fs_type_2"			"0"
+		"fs_select_2"		"0 1 0 0 1 0"
+
+		"fs_minpos_3"		"3073.34 2783.96 -191.96" // 左边墙后
+		"fs_type_3"			"0"
+		"fs_select_3"		"0 0 2 2 0 2"
+
+		"fs_minpos_4"		"3137.37 2800.96 -39.96" // 左边顶上小广告牌后
+		"fs_type_4"			"0"
+		"fs_select_4"		"0 0 1 2 0 0"
+
+		"fs_minpos_5"		"2208.29 3329.21 -147.75" // 前方车厢掩体后
+		"fs_type_5"			"0"
+		"fs_select_5"		"5 0 2 2 2 1"
+
+		"fs_minpos_6"		"2334.06 2478.24 27.57" // 对面树上
+		"fs_type_6"			"0"
+		"fs_select_6"		"1 0 0 0 0 0"
+
+		"fs_minpos_7"		"2103.99 2965.85 -191.96" // 对面中间柱子后
+		"fs_type_7"			"0"
+		"fs_select_7"		"2 0 1 0 0 0"
+
+		"fs_minpos_8"		"2400.19 2540.00 -184.03" // 对面远点掩体后
+		"fs_type_8"			"0"
+		"fs_select_8"		"2 0 1 1 1 0"
+
+		// SurFlow Change Spwn Type
+		"sur_flow_1"		"1.0"
+		"spawn_type1_1"		"3"
+		"spawn_type2_1"		"0"
+		"sur_flow_2"		"2380.0"
+		"spawn_type1_2"		"1"
+		"spawn_type2_2"		"0"
+		"sur_flow_3"		"6160.0"
+		"spawn_type1_3"		"2"
+		"spawn_type2_3"		"0"
+		"sur_flow_4"		"6800.0"
+		"spawn_type1_4"		"1"
+		"spawn_type2_4"		"0"
+		"sur_flow_5"		"10000.0"
+		"spawn_type1_5"		"2"
+		"spawn_type2_5"		"0"
+		"sur_flow_6"		"11000.0"
+		"spawn_type1_6"		"1"
+		"spawn_type2_6"		"0"
+		"sur_flow_7"		"13330.0"
+		"spawn_type1_7"		"1"
+		"spawn_type2_7"		"2"
+		"sur_flow_8"		"16990.0"
+		"spawn_type1_8"		"1"
+		"spawn_type2_8"		"0"
+		"sur_flow_9"		"19000.0"
+		"spawn_type1_9"		"3"
+		"spawn_type2_9"		"1"
+		"sur_flow_10"		"22300.0"
+		"spawn_type1_10"	"1"
+		"spawn_type2_10"	"0"
+	}
+	"c2m5_concert"
+	{
+		// FistSpawn Trigger
+		"min_trigger"		"240.0"
+		"max_trigger"		"400.0"
+		"trigger_type"		"0"
+		"map_ci"			"25"
+		"center_point"		"-1089.26 2138.70 -255.96"
+
+		// FirstSpawn Pos
+		"fs_minpos_1"		"-1632.03 1948.03 -255.96" // 左边墙后
+		"fs_type_1"			"0"
+		"fs_select_1"		"3 1 1 0 1 1"
+
+		"fs_minpos_2"		"-1698.30 1822.05 -255.96" // 左边墙后远点
+		"fs_type_2"			"0"
+		"fs_select_2"		"0 0 0 1 0 0"
+
+		"fs_minpos_3"		"-1634.03 2316.26 -193.96" // 右边墙后
+		"fs_type_3"			"0"
+		"fs_select_3"		"3 1 1 0 1 1"
+
+		"fs_minpos_4"		"-1671.07 2453.40 -255.96" // 右边墙后远点
+		"fs_type_4"			"0"
+		"fs_select_4"		"0 0 0 1 0 0"
+
+		"fs_minpos_5"		"-1098.44 2482.48 -255.96" // 后方墙后
+		"fs_type_5"			"0"
+		"fs_select_5"		"0 3 0 0 0 0"
+
+		"fs_minpos_6"		"-773.39 2437.44 -255.96" // 后方远点墙后
+		"fs_type_6"			"0"
+		"fs_select_6"		"4 0 0 0 0 0"
+
+		// SurFlow Change Spwn Type
+		"sur_flow_1"		"1.0"
+		"spawn_type1_1"		"1"
+		"spawn_type2_1"		"1"
+		"sur_flow_2"		"3810.0"
+		"spawn_type1_2"		"1"
+		"spawn_type2_2"		"0"
+		"sur_flow_3"		"6000.0"
+		"spawn_type1_3"		"1"
+		"spawn_type2_3"		"0"
+	}
+	"c3m1_plankcountry"
+	{
+		// FistSpawn Trigger
+		"min_trigger"		"150.0"
+		"max_trigger"		"240.0"
+		"trigger_type"		"0"
+		"map_ci"			"31"
+		"center_point"		"-12481.68 10433.66 244.89"
+
+		// FirstSpawn Pos
+		"fs_minpos_1"		"-12696.90 10253.25 367.40" // 车厢头顶
+		"fs_maxpos_1"		"-12446.90 10705.25 367.40"
+		"fs_type_1"			"2"
+		"fs_select_1"		"4 5 8 1 5 1"
+
+		"fs_minpos_2"		"-12830.00 9934.00 365.75" // 右边车厢头顶
+		"fs_maxpos_2"		"-12794.00 10042.00 365.75"
+		"fs_type_2"			"2"
+		"fs_select_2"		"3 0 1 4 0 0"
+
+		"fs_minpos_3"		"-12064.00 10147.80 168.85" // 车后
+		"fs_maxpos_3"		"-11989.00 10227.75 168.85"
+		"fs_type_3"			"2"
+		"fs_select_3"		"0 0 0 0 1 1"
+
+		"fs_minpos_4"		"-12550.73 9976.07 178.14" // 右边草丛后
+		"fs_type_4"			"0"
+		"fs_select_4"		"0 4 0 0 4 0"
+
+		"fs_minpos_5"		"-11564.68 10768.03 192.03" // 左边远点墙后
+		"fs_type_5"			"0"
+		"fs_select_5"		"1 0 0 0 0 0"
+
+		"fs_minpos_6"		"-11818.74 10216.82 592.76" // 电线杆上
+		"fs_type_6"			"0"
+		"fs_select_6"		"1 1 0 0 0 0"
+
+		"fs_minpos_7"		"-11816.50 10214.90 159.98" // 电线杆后
+		"fs_type_7"			"0"
+		"fs_select_7"		"1 0 1 0 0 0"
+
+		// WaitSpawn Trigger
+		"wl_minpos_1"		"-5150.0 5920.0 0.0"
+		"wl_maxpos_1"		"-4320.0 6200.0 300.0"
+		"ws_mintrdist_1"	"140.0"
+		"ws_maxtrdist_1"	"300.0"
+		"ws_trtype_1"		"0"
+		"ws_cpoint_1"		"-4353.93 6059.06 -1.83"
+
+		// SurFlow Change Spwn Type
+		"sur_flow_1"		"1.0"
+		"spawn_type1_1"		"1"
+		"spawn_type2_1"		"0"
+		"sur_flow_2"		"1520.0"
+		"spawn_type1_2"		"2"
+		"spawn_type2_2"		"0"
+		"sur_flow_3"		"2220.0"
+		"spawn_type1_3"		"1"
+		"spawn_type2_3"		"0"
+		"sur_flow_4"		"6480.0"
+		"spawn_type1_4"		"2"
+		"spawn_type2_4"		"0"
+		"sur_flow_5"		"8650.0"
+		"spawn_type1_5"		"1"
+		"spawn_type2_5"		"0"
+		"sur_flow_6"		"9990.0"
+		"spawn_type1_6"		"1"
+		"spawn_type2_6"		"0"
+		"sur_flow_7"		"15800.0"
+		"spawn_type1_7"		"2"
+		"spawn_type2_7"		"2"
+		"sur_flow_8"		"16800.0"
+		"spawn_type1_8"		"1"
+		"spawn_type2_8"		"0"
+		"sur_flow_9"		"22000.0"
+		"spawn_type1_9"		"1"
+		"spawn_type2_9"		"0"
+	}
+	"c3m2_swamp"
+	{
+		// FistSpawn Trigger
+		"min_trigger"		"160.0"
+		"max_trigger"		"230.0"
+		"trigger_type"		"0"
+		"map_ci"			"32"
+		"center_point"		"-8177.48 7262.82 12.03"
+
+		// FirstSpawn Pos
+		"fs_minpos_1"		"-7704.90 7134.69 -30.77" // 左边靠墙前点
+		"fs_type_1"			"0"
+		"fs_select_1"		"0 3 7 0 3 0"
+
+		"fs_minpos_2"		"-8419.61 6844.87 9.68" // 石头后方
+		"fs_type_2"			"0"
+		"fs_select_2"		"0 5 0 0 3 5"
+
+		"fs_minpos_3"		"-7813.57 6652.55 -31.96" // 左边树1后
+		"fs_type_3"			"0"
+		"fs_select_3"		"5 0 2 0 0 0"
+
+		"fs_minpos_4"		"-7690.81 6397.81 -31.96" // 左边树2后
+		"fs_type_4"			"0"
+		"fs_select_4"		"2 0 0 3 0 0"
+
+		"fs_minpos_5"		"-8394.95 6721.08 6.83" // 右边树1后
+		"fs_type_5"			"0"
+		"fs_select_5"		"0 2 0 0 3 4"
+
+		"fs_minpos_6"		"-8549.08 6724.39 16.03" // 右边树2后
+		"fs_type_6"			"0"
+		"fs_select_6"		"0 0 0 0 1 1"
+
+		"fs_minpos_7"		"-8320.66 6533.93 -9.72" // 右边树3后
+		"fs_type_7"			"0"
+		"fs_select_7"		"3 0 1 2 0 0"
+
+		// SurFlow Change Spwn Type
+		"sur_flow_1"		"1.0"
+		"spawn_type1_1"		"1"
+		"spawn_type2_1"		"0"
+		"sur_flow_2"		"6300.0"
+		"spawn_type1_2"		"1"
+		"spawn_type2_2"		"0"
+		"sur_flow_3"		"8780.0"
+		"spawn_type1_3"		"2"
+		"spawn_type2_3"		"0"
+		"sur_flow_4"		"9470.0"
+		"spawn_type1_4"		"1"
+		"spawn_type2_4"		"2"
+		"sur_flow_5"		"10500.0"
+		"spawn_type1_5"		"1"
+		"spawn_type2_5"		"0"
+		"sur_flow_6"		"16780.0"
+		"spawn_type1_6"		"1"
+		"spawn_type2_6"		"0"
+		"sur_flow_7"		"20000.0"
+		"spawn_type1_7"		"1"
+		"spawn_type2_7"		"0"
+		"sur_flow_8"		"23100.0"
+		"spawn_type1_8"		"1"
+		"spawn_type2_8"		"0"
+	}
+	"c3m3_shantytown"
+	{
+		// FistSpawn Trigger
+		"min_trigger"		"280.0"
+		"max_trigger"		"380.0"
+		"trigger_type"		"0"
+		"map_ci"			"33"
+		"center_point"		"-5643.40 1975.90 137.03"
+
+		// FirstSpawn Pos
+		"fs_minpos_1"		"-5967.83 2210.20 310.27" // 屋顶
+		"fs_maxpos_1"		"-5631.88 2210.20 310.27"
+		"fs_type_1"			"1"
+		"fs_select_1"		"1 0 2 0 3 0"
+
+		"fs_minpos_2"		"-5120.16 1602.96 128.03" // 左边白车后
+		"fs_type_2"			"0"
+		"fs_select_2"		"0 0 2 0 2 3"
+
+		"fs_minpos_3"		"-5970.18 1265.94 128.03" // 右边树后
+		"fs_type_3"			"0"
+		"fs_select_3"		"0 0 3 0 3 0"
+
+		"fs_minpos_4"		"-5260.78 1147.02 133.64" // 对面树后
+		"fs_type_4"			"0"
+		"fs_select_4"		"2 9 3 2 2 7"
+
+		"fs_minpos_5"		"-4999.52 1475.47 159.03" // 左边白柱子后(前点)
+		"fs_type_5"			"0"
+		"fs_select_5"		"1 0 0 0 0 0"
+
+		"fs_minpos_6"		"-4995.18 1290.27 159.03" // 左边白柱子后(后点)
+		"fs_type_6"			"0"
+		"fs_select_6"		"1 0 0 0 0 0"
+
+		"fs_minpos_7"		"-5060.09 1990.68 128.03" // 左边铁丝网后
+		"fs_type_7"			"0"
+		"fs_select_7"		"1 0 0 0 0 0"
+
+		"fs_minpos_8"		"-5056.83 1916.29 560.81" // 左边电线杆上
+		"fs_type_8"			"0"
+		"fs_select_8"		"1 1 0 0 0 0"
+
+		"fs_minpos_9"		"-4681.83 1446.35 363.65" // 左边房顶
+		"fs_type_9"			"0"
+		"fs_select_9"		"2 0 0 8 0 0"
+
+		"fs_minpos_10"		"-4763.49 1078.97 331.45" // 左边蓝布上
+		"fs_type_10"		"0"
+		"fs_select_10"		"1 0 0 0 0 0"
+
+		// SurFlow Change Spwn Type
+		"sur_flow_1"		"1.0"
+		"spawn_type1_1"		"1"
+		"spawn_type2_1"		"0"
+		"sur_flow_2"		"4200.0"
+		"spawn_type1_2"		"0"
+		"spawn_type2_2"		"0"
+		"sur_flow_3"		"8200.0"
+		"spawn_type1_3"		"1"
+		"spawn_type2_3"		"0"
+		"sur_flow_4"		"11550.0"
+		"spawn_type1_4"		"1"
+		"spawn_type2_4"		"2"
+		"sur_flow_5"		"14000.0"
+		"spawn_type1_5"		"1"
+		"spawn_type2_5"		"0"
+		"sur_flow_6"		"16300.0"
+		"spawn_type1_6"		"2"
+		"spawn_type2_6"		"2"
+		"sur_flow_7"		"18400.0"
+		"spawn_type1_7"		"1"
+		"spawn_type2_7"		"0"
+	}
+	"c3m4_plantation"
+	{
+		// FistSpawn Trigger
+		"min_trigger"		"120.0"
+		"max_trigger"		"200.0"
+		"trigger_type"		"0"
+		"map_ci"			"34"
+		"center_point"		"-4873.69 -1675.66 -96.18"
+
+		// FirstSpawn Pos
+		"fs_minpos_1"		"-4695.43 -2006.41 -84.71" // 右边草丛后
+		"fs_type_1"			"0"
+		"fs_select_1"		"0 6 2 0 4 2"
+
+		"fs_minpos_2"		"-4048.30 -1900.58 -85.04" // 对面三棵小树后
+		"fs_type_2"			"0"
+		"fs_select_2"		"7 0 0 5 0 0"
+
+		"fs_minpos_3"		"-4528.15 -1348.93 -59.94" // 左边草丛后(前点)
+		"fs_type_3"			"0"
+		"fs_select_3"		"0 0 3 0 5 3"
+
+		"fs_minpos_4"		"-4216.47 -1330.74 -90.41" // 左边草丛后(后点)
+		"fs_type_4"			"0"
+		"fs_select_4"		"2 1 0 5 0 0"
+
+		"fs_minpos_5"		"-4646.60 -2012.43 239.33" // 右边树上
+		"fs_type_5"			"0"
+		"fs_select_5"		"1 3 0 0 1 0"
+
+		// SurFlow Change Spwn Type
+		"sur_flow_1"		"1.0"
+		"spawn_type1_1"		"1"
+		"spawn_type2_1"		"0"
+		"sur_flow_2"		"2290.0"
+		"spawn_type1_2"		"2"
+		"spawn_type2_2"		"0"
+		"sur_flow_3"		"3450.0"
+		"spawn_type1_3"		"1"
+		"spawn_type2_3"		"0"
+		"sur_flow_4"		"5530.0"
+		"spawn_type1_4"		"1"
+		"spawn_type2_4"		"0"
+		"sur_flow_5"		"11250.0"
+		"spawn_type1_5"		"2"
+		"spawn_type2_5"		"0"
+		"sur_flow_6"		"12840.0"
+		"spawn_type1_6"		"1"
+		"spawn_type2_6"		"0"
+		"sur_flow_7"		"14200.0"
+		"spawn_type1_7"		"1"
+		"spawn_type2_7"		"0"
+	}
+	"c4m1_milltown_a"
+	{
+		// FistSpawn Trigger
+		"min_trigger"		"30.0"
+		"max_trigger"		"40.0"
+		"trigger_type"		"0"
+		"map_ci"			"41"
+		"center_point"		"-6365.32 7453.37 104.03"
+
+		// SurFlow Change Spwn Type
+		"sur_flow_1"		"1.0"
+		"spawn_type1_1"		"2"
+		"spawn_type2_1"		"0"
+		"sur_flow_2"		"1850.0"
+		"spawn_type1_2"		"1"
+		"spawn_type2_2"		"0"
+		"sur_flow_3"		"3660.0"
+		"spawn_type1_3"		"2"
+		"spawn_type2_3"		"0"
+		"sur_flow_4"		"4600.0"
+		"spawn_type1_4"		"0"
+		"spawn_type2_4"		"0"
+		"sur_flow_5"		"7100.0"
+		"spawn_type1_5"		"2"
+		"spawn_type2_5"		"0"
+		"sur_flow_6"		"10770.0"
+		"spawn_type1_6"		"1"
+		"spawn_type2_6"		"0"
+		"sur_flow_7"		"12280.0"
+		"spawn_type1_7"		"2"
+		"spawn_type2_7"		"0"
+		"sur_flow_8"		"13810.0"
+		"spawn_type1_8"		"2"
+		"spawn_type2_8"		"0"
+		"sur_flow_9"		"18000.0"
+		"spawn_type1_9"		"1"
+		"spawn_type2_9"		"0"
+	}
+	"c4m2_sugarmill_a"
+	{
+		// FistSpawn Trigger
+		"min_trigger"		"120.0"
+		"max_trigger"		"170.0"
+		"trigger_type"		"4"
+		"map_ci"			"42"
+		"center_point"		"3562.44 -2420.00 104.53"
+
+		// WaitSpawn Trigger
+		"wl_minpos_1"		"-1520.00 -9590.00 120.00"
+		"wl_maxpos_1"		"-1420.00 -9500.00 620.00"
+		"ws_mintrdist_1"	"400.0"
+		"ws_maxtrdist_1"	"600.0"
+		"ws_trtype_1"		"4"
+		"ws_cpoint_1"		"-865.46 -10065.63 97.29"
+
+		// FirstSpawn Pos
+		"fs_minpos_1"		"3799.10 -2358.19 493.86" // 屋顶 *1
+		"fs_type_1"			"0"
+		"fs_select_1"		"0 1 0 4 4 1"
+
+		"fs_minpos_2"		"3634.39 -2347.94 485.43" // 屋顶 *2
+		"fs_type_2"			"0"
+		"fs_select_2"		"0 1 0 4 4 1"
+
+		"fs_minpos_3"		"4180.87 -3046.66 109.28" // 左侧对面车后
+		"fs_type_3"			"0"
+		"fs_select_3"		"6 0 16 0 1 0"
+
+		"fs_minpos_4"		"4048.34 -3159.85 116.28" // 对面一楼墙后 *1
+		"fs_type_4"			"0"
+		"fs_select_4"		"1 0 0 0 0 0"
+
+		"fs_minpos_5"		"3919.25 -3178.35 116.28" // 对面一楼墙后 *2
+		"fs_type_5"			"0"
+		"fs_select_5"		"1 0 0 0 0 0"
+
+		"fs_minpos_6"		"3659.27 -3159.90 248.28" // 对面二楼墙后 *1
+		"fs_type_6"			"0"
+		"fs_select_6"		"1 0 0 0 0 0"
+
+		"fs_minpos_7"		"3784.74 -3168.28 248.28" // 对面二楼墙后 *2
+		"fs_type_7"			"0"
+		"fs_select_7"		"1 0 0 0 0 0"
+
+		"fs_minpos_8"		"3918.26 -3171.05 248.28" // 对面二楼墙后 *3
+		"fs_type_8"			"0"
+		"fs_select_8"		"1 0 0 0 0 0"
+
+		"fs_minpos_9"		"4038.06 -3167.71 248.28" // 对面二楼墙后 *4
+		"fs_type_9"			"0"
+		"fs_select_9"		"1 0 0 0 0 0"
+
+		"fs_minpos_10"		"3447.79 -3260.56 406.51" // 对面三楼 *1
+		"fs_type_10"		"0"
+		"fs_select_10"		"2 0 1 1 0 0"
+
+		"fs_minpos_11"		"4175.35 -3234.42 406.51" // 对面三楼 *2
+		"fs_type_11"		"0"
+		"fs_select_11"		"2 0 1 1 0 0"
+
+		"fs_minpos_12"		"2947.96 -2966.19 98.36" // 右侧栅栏后草丛里
+		"fs_type_12"		"0"
+		"fs_select_12"		"2 0 0 0 0 0"
+
+		"fs_minpos_13"		"2603.03 -2671.01 103.62" // 右侧栅栏外白车后
+		"fs_type_13"		"0"
+		"fs_select_13"		"2 0 0 0 0 0"
+
+		"fs_minpos_14"		"3175.27 -3043.74 1164.28" // 右侧柱子顶端
+		"fs_type_14"		"0"
+		"fs_select_14"		"0 0 2 0 1 0"
+
+		// SurFlow Change Spwn Type
+		"sur_flow_1"		"1.0"
+		"spawn_type1_1"		"2"
+		"spawn_type2_1"		"0"
+		"sur_flow_2"		"4050.0"
+		"spawn_type1_2"		"1"
+		"spawn_type2_2"		"0"
+		"sur_flow_3"		"5060.0"
+		"spawn_type1_3"		"2"
+		"spawn_type2_3"		"0"
+		"sur_flow_4"		"7560.0"
+		"spawn_type1_4"		"1"
+		"spawn_type2_4"		"0"
+		"sur_flow_5"		"9720.0"
+		"spawn_type1_5"		"2"
+		"spawn_type2_5"		"0"
+		"sur_flow_6"		"12835.0"
+		"spawn_type1_6"		"1"
+		"spawn_type2_6"		"0"
+		"sur_flow_7"		"14610.0"
+		"spawn_type1_7"		"0"
+		"spawn_type2_7"		"0"
+		"sur_flow_8"		"16800.0"
+		"spawn_type1_8"		"1"
+		"spawn_type2_8"		"0"
+		"sur_flow_9"		"18900.0"
+		"spawn_type1_9"		"1"
+		"spawn_type2_9"		"2"
+		"sur_flow_10"		"20630.0"
+		"spawn_type1_10"	"1"
+		"spawn_type2_10"	"0"
+		"sur_flow_11"		"24910.0"
+		"spawn_type1_11"	"2"
+		"spawn_type2_11"	"0"
+		"sur_flow_12"		"25500.0"
+		"spawn_type1_12"	"1"
+		"spawn_type2_12"	"1"
+		"sur_flow_13"		"26100.0"
+		"spawn_type1_13"	"1"
+		"spawn_type2_13"	"0"
+	}
+	"c4m3_sugarmill_b"
+	{
+		// FistSpawn Trigger
+		"min_trigger"		"20.0"
+		"max_trigger"		"40.0"
+		"trigger_type"		"0"
+		"map_ci"			"43"
+		"center_point"		"-1733.30 -13584.75 130.03"
+
+		// FirstSpawn Pos
+		"fs_minpos_1"		"-1589.43 -13685.05 130.03" // 右边屋里
+		"fs_type_1"			"0"
+		"fs_select_1"		"0 1 1 1 1 1"
+
+		"fs_minpos_2"		"-1390.96 -13251.53 120.37" // 屋外墙边(左边)
+		"fs_type_2"			"0"
+		"fs_select_2"		"1 0 0 0 0 0"
+
+		"fs_minpos_3"		"-1262.96 -13399.36 121.22" // 屋外墙边(中间)
+		"fs_type_3"			"0"
+		"fs_select_3"		"1 0 0 0 0 0"
+
+		"fs_minpos_4"		"-1232.51 -13527.00 120.60" // 屋外墙边(右边)
+		"fs_type_4"			"0"
+		"fs_select_4"		"1 0 0 0 0 0"
+
+		// WaitSpawn Trigger
+		"wl_minpos_1"		"-1520.00 -9590.00 200.00"
+		"wl_maxpos_1"		"-1420.00 -9500.00 640.00"
+		"ws_mintrdist_1"	"40.0"
+		"ws_maxtrdist_1"	"45.0"
+		"ws_trtype_1"		"0"
+		"ws_cpoint_1"		"-1461.97 -9475.93 624.03"
+
+		// SurFlow Change Spwn Type
+		"sur_flow_1"		"1.0"
+		"spawn_type1_1"		"2"
+		"spawn_type2_1"		"0"
+		"sur_flow_2"		"1040.0"
+		"spawn_type1_2"		"1"
+		"spawn_type2_2"		"0"
+		"sur_flow_3"		"4930.0"
+		"spawn_type1_3"		"1"
+		"spawn_type2_3"		"2"
+		"sur_flow_4"		"7160.0"
+		"spawn_type1_4"		"2"
+		"spawn_type2_4"		"0"
+		"sur_flow_5"		"8720.0"
+		"spawn_type1_5"		"1"
+		"spawn_type2_5"		"2"
+		"sur_flow_6"		"10600.0"
+		"spawn_type1_6"		"1"
+		"spawn_type2_6"		"0"
+		"sur_flow_7"		"15730.0"
+		"spawn_type1_7"		"2"
+		"spawn_type2_7"		"0"
+		"sur_flow_8"		"18660.0"
+		"spawn_type1_8"		"4"
+		"spawn_type2_8"		"0"
+		"sur_flow_9"		"19600.0"
+		"spawn_type1_9"		"1"
+		"spawn_type2_9"		"0"
+		"sur_flow_10"		"21800.0"
+		"spawn_type1_10"	"1"
+		"spawn_type2_10"	"0"
+	}
+	"c4m4_milltown_b"
+	{
+		// FistSpawn Trigger
+		"min_trigger"		"215.0"
+		"max_trigger"		"300.0"
+		"trigger_type"		"0"
+		"map_ci"			"44"
+		"center_point"		"3981.21 -1369.23 232.28"
+
+		// FirstSpawn Pos
+		"fs_minpos_1"		"4082.70 -1472.73 483.27" // 屋顶 *1
+		"fs_type_1"			"0"
+		"fs_select_1"		"3 3 3 1 3 5"
+
+		"fs_minpos_2"		"3931.83 -1525.89 500.72" // 屋顶 *2
+		"fs_type_2"			"0"
+		"fs_select_2"		"3 3 3 1 3 5"
+
+		"fs_minpos_3"		"3458.53 -1679.47 109.51" // 左侧草丛里
+		"fs_type_3"			"0"
+		"fs_select_3"		"0 2 4 0 2 6"
+
+		"fs_minpos_4"		"3137.01 -1406.59 104.50" // 左侧白车后 *1
+		"fs_type_4"			"0"
+		"fs_select_4"		"3 0 0 0 0 0"
+
+		"fs_minpos_5"		"3080.46 -1320.64 103.20" // 左侧白车后 *2
+		"fs_type_5"			"0"
+		"fs_select_5"		"3 0 0 0 0 0"
+
+		"fs_minpos_6"		"3307.39 -830.34 108.32" // 对面蓝车后
+		"fs_type_6"			"0"
+		"fs_select_6"		"6 0 4 0 0 0"
+
+		"fs_minpos_7"		"3867.52 -772.04 99.92" // 对面墙后
+		"fs_type_7"			"0"
+		"fs_select_7"		"0 2 6 0 2 4"
+
+		"fs_minpos_8"		"3511.96 -368.47 98.07" // 对面远点墙后
+		"fs_type_8"			"0"
+		"fs_select_8"		"2 0 0 0 0 0"
+
+		// SurFlow Change Spwn Type
+		"sur_flow_1"		"1.0"
+		"spawn_type1_1"		"1"
+		"spawn_type2_1"		"2"
+		"sur_flow_2"		"3150.0"
+		"spawn_type1_2"		"1"
+		"spawn_type2_2"		"0"
+		"sur_flow_3"		"4400.0"
+		"spawn_type1_3"		"2"
+		"spawn_type2_3"		"2"
+		"sur_flow_4"		"5850.0"
+		"spawn_type1_4"		"1"
+		"spawn_type2_4"		"0"
+		"sur_flow_5"		"7310.0"
+		"spawn_type1_5"		"2"
+		"spawn_type2_5"		"2"
+		"sur_flow_6"		"10830.0"
+		"spawn_type1_6"		"1"
+		"spawn_type2_6"		"0"
+		"sur_flow_7"		"13700.0"
+		"spawn_type1_7"		"1"
+		"spawn_type2_7"		"0"
+	}
+	"c4m5_milltown_escape"
+	{
+		// FistSpawn Trigger
+		"min_trigger"		"120.0"
+		"max_trigger"		"150.0"
+		"trigger_type"		"0"
+		"map_ci"			"45"
+		"center_point"		"-3676.66 7810.30 120.03"
+
+		// FirstSpawn Pos
+		"fs_minpos_1"		"-3440.67 7497.56 96.03" // 左侧白色房车后
+		"fs_type_1"			"0"
+		"fs_select_1"		"0 1 3 0 5 6"
+
+		"fs_minpos_2"		"-3516.68 7364.43 102.03" // 左侧木栅栏后
+		"fs_type_2"			"0"
+		"fs_select_2"		"3 0 2 6 1 1"
+
+		"fs_minpos_3"		"-3802.88 6883.18 120.41" // 对面树后
+		"fs_type_3"			"0"
+		"fs_select_3"		"4 0 0 1 0 0"
+
+		"fs_minpos_4"		"-4459.71 7982.96 285.19" // 对面屋顶
+		"fs_type_4"			"0"
+		"fs_select_4"		"3 0 2 1 0 0"
+
+		"fs_minpos_5"		"-3712.01 8112.70 254.79" // 后方屋顶
+		"fs_type_5"			"0"
+		"fs_select_5"		"0 1 0 0 3 3"
+
+		"fs_minpos_6"		"-3654.24 8176.00 100.08" // 后方墙后
+		"fs_type_6"			"0"
+		"fs_select_6"		"0 0 3 2 1 0"
+
+		// SurFlow Change Spwn Type
+		"sur_flow_1"		"1.0"
+		"spawn_type1_1"		"1"
+		"spawn_type2_1"		"0"
+		"sur_flow_2"		"4000.0"
+		"spawn_type1_2"		"1"
+		"spawn_type2_2"		"0"
+	}
+	"c5m1_waterfront"
+	{
+		// FistSpawn Trigger
+		"min_trigger"		"160.0"
+		"max_trigger"		"220.0"
+		"trigger_type"		"2"
+		"map_ci"			"51"
+		"center_point"		"592.68 -32.44 -375.96"
+
+		// FirstSpawn Pos
+		"fs_minpos_1"		"245.0 300.0 -136.0" // 右边屋顶
+		"fs_maxpos_1"		"345.0 300.0 -83.5"
+		"fs_type_1"			"3"
+		"fs_select_1"		"4 4 14 1 6 18"
+
+		"fs_minpos_2"		"349.31 -417.21 -195.96" // 左边屋顶空调机后 *1
+		"fs_type_2"			"0"
+		"fs_select_2"		"3 3 3 0 4 1"
+
+		"fs_minpos_3"		"686.74 -413.11 -195.96" // 左边屋顶空调机后 *2
+		"fs_type_3"			"0"
+		"fs_select_3"		"3 3 3 0 4 1"
+
+		"fs_minpos_4"		"262.66 -377.51 -367.96" // 左右两掩体后 *1
+		"fs_type_4"			"0"
+		"fs_select_4"		"5 0 0 0 3 0"
+
+		"fs_minpos_5"		"88.05 327.28 -367.96" // 左右两掩体后 *2
+		"fs_type_5"			"0"
+		"fs_select_5"		"5 0 0 3 0 0"
+
+		// SurFlow Change Spwn Type
+		"sur_flow_1"		"1.0"
+		"spawn_type1_1"		"2"
+		"spawn_type2_1"		"0"
+		"sur_flow_2"		"1250.0"
+		"spawn_type1_2"		"1"
+		"spawn_type2_2"		"1"
+		"sur_flow_3"		"2340.0"
+		"spawn_type1_3"		"2"
+		"spawn_type2_3"		"0"
+		"sur_flow_4"		"7200.0"
+		"spawn_type1_4"		"1"
+		"spawn_type2_4"		"0"
+		"sur_flow_5"		"8320.0"
+		"spawn_type1_5"		"2"
+		"spawn_type2_5"		"0"
+		"sur_flow_6"		"10010.0"
+		"spawn_type1_6"		"1"
+		"spawn_type2_6"		"0"
+	}
+	"c5m2_park"
+	{
+		// FistSpawn Trigger
+		"min_trigger"		"220.0"
+		"max_trigger"		"225.0"
+		"trigger_type"		"0"
+		"map_ci"			"52"
+		"center_point"		"-3762.43 -1368.90 -343.96"
+
+		// FirstSpawn Pos
+		"fs_minpos_1"		"-3767.36 -1174.44 12.15" // 屋顶高点1
+		"fs_type_1"			"0"
+		"fs_select_1"		"0 1 0 3 1 1"
+
+		"fs_minpos_2"		"-3808.31 -1382.66 40.41" // 屋顶高点2
+		"fs_type_2"			"0"
+		"fs_select_2"		"0 1 0 2 1 1"
+
+		"fs_minpos_3"		"-3277.05 -1500.43 -375.96" // 白色面包车
+		"fs_type_3"			"0"
+		"fs_select_3"		"0 2 2 0 1 2"
+
+		"fs_minpos_4"		"-3863.74 -1626.65 -343.33" // 侧墙
+		"fs_type_4"			"0"
+		"fs_select_4"		"0 2 2 0 1 1"
+
+		"fs_minpos_5"		"-3590.61 -1842.67 -373.86" // 近点黄车 *Duck
+		"fs_type_5"			"0"
+		"fs_select_5"		"3 1 1 0 1 0"
+
+		"fs_minpos_6"		"-3391.66 -2197.41 -379.96" // 远点警车
+		"fs_type_6"			"0"
+		"fs_select_6"		"1 0 0 0 0 0"
+
+		"fs_minpos_7"		"-3160.18 -2064.03 -215.96" // 远二楼
+		"fs_type_7"			"0"
+		"fs_select_7"		"1 0 0 0 0 0"
+
+		"fs_minpos_8"		"-3197.64 -2079.57 -29.81" // 远三楼
+		"fs_type_8"			"0"
+		"fs_select_8"		"2 0 0 3 0 0"
+
+		"fs_minpos_9"		"-3113.00 -1039.99 -49.28" // 后面对楼高点
+		"fs_type_9"			"0"
+		"fs_select_9"		"3 0 0 2 0 0"
+
+		"fs_minpos_10"		"-3805.10 -1112.03 -375.96" // 后点
+		"fs_type_10"		"0"
+		"fs_select_10"		"0 3 0 0 0 0"
+
+		// SurFlow Change Spwn Type
+		"sur_flow_1"		"1.0"
+		"spawn_type1_1"		"2"
+		"spawn_type2_1"		"0"
+		"sur_flow_2"		"500.0"
+		"spawn_type1_2"		"1"
+		"spawn_type2_2"		"2"
+		"sur_flow_3"		"2900.0"
+		"spawn_type1_3"		"1"
+		"spawn_type2_3"		"0"
+		"sur_flow_4"		"4500.0"
+		"spawn_type1_4"		"2"
+		"spawn_type2_4"		"0"
+		"sur_flow_5"		"5220.0"
+		"spawn_type1_5"		"0"
+		"spawn_type2_5"		"0"
+		"sur_flow_6"		"6140.0"
+		"spawn_type1_6"		"3"
+		"spawn_type2_6"		"0"
+		"sur_flow_7"		"8220.0"
+		"spawn_type1_7"		"2"
+		"spawn_type2_7"		"0"
+		"sur_flow_8"		"15620.0"
+		"spawn_type1_8"		"1"
+		"spawn_type2_8"		"0"
+		"sur_flow_9"		"19110.0"
+		"spawn_type1_9"		"2"
+		"spawn_type2_9"		"0"
+		"sur_flow_10"		"21500.0"
+		"spawn_type1_10"	"1"
+		"spawn_type2_10"	"1"
+		"sur_flow_11"		"24000.0"
+		"spawn_type1_11"	"2"
+		"spawn_type2_11"	"3"
+		"sur_flow_12"		"26400.0"
+		"spawn_type1_12"	"1"
+		"spawn_type2_12"	"0"
+	}
+	"c5m3_cemetery"
+	{
+		// FistSpawn Trigger
+		"min_trigger"		"240.0"
+		"max_trigger"		"420.0"
+		"trigger_type"		"0"
+		"map_ci"			"53"
+		"center_point"		"6217.66 8346.22 0.03"
+
+		// FirstSpawn Pos
+		"fs_minpos_1"		"6242.00 7952.00 310.00" // 屋顶高桥
+		"fs_maxpos_1"		"6242.00 8452.00 340.00"
+		"fs_type_1"			"4"
+		"fs_select_1"		"4 3 2 7 8 8"
+
+		"fs_minpos_2"		"5735.00 7954.00 267.00" // 对面高桥
+		"fs_maxpos_2"		"5735.00 8454.00 297.00"
+		"fs_type_2"			"4"
+		"fs_select_2"		"0 2 0 3 10 10"
+
+		"fs_minpos_3"		"5615.75 8623.62 114.39" // 右边栅栏外掩体后
+		"fs_type_3"			"0"
+		"fs_select_3"		"6 0 0 0 0 0"
+
+		"fs_minpos_4"		"6154.59 7775.78 208.03" // 左边高点桥柱后
+		"fs_type_4"			"0"
+		"fs_select_4"		"4 0 0 0 0 0"
+
+		"fs_minpos_5"		"5804.77 7660.58 11.48" // 左边低点桥柱后 1*
+		"fs_type_5"			"0"
+		"fs_select_5"		"3 0 4 0 1 1"
+
+		"fs_minpos_6"		"5617.05 7663.66 23.97" // 左边低点桥柱后 2*
+		"fs_type_6"			"0"
+		"fs_select_6"		"3 0 4 0 1 1"
+
+		// SurFlow Change Spwn Type
+		"sur_flow_1"		"1.0"
+		"spawn_type1_1"		"2"
+		"spawn_type2_1"		"0"
+		"sur_flow_2"		"2000.0"
+		"spawn_type1_2"		"1"
+		"spawn_type2_2"		"2"
+		"sur_flow_3"		"6250.0"
+		"spawn_type1_3"		"2"
+		"spawn_type2_3"		"0"
+		"sur_flow_4"		"8800.0"
+		"spawn_type1_4"		"1"
+		"spawn_type2_4"		"2"
+		"sur_flow_5"		"11250.0"
+		"spawn_type1_5"		"2"
+		"spawn_type2_5"		"2"
+		"sur_flow_6"		"12730.0"
+		"spawn_type1_6"		"1"
+		"spawn_type2_6"		"0"
+		"sur_flow_7"		"14100.0"
+		"spawn_type1_7"		"2"
+		"spawn_type2_7"		"0"
+		"sur_flow_8"		"15300.0"
+		"spawn_type1_8"		"1"
+		"spawn_type2_8"		"1"
+		"sur_flow_9"		"16230.0"
+		"spawn_type1_9"		"2"
+		"spawn_type2_9"		"2"
+		"sur_flow_10"		"17100.0"
+		"spawn_type1_10"	"1"
+		"spawn_type2_10"	"1"
+		"sur_flow_11"		"19080.0"
+		"spawn_type1_11"	"1"
+		"spawn_type2_11"	"3"
+		"sur_flow_12"		"22000.0"
+		"spawn_type1_12"	"3"
+		"spawn_type2_12"	"2"
+		"sur_flow_13"		"22875.0"
+		"spawn_type1_13"	"1"
+		"spawn_type2_13"	"2"
+		"sur_flow_14"		"24520.0"
+		"spawn_type1_14"	"1"
+		"spawn_type2_14"	"3"
+		"sur_flow_15"		"33300.0"
+		"spawn_type1_15"	"1"
+		"spawn_type2_15"	"0"
+		"sur_flow_16"		"34300.0"
+		"spawn_type1_16"	"1"
+		"spawn_type2_16"	"0"
+	}
+	"c5m4_quarter"
+	{
+		// FistSpawn Trigger
+		"min_trigger"		"170.0"
+		"max_trigger"		"300.0"
+		"trigger_type"		"0"
+		"map_ci"			"54"
+		"center_point"		"-3296.72 4744.62 68.03"
+
+		// FirstSpawn Pos
+		"fs_minpos_1"		"-3577.96 4719.96 224.03" // 二楼内侧
+		"fs_type_1"			"0"
+		"fs_select_1"		"0 1 0 0 1 1"
+
+		"fs_minpos_2"		"-3122.44 4694.89 427.01" // 三楼左侧边高点
+		"fs_type_2"			"0"
+		"fs_select_2"		"0 1 0 0 1 2"
+
+		"fs_minpos_3"		"-3453.50 4676.97 381.78" // 三楼高点
+		"fs_type_3"			"0"
+		"fs_select_3"		"0 1 0 0 2 2"
+
+		"fs_minpos_4"		"-3575.95 4555.99 381.87" // 三楼右侧边高点
+		"fs_type_4"			"0"
+		"fs_select_4"		"0 1 0 0 1 2"
+
+		"fs_minpos_5"		"-3006.40 4403.48 80.03" // 左边屋里
+		"fs_type_5"			"0"
+		"fs_select_5"		"0 1 2 0 1 2"
+
+		"fs_minpos_6"		"-3175.68 4015.99 82.28" // 左边远点墙后
+		"fs_type_6"			"0"
+		"fs_select_6"		"2 0 2 1 0 0"
+
+		"fs_minpos_7"		"-2831.00 4247.48 540.54" // 左边楼顶高点左方
+		"fs_type_7"			"0"
+		"fs_select_7"		"1 0 2 1 1 1"
+
+		"fs_minpos_8"		"-2940.41 4005.94 452.99" // 左边楼顶高点后方
+		"fs_type_8"			"0"
+		"fs_select_8"		"1 0 2 1 1 0"
+
+		"fs_minpos_9"		"-3470.18 4111.99 68.03" // 右边对面柱子后
+		"fs_type_9"			"0"
+		"fs_select_9"		"2 0 1 0 1 0"
+
+		"fs_minpos_10"		"-3801.64 4398.18 240.03" // 右边二楼平台
+		"fs_type_10"		"0"
+		"fs_select_10"		"0 0 1 0 1 0"
+
+		"fs_minpos_11"		"-3549.62 4045.13 384.03" // 右边二楼正窗口
+		"fs_type_11"		"0"
+		"fs_select_11"		"2 0 0 1 0 0"
+
+		"fs_minpos_12"		"-3434.35 3885.54 384.03" // 右边二楼侧窗口
+		"fs_type_12"		"0"
+		"fs_select_12"		"2 0 0 1 0 0"
+
+		// SurFlow Change Spwn Type
+		"sur_flow_1"		"1.0"
+		"spawn_type1_1"		"2"
+		"spawn_type2_1"		"0"
+		"sur_flow_2"		"1750.0"
+		"spawn_type1_2"		"1"
+		"spawn_type2_2"		"0"
+		"sur_flow_3"		"3010.0"
+		"spawn_type1_3"		"2"
+		"spawn_type2_3"		"0"
+		"sur_flow_4"		"5150.0"
+		"spawn_type1_4"		"2"
+		"spawn_type2_4"		"0"
+		"sur_flow_5"		"6010.0"
+		"spawn_type1_5"		"3"
+		"spawn_type2_5"		"2"
+		"sur_flow_6"		"10280.0"
+		"spawn_type1_6"		"2"
+		"spawn_type2_6"		"0"
+		"sur_flow_7"		"11500.0"
+		"spawn_type1_7"		"1"
+		"spawn_type2_7"		"0"
+		"sur_flow_8"		"14100.0"
+		"spawn_type1_8"		"2"
+		"spawn_type2_8"		"2"
+		"sur_flow_9"		"15000.0"
+		"spawn_type1_9"		"1"
+		"spawn_type2_9"		"0"
+		"sur_flow_10"		"16580.0"
+		"spawn_type1_10"	"2"
+		"spawn_type2_10"	"0"
+		"sur_flow_11"		"17300.0"
+		"spawn_type1_11"	"1"
+		"spawn_type2_11"	"0"
+		"sur_flow_12"		"18300.0"
+		"spawn_type1_12"	"2"
+		"spawn_type2_12"	"3"
+		"sur_flow_13"		"20000.0"
+		"spawn_type1_13"	"1"
+		"spawn_type2_13"	"2"
+		"sur_flow_14"		"22580.0"
+		"spawn_type1_14"	"3"
+		"spawn_type2_14"	"0"
+		"sur_flow_15"		"23900.0"
+		"spawn_type1_15"	"1"
+		"spawn_type2_15"	"3"
+		"sur_flow_16"		"26640.0"
+		"spawn_type1_16"	"4"
+		"spawn_type2_16"	"0"
+		"sur_flow_17"		"27600.0"
+		"spawn_type1_17"	"1"
+		"spawn_type2_17"	"0"
+	}
+	"c5m5_bridge"
+	{
+		// FistSpawn Trigger
+		"min_trigger"		"240.0"
+		"max_trigger"		"340.0"
+		"trigger_type"		"0"
+		"map_ci"			"55"
+		"center_point"		"-11970.50 6001.22 513.03"
+
+		// FirstSpawn Pos
+		"fs_minpos_1"		"-12061.67 6080.00 788.03"
+		"fs_maxpos_1"		"-11864.05 6080.00 788.03"
+		"fs_type_1"			"1"
+		"fs_select_1"		"0 2 1 4 1 4"
+
+		"fs_minpos_2"		"-11832.34 6505.87 576.64"
+		"fs_type_2"			"0"
+		"fs_select_2"		"1 3 9 1 0 1"
+
+		// SurFlow Change Spwn Type
+		"sur_flow_1"		"1.0"
+		"spawn_type1_1"		"2"
+		"spawn_type2_1"		"0"
+		"sur_flow_2"		"1800.0"
+		"spawn_type1_2"		"1"
+		"spawn_type2_2"		"0"
+		"sur_flow_3"		"9800.0"
+		"spawn_type1_3"		"2"
+		"spawn_type2_3"		"2"
+		"sur_flow_4"		"12160.0"
+		"spawn_type1_4"		"1"
+		"spawn_type2_4"		"0"
+		"sur_flow_5"		"13350.0"
+		"spawn_type1_5"		"2"
+		"spawn_type2_5"		"0"
+		"sur_flow_6"		"14740.0"
+		"spawn_type1_6"		"1"
+		"spawn_type2_6"		"0"
+		"sur_flow_7"		"16900.0"
+		"spawn_type1_7"		"2"
+		"spawn_type2_7"		"0"
+		"sur_flow_8"		"21410.0"
+		"spawn_type1_8"		"1"
+		"spawn_type2_8"		"2"
+		"sur_flow_9"		"19070.0"
+		"spawn_type1_9"		"1"
+		"spawn_type2_9"		"1"
+		"sur_flow_10"		"24000.0"
+		"spawn_type1_10"	"1"
+		"spawn_type2_10"	"0"
+	}
+	"c6m1_riverbank"
+	{
+		// FistSpawn Trigger
+		"min_trigger"		"200.0"
+		"max_trigger"		"280.0"
+		"trigger_type"		"0"
+		"map_ci"			"61"
+		"center_point"		"928.00 3650.42 93.42"
+
+		// FirstSpawn Pos
+		"fs_minpos_1"		"682.0 3118.90 640.03" // 屋顶前点
+		"fs_maxpos_1"		"682.0 3555.56 640.03"
+		"fs_type_1"			"1"
+		"fs_select_1"		"1 3 2 1 5 3"
+
+		"fs_minpos_2"		"658.0 3710.13 640.03" // 屋顶后点
+		"fs_maxpos_2"		"658.0 4004.56 640.03"
+		"fs_type_2"			"1"
+		"fs_select_2"		"1 3 1 0 3 2"
+
+		"fs_minpos_3"		"566.86 4054.54 344.03" // 后方屋顶
+		"fs_type_3"			"0"
+		"fs_select_3"		"1 3 1 0 2 0"
+
+		"fs_minpos_4"		"649.21 3047.74 96.03" // 右侧墙后
+		"fs_type_4"			"0"
+		"fs_select_4"		"0 0 3 0 0 0"
+
+		"fs_minpos_5"		"1230.25 3791.18 182.30" // 左侧树上
+		"fs_type_5"			"0"
+		"fs_select_5"		"0 1 0 0 0 0"
+
+		"fs_minpos_6"		"1294.96 3067.41 96.03" // 对面树后
+		"fs_type_6"			"0"
+		"fs_select_6"		"2 0 3 0 0 0"
+
+		// SurFlow Change Spwn Type
+		"sur_flow_1"		"1.0"
+		"spawn_type1_1"		"1"
+		"spawn_type2_1"		"0"
+		"sur_flow_2"		"3520.0"
+		"spawn_type1_2"		"1"
+		"spawn_type2_2"		"2"
+		"sur_flow_3"		"6580.0"
+		"spawn_type1_3"		"2"
+		"spawn_type2_3"		"0"
+		"sur_flow_4"		"12050.0"
+		"spawn_type1_4"		"1"
+		"spawn_type2_4"		"2"
+		"sur_flow_5"		"18200.0"
+		"spawn_type1_5"		"1"
+		"spawn_type2_5"		"0"
+		"sur_flow_6"		"24170.0"
+		"spawn_type1_6"		"2"
+		"spawn_type2_6"		"0"
+		"sur_flow_7"		"25340.0"
+		"spawn_type1_7"		"1"
+		"spawn_type2_7"		"0"
+	}
+	"c6m2_bedlam"
+	{
+		// FistSpawn Trigger
+		"min_trigger"		"270.0"
+		"max_trigger"		"340.0"
+		"trigger_type"		"2"
+		"map_ci"			"62"
+		"center_point"		"2964.73 -947.21 -300.66"
+
+		// FirstSpawn Pos
+		"fs_minpos_1"		"2447.96 -1173.36 -127.96" // 左侧墙后
+		"fs_type_1"			"0"
+		"fs_select_1"		"0 3 4 0 1 1"
+
+		"fs_minpos_2"		"2415.96 -749.48 -127.96" // 右侧墙后
+		"fs_type_2"			"0"
+		"fs_select_2"		"0 3 4 0 1 2"
+
+		"fs_minpos_3"		"2198.07 -1147.54 288.03" // 左侧屋顶
+		"fs_type_3"			"0"
+		"fs_select_3"		"5 2 1 2 4 3"
+
+		"fs_minpos_4"		"2198.80 -784.31 335.83" // 右侧屋顶
+		"fs_type_4"			"0"
+		"fs_select_4"		"3 2 1 3 4 4"
+
+		"fs_minpos_5"		"1967.96 -1068.74 3.89" // 左侧远点墙后
+		"fs_type_5"			"0"
+		"fs_select_5"		"2 0 0 0 0 0"
+
+		// SurFlow Change Spwn Type
+		"sur_flow_1"		"1.02"
+		"spawn_type1_1"		"2"
+		"spawn_type2_1"		"0"
+		"sur_flow_2"		"1970.0"
+		"spawn_type1_2"		"1"
+		"spawn_type2_2"		"0"
+		"sur_flow_3"		"4950.0"
+		"spawn_type1_3"		"3"
+		"spawn_type2_3"		"2"
+		"sur_flow_4"		"9080.0"
+		"spawn_type1_4"		"1"
+		"spawn_type2_4"		"2"
+		"sur_flow_5"		"11310.0"
+		"spawn_type1_5"		"1"
+		"spawn_type2_5"		"0"
+		"sur_flow_6"		"17810.0"
+		"spawn_type1_6"		"4"
+		"spawn_type2_6"		"2"
+		"sur_flow_7"		"20240.0"
+		"spawn_type1_7"		"1"
+		"spawn_type2_7"		"0"
+		"sur_flow_8"		"29000.0"
+		"spawn_type1_8"		"4"
+		"spawn_type2_8"		"2"
+		"sur_flow_9"		"32730.0"
+		"spawn_type1_9"		"1"
+		"spawn_type2_9"		"0"
+		"sur_flow_10"		"34100.0"
+		"spawn_type1_10"	"1"
+		"spawn_type2_10"	"0"
+	}
+	"c6m3_port"
+	{
+		// FistSpawn Trigger
+		"min_trigger"		"165.0"
+		"max_trigger"		"245.0"
+		"trigger_type"		"4"
+		"map_ci"			"63"
+		"center_point"		"-2094.86 -304.03 -255.96"
+
+		// FirstSpawn Pos
+		"fs_minpos_1"		"-2250.0 -618.42 320.03" // 屋顶
+		"fs_maxpos_1"		"-2250.0 -465.79 320.03"
+		"fs_type_1"			"1"
+		"fs_select_1"		"0 2 0 3 2 1"
+
+		"fs_minpos_2"		"-2185.81 -740.0 80.03" // 对面屋顶
+		"fs_maxpos_2"		"-2085.35 -740.0 80.03"
+		"fs_type_2"			"1"
+		"fs_select_2"		"4 3 3 6 4 3"
+
+		"fs_minpos_3"		"-1900.84 -688.00 -159.96" // 前方楼梯后
+		"fs_type_3"			"0"
+		"fs_select_3"		"0 2 7 0 1 5"
+
+		"fs_minpos_4"		"-1951.44 -879.78 -95.96" // 前方垃圾桶后
+		"fs_type_4"			"0"
+		"fs_select_4"		"4 0 0 0 0 0"
+
+		"fs_minpos_5"		"-1843.08 -675.39 108.03" // 左侧栅栏上
+		"fs_type_5"			"0"
+		"fs_select_5"		"1 1 0 0 1 0"
+
+		"fs_minpos_6"		"-1873.34 -381.87 87.96" // 后方白车上
+		"fs_type_6"			"0"
+		"fs_select_6"		"1 2 0 1 2 1"
+
+		// WaitSpawn Trigger
+		"wl_minpos_1"		"-850.00 -650.00 0.00"
+		"wl_maxpos_1"		"-700.00 -500.00 320.00"
+		"ws_mintrdist_1"	"140.0"
+		"ws_maxtrdist_1"	"160.0"
+		"ws_trtype_1"		"0"
+		"ws_cpoint_1"		"-764.41 -574.53 0.03"
+
+		// SurFlow Change Spwn Type
+		"sur_flow_1"		"1.0"
+		"spawn_type1_1"		"1"
+		"spawn_type2_1"		"0"
+		"sur_flow_2"		"4440.0"
+		"spawn_type1_2"		"1"
+		"spawn_type2_2"		"0"
+	}
+	"c7m1_docks"
+	{
+		// FistSpawn Trigger
+		"min_trigger"		"150.0"
+		"max_trigger"		"220.0"
+		"trigger_type"		"2"
+		"map_ci"			"71"
+		"center_point"		"12423.21 2001.40 -56.31"
+
+		// FirstSpawn Pos
+		"fs_minpos_1"		"12237.85 1699.02 328.03" // 屋顶
+		"fs_type_1"			"0"
+		"fs_select_1"		"0 2 0 3 3 2"
+
+		"fs_minpos_2"		"11992.72 1842.19 304.47" // 左侧蓝棚上
+		"fs_type_2"			"0"
+		"fs_select_2"		"0 1 0 1 0 1"
+
+		"fs_minpos_3"		"12015.99 1901.44 156.94" // 左边墙后
+		"fs_type_3"			"0"
+		"fs_select_3"		"5 1 0 0 1 1"
+
+		"fs_minpos_4"		"11990.43 2381.65 70.92" // 右边货箱后
+		"fs_type_4"			"0"
+		"fs_select_4"		"3 0 1 1 1 1"
+
+		"fs_minpos_5"		"12172.82 2464.03 67.37" // 右侧栅栏后
+		"fs_type_5"			"0"
+		"fs_select_5"		"2 1 0 0 0 0"
+
+		// SurFlow Change Spwn Type
+		"sur_flow_1"		"1.0"
+		"spawn_type1_1"		"2"
+		"spawn_type2_1"		"0"
+		"sur_flow_2"		"11900.0"
+		"spawn_type1_2"		"1"
+		"spawn_type2_2"		"0"
+		"sur_flow_3"		"13950.0"
+		"spawn_type1_3"		"2"
+		"spawn_type2_3"		"0"
+		"sur_flow_4"		"19860.0"
+		"spawn_type1_4"		"1"
+		"spawn_type2_4"		"0"
+		"sur_flow_5"		"22540.0"
+		"spawn_type1_5"		"3"
+		"spawn_type2_5"		"2"
+		"sur_flow_6"		"25220.0"
+		"spawn_type1_6"		"1"
+		"spawn_type2_6"		"2"
+		"sur_flow_7"		"28100.0"
+		"spawn_type1_7"		"1"
+		"spawn_type2_7"		"0"
+	}
+	"c7m2_barge"
+	{
+		// FistSpawn Trigger
+		"min_trigger"		"55.0"
+		"max_trigger"		"65.0"
+		"trigger_type"		"0"
+		"map_ci"			"72"
+		"center_point"		"10615.34 2318.16 176.03"
+
+		// FirstSpawn Pos
+		"fs_minpos_1"		"10498.33 2048.62 176.03" // 出门砖块后方
+		"fs_type_1"			"0"
+		"fs_select_1"		"0 2 4 1 5 2"
+
+		"fs_minpos_2"		"10398.91 2146.87 176.03" // 出门砖块右方
+		"fs_type_2"			"0"
+		"fs_select_2"		"0 3 5 1 4 2"
+
+		"fs_minpos_3"		"10684.16 1878.69 176.03" // 对面小砖块后
+		"fs_type_3"			"0"
+		"fs_select_3"		"6 0 0 0 0 0"
+
+		"fs_minpos_4"		"10543.96 2527.99 176.03" // 右边墙后
+		"fs_type_4"			"0"
+		"fs_select_4"		"1 0 1 0 1 1"
+
+		"fs_minpos_5"		"10095.60 2142.47 305.79" // 右方砖块上
+		"fs_type_5"			"0"
+		"fs_select_5"		"3 0 0 3 0 0"
+
+		// SurFlow Change Spwn Type
+		"sur_flow_1"		"1.0"
+		"spawn_type1_1"		"1"
+		"spawn_type2_1"		"1"
+		"sur_flow_2"		"1390.0"
+		"spawn_type1_2"		"2"
+		"spawn_type2_2"		"0"
+		"sur_flow_3"		"2730.0"
+		"spawn_type1_3"		"1"
+		"spawn_type2_3"		"0"
+		"sur_flow_4"		"7770.0"
+		"spawn_type1_4"		"1"
+		"spawn_type2_4"		"1"
+		"sur_flow_5"		"9150.0"
+		"spawn_type1_5"		"2"
+		"spawn_type2_5"		"2"
+		"sur_flow_6"		"14000.0"
+		"spawn_type1_6"		"0"
+		"spawn_type2_6"		"0"
+		"sur_flow_7"		"15840.0"
+		"spawn_type1_7"		"2"
+		"spawn_type2_7"		"2"
+		"sur_flow_8"		"19200.0"
+		"spawn_type1_8"		"1"
+		"spawn_type2_8"		"0"
+		"sur_flow_9"		"21290.0"
+		"spawn_type1_9"		"3"
+		"spawn_type2_9"		"2"
+		"sur_flow_10"		"25300.0"
+		"spawn_type1_10"	"1"
+		"spawn_type2_10"	"0"
+		"sur_flow_11"		"28800.0"
+		"spawn_type1_11"	"2"
+		"spawn_type2_11"	"0"
+		"sur_flow_12"		"31370.0"
+		"spawn_type1_12"	"1"
+		"spawn_type2_12"	"0"
+		"sur_flow_13"		"32600.0"
+		"spawn_type1_13"	"1"
+		"spawn_type2_13"	"0"
+	}
+	"c7m3_port"
+	{
+		// FistSpawn Trigger
+		"min_trigger"		"280.0"
+		"max_trigger"		"450.0"
+		"trigger_type"		"0"
+		"map_ci"			"73"
+		"center_point"		"1063.78 3078.39 168.03"
+
+		// FirstSpawn Pos
+		"fs_minpos_1"		"957.26 3110.00 768.03" // 屋顶
+		"fs_maxpos_1"		"1231.86 3110.00 768.03"
+		"fs_type_1"			"1"
+		"fs_select_1"		"4 6 0 8 6 12"
+
+		"fs_minpos_2"		"1744.03 2675.73 285.43" // 左侧车上
+		"fs_type_2"			"0"
+		"fs_select_2"		"4 0 0 0 6 0"
+
+		"fs_minpos_3"		"1049.19 2404.09 376.03" // 对面二楼 *1
+		"fs_type_3"			"0"
+		"fs_select_3"		"0 0 0 0 1 2"
+
+		"fs_minpos_4"		"1285.86 2668.20 376.03" // 对面二楼 *2
+		"fs_type_4"			"0"
+		"fs_select_4"		"0 0 0 0 1 2"
+
+		"fs_minpos_5"		"1109.71 2687.96 376.03" // 对面二楼 *3
+		"fs_type_5"			"0"
+		"fs_select_5"		"0 0 0 0 1 2"
+
+		"fs_minpos_6"		"987.72 2524.78 465.48" // 对面空调机上
+		"fs_type_6"			"0"
+		"fs_select_6"		"0 2 0 0 6 12"
+
+		"fs_minpos_7"		"700.00 2624.60 640.03" // 对面屋顶 *1
+		"fs_maxpos_7"		"700.00 2811.50 640.03"
+		"fs_type_7"			"1"
+		"fs_select_7"		"1 3 0 3 3 6"
+
+		"fs_minpos_8"		"791.46 2426.00 629.24" // 对面屋顶 *2
+		"fs_type_8"			"0"
+		"fs_select_8"		"1 3 0 3 3 6"
+
+		"fs_minpos_9"		"1169.94 2620.44 647.06" // 对面屋顶管子上
+		"fs_type_9"			"0"
+		"fs_select_9"		"0 2 0 0 6 0"
+
+		"fs_minpos_10"		"784.00 2396.53 501.24" // 右侧二楼
+		"fs_type_10"		"0"
+		"fs_select_10"		"2 0 0 0 6 0"
+
+		"fs_minpos_11"		"1075.00 2490.02 544.03" // 右侧屋顶 *1
+		"fs_maxpos_11"		"1075.00 2642.94 544.03"
+		"fs_type_11"		"1"
+		"fs_select_11"		"2 2 0 3 3 3"
+
+		"fs_minpos_12"		"1211.22 2648.00 544.03" // 右侧屋顶 *2
+		"fs_maxpos_12"		"1306.00 2648.00 544.03"
+		"fs_type_12"		"1"
+		"fs_select_12"		"2 2 0 3 3 3"
+
+		"fs_minpos_13"		"838.81 2199.96 160.03" // 对面墙后
+		"fs_type_13"		"0"
+		"fs_select_13"		"0 0 3 0 0 0"
+
+		"fs_minpos_14"		"729.71 2215.99 408.03" // 对面远点屋顶
+		"fs_type_14"		"0"
+		"fs_select_14"		"2 0 1 0 0 0"
+
+		"fs_minpos_15"		"633.58 3082.78 505.39" // 右侧空调机上
+		"fs_type_15"		"0"
+		"fs_select_15"		"0 0 0 0 6 6"
+
+		"fs_minpos_16"		"743.00 3350.00 600.03" // 后方屋顶
+		"fs_maxpos_16"		"886.00 3350.00 600.03"
+		"fs_type_16"		"1"
+		"fs_select_16"		"2 0 1 0 6 0"
+
+		// SurFlow Change Spwn Type
+		"sur_flow_1"		"1.0"
+		"spawn_type1_1"		"2"
+		"spawn_type2_1"		"0"
+		"sur_flow_2"		"2620.0"
+		"spawn_type1_2"		"1"
+		"spawn_type2_2"		"0"
+		"sur_flow_3"		"4900.0"
+		"spawn_type1_3"		"1"
+		"spawn_type2_3"		"0"
+	}
+	"c8m1_apartment"
+	{
+		// FistSpawn Trigger
+		"min_trigger"		"70.0"
+		"max_trigger"		"100.0"
+		"trigger_type"		"2"
+		"map_ci"			"81"
+		"center_point"		"2096.33 1231.18 296.03"
+
+		// SurFlow Change Spwn Type
+		"sur_flow_1"		"1.0"
+		"spawn_type1_1"		"3"
+		"spawn_type2_1"		"1"
+		"sur_flow_2"		"4920.0"
+		"spawn_type1_2"		"2"
+		"spawn_type2_2"		"0"
+		"sur_flow_3"		"8150.0"
+		"spawn_type1_3"		"3"
+		"spawn_type2_3"		"0"
+		"sur_flow_4"		"10280.0"
+		"spawn_type1_4"		"1"
+		"spawn_type2_4"		"0"
+		"sur_flow_5"		"14830.0"
+		"spawn_type1_5"		"1"
+		"spawn_type2_5"		"0"
+	}
+	"c8m2_subway"
+	{
+		// FistSpawn Trigger
+		"min_trigger"		"50.0"
+		"max_trigger"		"80.0"
+		"trigger_type"		"6"
+		"map_ci"			"82"
+		"center_point"		"3043.48 2926.10 16.03"
+
+		// FirstSpawn Pos
+		"fs_minpos_1"		"3192.04 2932.41 288.03" // 头顶 *1
+		"fs_type_1"			"0"
+		"fs_select_1"		"1 1 0 1 1 1"
+
+		"fs_minpos_2"		"3084.98 3174.77 288.03" // 头顶 *2
+		"fs_type_2"			"0"
+		"fs_select_2"		"1 1 0 1 1 1"
+
+		"fs_minpos_3"		"3061.80 3265.27 288.03" // 头顶 *3
+		"fs_type_3"			"0"
+		"fs_select_3"		"1 1 0 1 1 1"
+
+		"fs_minpos_4"		"3129.89 3073.61 288.03" // 头顶 *4
+		"fs_type_4"			"0"
+		"fs_select_4"		"1 1 0 1 1 1"
+
+		"fs_minpos_5"		"3652.00 3089.50 -255.96" // 对面墙后
+		"fs_type_5"			"0"
+		"fs_select_5"		"16 0 1 0 0 0"
+
+		"fs_minpos_6"		"3150.38 3202.81 -114.88" // 下方柱子后
+		"fs_type_6"			"0"
+		"fs_select_6"		"0 1 4 0 1 0"
+
+		// SurFlow Change Spwn Type
+		"sur_flow_1"		"1.0"
+		"spawn_type1_1"		"1"
+		"spawn_type2_1"		"0"
+		"sur_flow_2"		"11350.0"
+		"spawn_type1_2"		"1"
+		"spawn_type2_2"		"2"
+		"sur_flow_3"		"15620.0"
+		"spawn_type1_3"		"1"
+		"spawn_type2_3"		"0"
+		"sur_flow_4"		"19000.0"
+		"spawn_type1_4"		"1"
+		"spawn_type2_4"		"0"
+	}
+	"c8m3_sewers"
+	{
+		// FistSpawn Trigger
+		"min_trigger"		"80.0"
+		"max_trigger"		"100.0"
+		"trigger_type"		"0"
+		"map_ci"			"83"
+		"center_point"		"11095.48 4740.58 16.03"
+
+		// FirstSpawn Pos
+		"fs_minpos_1"		"11080.00 4648.00 280.03" // 屋顶 *1
+		"fs_maxpos_1"		"11080.00 4845.00 280.03"
+		"fs_type_1"			"1"
+		"fs_select_1"		"3 7 1 1 5 3"
+
+		"fs_minpos_2"		"11140.00 4960.00 280.03" // 屋顶 *2
+		"fs_maxpos_2"		"11140.00 5075.00 280.03"
+		"fs_type_2"			"1"
+		"fs_select_2"		"3 7 1 1 5 3"
+
+		"fs_minpos_3"		"11337.74 4708.84 16.03" // 对面墙后
+		"fs_type_3"			"0"
+		"fs_select_3"		"0 0 3 0 0 10"
+
+		"fs_minpos_4"		"11184.87 4573.96 560.03" // 右侧屋顶
+		"fs_type_4"			"0"
+		"fs_select_4"		"3 4 0 3 6 2"
+
+		"fs_minpos_5"		"11280.00 4652.00 712.03" // 对面屋顶
+		"fs_maxpos_5"		"11280.00 4872.00 712.03"
+		"fs_type_5"			"1"
+		"fs_select_5"		"1 2 0 5 4 2"
+
+		// SurFlow Change Spwn Type
+		"sur_flow_1"		"1.0"
+		"spawn_type1_1"		"2"
+		"spawn_type2_1"		"0"
+		"sur_flow_2"		"1220.0"
+		"spawn_type1_2"		"1"
+		"spawn_type2_2"		"1"
+		"sur_flow_3"		"2240.0"
+		"spawn_type1_3"		"2"
+		"spawn_type2_3"		"2"
+		"sur_flow_4"		"2790.0"
+		"spawn_type1_4"		"1"
+		"spawn_type2_4"		"0"
+		"sur_flow_5"		"2880.0"
+		"spawn_type1_5"		"1"
+		"spawn_type2_5"		"1"
+		"sur_flow_6"		"4270.0"
+		"spawn_type1_6"		"2"
+		"spawn_type2_6"		"0"
+		"sur_flow_7"		"6350.0"
+		"spawn_type1_7"		"1"
+		"spawn_type2_7"		"0"
+		"sur_flow_8"		"9000.0"
+		"spawn_type1_8"		"1"
+		"spawn_type2_8"		"2"
+		"sur_flow_9"		"9500.0"
+		"spawn_type1_9"		"1"
+		"spawn_type2_9"		"0"
+		"sur_flow_10"		"10380.0"
+		"spawn_type1_10"	"1"
+		"spawn_type2_10"	"1"
+		"sur_flow_11"		"15190.0"
+		"spawn_type1_11"	"2"
+		"spawn_type2_11"	"0"
+		"sur_flow_12"		"15560.0"
+		"spawn_type1_12"	"1"
+		"spawn_type2_12"	"2"
+		"sur_flow_13"		"18100.0"
+		"spawn_type1_13"	"1"
+		"spawn_type2_13"	"0"
+	}
+	"c8m4_interior"
+	{
+		// FistSpawn Trigger
+		"min_trigger"		"100.0"
+		"max_trigger"		"140.0"
+		"trigger_type"		"0"
+		"map_ci"			"84"
+		"center_point"		"12270.72 12567.03 16.03"
+
+		// FirstSpawn Pos
+		"fs_minpos_1"		"12277.46 12937.79 16.03" // 前方墙后
+		"fs_type_1"			"0"
+		"fs_select_1"		"2 0 10 18 4 3"
+
+		"fs_minpos_2"		"11973.03 12616.03 16.03" // 左侧屋里
+		"fs_type_2"			"0"
+		"fs_select_2"		"0 1 2 0 3 1"
+
+		"fs_minpos_3"		"12374.82 12822.02 16.03" // 右侧屋里
+		"fs_type_3"			"0"
+		"fs_select_3"		"0 1 2 0 3 1"
+
+		"fs_minpos_4"		"12283.31 12151.99 16.03" // 后面墙后 *1
+		"fs_type_4"			"0"
+		"fs_select_4"		"9 0 3 1 0 0"
+
+		"fs_minpos_5"		"12122.10 12175.96 16.03" // 后面墙后 *2
+		"fs_type_5"			"0"
+		"fs_select_5"		"9 0 3 1 0 0"
+
+		// WaitSpawn Trigger
+		"wl_minpos_1"		"13280.00 15120.00 500.00"
+		"wl_maxpos_1"		"13580.00 15400.00 5750.00"
+		"ws_mintrdist_1"	"125.0"
+		"ws_maxtrdist_1"	"175.0"
+		"ws_trtype_1"		"0"
+		"ws_cpoint_1"		"13432.83 15088.13 5536.03"
+
+		// SurFlow Change Spwn Type
+		"sur_flow_1"		"1.0"
+		"spawn_type1_1"		"1"
+		"spawn_type2_1"		"1"
+		"sur_flow_2"		"2020.0"
+		"spawn_type1_2"		"1"
+		"spawn_type2_2"		"2"
+		"sur_flow_3"		"6310.0"
+		"spawn_type1_3"		"1"
+		"spawn_type2_3"		"0"
+		"sur_flow_4"		"8900.0"
+		"spawn_type1_4"		"4"
+		"spawn_type2_4"		"0"
+		"sur_flow_5"		"14320.0"
+		"spawn_type1_5"		"1"
+		"spawn_type2_5"		"0"
+		"sur_flow_6"		"20700.0"
+		"spawn_type1_6"		"1"
+		"spawn_type2_6"		"0"
+	}
+	"c8m5_rooftop"
+	{
+		// FistSpawn Trigger
+		"min_trigger"		"110.0"
+		"max_trigger"		"115.0"
+		"trigger_type"		"1"
+		"map_ci"			"85"
+		"center_point"		"5456.08 8514.82 5760.03"
+
+		// SurFlow Change Spwn Type
+		"sur_flow_1"		"1.0"
+		"spawn_type1_1"		"1"
+		"spawn_type2_1"		"0"
+		"sur_flow_2"		"1340.0"
+		"spawn_type1_2"		"3"
+		"spawn_type2_2"		"0"
+		"sur_flow_3"		"2570.0"
+		"spawn_type1_3"		"2"
+		"spawn_type2_3"		"2"
+		"sur_flow_4"		"4650.0"
+		"spawn_type1_4"		"1"
+		"spawn_type2_4"		"2"
+		"sur_flow_5"		"4700.0"
+		"spawn_type1_5"		"1"
+		"spawn_type2_5"		"0"
+		"sur_flow_6"		"6800.0"
+		"spawn_type1_6"		"1"
+		"spawn_type2_6"		"0"
+	}
+	"c9m1_alleys"
+	{
+		// FistSpawn Trigger
+		"min_trigger"		"160.0"
+		"max_trigger"		"280.0"
+		"trigger_type"		"1"
+		"map_ci"			"91"
+		"center_point"		"-8825.59 -10245.28 2.10"
+
+		// SurFlow Change Spwn Type
+		"sur_flow_1"		"1.0"
+		"spawn_type1_1"		"2"
+		"spawn_type2_1"		"0"
+		"sur_flow_2"		"3790.0"
+		"spawn_type1_2"		"1"
+		"spawn_type2_2"		"0"
+		"sur_flow_3"		"6690.0"
+		"spawn_type1_3"		"2"
+		"spawn_type2_3"		"0"
+		"sur_flow_4"		"7910.0"
+		"spawn_type1_4"		"1"
+		"spawn_type2_4"		"0"
+		"sur_flow_5"		"13320.0"
+		"spawn_type1_5"		"2"
+		"spawn_type2_5"		"0"
+		"sur_flow_6"		"15600.0"
+		"spawn_type1_6"		"1"
+		"spawn_type2_6"		"1"
+		"sur_flow_7"		"16500.0"
+		"spawn_type1_7"		"2"
+		"spawn_type2_7"		"0"
+		"sur_flow_8"		"19320.0"
+		"spawn_type1_8"		"1"
+		"spawn_type2_8"		"0"
+		"sur_flow_9"		"23800.0"
+		"spawn_type1_9"		"1"
+		"spawn_type2_9"		"1"
+		"sur_flow_10"		"26000.0"
+		"spawn_type1_10"	"1"
+		"spawn_type2_10"	"0"
+	}
+	"c9m2_lots"
+	{
+		// FistSpawn Trigger
+		"min_trigger"		"580.0"
+		"max_trigger"		"640.0"
+		"trigger_type"		"0"
+		"map_ci"			"92"
+		"center_point"		"434.71 -1235.28 -175.96"
+
+		// FirstSpawn Pos
+		"fs_minpos_1"		"770.0 -1331.88 93.27" // 屋顶 *1
+		"fs_maxpos_1"		"770.0 -981.88 224.03"
+		"fs_type_1"			"7"
+		"fs_select_1"		"4 2 0 8 7 9"
+
+		"fs_minpos_2"		"770.0 -1506.00 160.56" // 屋顶 *2
+		"fs_maxpos_2"		"770.0 -1396.00 204.56"
+		"fs_type_2"			"4"
+		"fs_select_2"		"4 2 0 8 7 9"
+
+		"fs_minpos_3"		"1491.57 -1132.24 -138.93" // 对面屋里 *1
+		"fs_type_3"			"0"
+		"fs_select_3"		"1 0 0 1 0 0"
+
+		"fs_minpos_4"		"1488.70 -1296.28 -191.96" // 对面屋里 *2
+		"fs_type_4"			"0"
+		"fs_select_4"		"1 0 0 1 0 0"
+
+		"fs_minpos_5"		"1292.15 -971.44 -225.65" // 对面白车后
+		"fs_type_5"			"0"
+		"fs_select_5"		"2 0 3 0 4 0"
+
+		"fs_minpos_6"		"548.44 -710.92 -177.26" // 左侧车厢后
+		"fs_type_6"			"0"
+		"fs_select_6"		"0 0 2 0 2 2"
+
+		"fs_minpos_7"		"841.64 -592.67 -230.36" // 左侧货车头后
+		"fs_type_7"			"0"
+		"fs_select_7"		"4 0 3 0 0 0"
+
+		"fs_minpos_8"		"1503.55 -1552.03 -223.96" // 右侧墙后
+		"fs_type_8"			"0"
+		"fs_select_8"		"4 1 2 2 0 0"
+
+		// SurFlow Change Spwn Type
+		"sur_flow_1"		"1.0"
+		"spawn_type1_1"		"2"
+		"spawn_type2_1"		"0"
+		"sur_flow_2"		"1900.0"
+		"spawn_type1_2"		"1"
+		"spawn_type2_2"		"0"
+		"sur_flow_3"		"4320.0"
+		"spawn_type1_3"		"2"
+		"spawn_type2_3"		"0"
+		"sur_flow_4"		"5060.0"
+		"spawn_type1_4"		"1"
+		"spawn_type2_4"		"0"
+		"sur_flow_5"		"10750.0"
+		"spawn_type1_5"		"2"
+		"spawn_type2_5"		"0"
+		"sur_flow_6"		"12900.0"
+		"spawn_type1_6"		"1"
+		"spawn_type2_6"		"0"
+		"sur_flow_7"		"14680.0"
+		"spawn_type1_7"		"2"
+		"spawn_type2_7"		"0"
+		"sur_flow_8"		"15900.0"
+		"spawn_type1_8"		"1"
+		"spawn_type2_8"		"0"
+		"sur_flow_9"		"17600.0"
+		"spawn_type1_9"		"2"
+		"spawn_type2_9"		"0"
+		"sur_flow_10"		"19700.0"
+		"spawn_type1_10"	"1"
+		"spawn_type2_10"	"0"
+	}
+	"c10m1_caves"
+	{
+		// FistSpawn Trigger
+		"min_trigger"		"40.0"
+		"max_trigger"		"50.0"
+		"trigger_type"		"3"
+		"map_ci"			"101"
+		"center_point"		"-12015.91 -14134.34 -114.17"
+
+		// FirstSpawn Pos
+		"fs_minpos_1"		"-11582.97 -13706.31 516.08" // 山顶
+		"fs_type_1"			"0"
+		"fs_select_1"		"1 1 0 1 3 8"
+
+		"fs_minpos_2"		"-12478.42 -13908.98 -58.64" // 左侧草丛
+		"fs_type_2"			"0"
+		"fs_select_2"		"1 0 2 1 0 0"
+
+		"fs_minpos_3"		"-12523.54 -13521.94 -50.60" // 左前方草丛
+		"fs_type_3"			"0"
+		"fs_select_3"		"1 0 3 1 1 1"
+
+		"fs_minpos_4"		"-11986.67 -13273.71 -63.75" // 前方草丛
+		"fs_type_4"			"0"
+		"fs_select_4"		"1 0 3 1 1 1"
+
+		"fs_minpos_5"		"-12196.89 -13399.25 -62.02" // 前方白车后
+		"fs_type_5"			"0"
+		"fs_select_5"		"1 0 2 1 0 0"
+
+		// SurFlow Change Spwn Type
+		"sur_flow_1"		"1.0"
+		"spawn_type1_1"		"1"
+		"spawn_type2_1"		"0"
+		"sur_flow_2"		"2700.0"
+		"spawn_type1_2"		"2"
+		"spawn_type2_2"		"2"
+		"sur_flow_3"		"4250.0"
+		"spawn_type1_3"		"1"
+		"spawn_type2_3"		"2"
+		"sur_flow_4"		"5000.0"
+		"spawn_type1_4"		"1"
+		"spawn_type2_4"		"0"
+		"sur_flow_5"		"9400.0"
+		"spawn_type1_5"		"2"
+		"spawn_type2_5"		"0"
+		"sur_flow_6"		"9880.0"
+		"spawn_type1_6"		"1"
+		"spawn_type2_6"		"0"
+		"sur_flow_7"		"14100.0"
+		"spawn_type1_7"		"2"
+		"spawn_type2_7"		"0"
+		"sur_flow_8"		"16200.0"
+		"spawn_type1_8"		"1"
+		"spawn_type2_8"		"0"
+	}
+	"c10m2_drainage"
+	{
+		// FistSpawn Trigger
+		"min_trigger"		"100.0"
+		"max_trigger"		"150.0"
+		"trigger_type"		"0"
+		"map_ci"			"102"
+		"center_point"		"-11204.39 -8823.09 -463.96"
+
+		// FirstSpawn Pos
+		"fs_minpos_1"		"-10952.26 -8776.33 -123.96" // 头顶
+		"fs_type_1"			"0"
+		"fs_select_1"		"0 1 0 0 5 4"
+
+		"fs_minpos_2"		"-11622.40 -8641.35 -319.96" // 左侧上方
+		"fs_type_2"			"0"
+		"fs_select_2"		"1 0 0 2 0 0"
+
+		"fs_minpos_3"		"-11489.20 -8545.56 -463.96" // 左侧管柱后
+		"fs_type_3"			"0"
+		"fs_select_3"		"0 0 2 0 2 3"
+
+		"fs_minpos_4"		"-10967.69 -8534.67 -463.96" // 右侧管柱后
+		"fs_type_4"			"0"
+		"fs_select_4"		"0 0 2 0 2 3"
+
+		"fs_minpos_5"		"-10713.14 -8451.26 -436.55" // 右侧管道内
+		"fs_type_5"			"0"
+		"fs_select_5"		"1 0 0 2 0 0"
+
+		"fs_minpos_6"		"-11230.25 -8383.56 -493.40" // 前方柱子后
+		"fs_type_6"			"0"
+		"fs_select_6"		"0 0 1 1 1 0"
+
+		"fs_minpos_7"		"-11227.94 -8380.09 -312.25" // 前方柱子上 *Duck
+		"fs_type_7"			"0"
+		"fs_select_7"		"2 0 0 1 0 0"
+
+		"fs_minpos_8"		"-11431.40 -8228.99 -493.40" // 左后侧柱子后
+		"fs_type_8"			"0"
+		"fs_select_8"		"1 0 0 1 0 0"
+
+		"fs_minpos_9"		"-11435.87 -8231.66 -312.25" // 左后侧柱子上 *Duck
+		"fs_type_9"			"0"
+		"fs_select_9"		"2 0 0 1 0 0"
+
+		"fs_minpos_10"		"-11045.65 -8223.56 -493.40" // 右后侧柱子后
+		"fs_type_10"		"0"
+		"fs_select_10"		"1 0 0 1 0 0"
+
+		"fs_minpos_11"		"-11022.81 -8223.49 -312.25" // 右后侧柱子上 Duck
+		"fs_type_11"		"0"
+		"fs_select_11"		"2 0 0 1 0 0"
+
+		// SurFlow Change Spwn Type
+		"sur_flow_1"		"1.0"
+		"spawn_type1_1"		"1"
+		"spawn_type2_1"		"0"
+		"sur_flow_2"		"2510.0"
+		"spawn_type1_2"		"2"
+		"spawn_type2_2"		"2"
+		"sur_flow_3"		"3300.0"
+		"spawn_type1_3"		"1"
+		"spawn_type2_3"		"0"
+		"sur_flow_4"		"6000.0"
+		"spawn_type1_4"		"1"
+		"spawn_type2_4"		"2"
+		"sur_flow_5"		"8820.0"
+		"spawn_type1_5"		"3"
+		"spawn_type2_5"		"0"
+		"sur_flow_6"		"10780.0"
+		"spawn_type1_6"		"1"
+		"spawn_type2_6"		"0"
+		"sur_flow_7"		"11640.0"
+		"spawn_type1_7"		"1"
+		"spawn_type2_7"		"2"
+		"sur_flow_8"		"12000.0"
+		"spawn_type1_8"		"2"
+		"spawn_type2_8"		"0"
+		"sur_flow_9"		"14720.0"
+		"spawn_type1_9"		"1"
+		"spawn_type2_9"		"2"
+		"sur_flow_10"		"15800.0"
+		"spawn_type1_10"	"1"
+		"spawn_type2_10"	"0"
+	}
+	"c10m3_ranchhouse"
+	{
+		// FistSpawn Trigger
+		"min_trigger"		"170.0"
+		"max_trigger"		"220.0"
+		"trigger_type"		"1"
+		"map_ci"			"103"
+		"center_point"		"-8750.22 -5556.86 -63.96"
+
+		// FirstSpawn Pos
+		"fs_minpos_1"		"-8554.42 -5413.08 256.03" // 屋顶 *1
+		"fs_type_1"			"0"
+		"fs_select_1"		"2 1 0 1 7 7"
+
+		"fs_minpos_2"		"-8590.0 -5784.44 256.03" // 屋顶 *2
+		"fs_maxpos_2"		"-8590.0 -5569.18 256.03"
+		"fs_type_2"			"1"
+		"fs_select_2"		"2 1 0 1 7 7"
+
+		"fs_minpos_3"		"-8555.68 -5498.10 362.68" // 屋顶 *3
+		"fs_type_3"			"0"
+		"fs_select_3"		"2 1 0 1 7 7"
+
+		"fs_minpos_4"		"-9058.54 -5859.52 -63.96" // 左侧车厢后
+		"fs_type_4"			"0"
+		"fs_select_4"		"0 0 3 0 6 9"
+
+		"fs_minpos_5"		"-9598.32 -5436.68 -63.96" // 前方草丛
+		"fs_type_5"			"0"
+		"fs_select_5"		"9 0 7 0 3 0"
+
+		// SurFlow Change Spwn Type
+		"sur_flow_1"		"1.0"
+		"spawn_type1_1"		"2"
+		"spawn_type2_1"		"0"
+		"sur_flow_2"		"5160.0"
+		"spawn_type1_2"		"2"
+		"spawn_type2_2"		"2"
+		"sur_flow_3"		"6600.0"
+		"spawn_type1_3"		"1"
+		"spawn_type2_3"		"2"
+		"sur_flow_4"		"7300.0"
+		"spawn_type1_4"		"1"
+		"spawn_type2_4"		"0"
+		"sur_flow_5"		"13110.0"
+		"spawn_type1_5"		"2"
+		"spawn_type2_5"		"0"
+		"sur_flow_6"		"14000.0"
+		"spawn_type1_6"		"2"
+		"spawn_type2_6"		"0"
+		"sur_flow_7"		"18220.0"
+		"spawn_type1_7"		"1"
+		"spawn_type2_7"		"0"
+		"sur_flow_8"		"19800.0"
+		"spawn_type1_8"		"1"
+		"spawn_type2_8"		"0"
+	}
+	"c10m4_mainstreet"
+	{
+		// FistSpawn Trigger
+		"min_trigger"		"145.0"
+		"max_trigger"		"150.0"
+		"trigger_type"		"0"
+		"map_ci"			"104"
+		"center_point"		"-3075.14 -24.46 328.03"
+
+		// FirstSpawn Pos
+		"fs_minpos_1"		"-3134.32 -100.83 715.68" // 屋顶 *1
+		"fs_type_1"			"0"
+		"fs_select_1"		"1 3 1 5 4 1"
+
+		"fs_minpos_2"		"-3018.57 -94.54 720.02" // 屋顶 *2
+		"fs_type_2"			"0"
+		"fs_select_2"		"1 3 1 5 4 1"
+
+		"fs_minpos_3"		"-2983.98 -12.67 464.03" // 后方左侧
+		"fs_type_3"			"0"
+		"fs_select_3"		"0 2 4 6 1 2"
+
+		"fs_minpos_4"		"-3170.53 3.34 453.50" // 后方右侧
+		"fs_type_4"			"0"
+		"fs_select_4"		"0 2 4 4 1 16"
+
+		// SurFlow Change Spwn Type
+		"sur_flow_1"		"1.0"
+		"spawn_type1_1"		"2"
+		"spawn_type2_1"		"2"
+		"sur_flow_2"		"1000.0"
+		"spawn_type1_2"		"1"
+		"spawn_type2_2"		"0"
+		"sur_flow_3"		"10570.0"
+		"spawn_type1_3"		"2"
+		"spawn_type2_3"		"2"
+		"sur_flow_4"		"11720.0"
+		"spawn_type1_4"		"1"
+		"spawn_type2_4"		"1"
+		"sur_flow_5"		"13800.0"
+		"spawn_type1_5"		"2"
+		"spawn_type2_5"		"0"
+		"sur_flow_6"		"23800.0"
+		"spawn_type1_6"		"1"
+		"spawn_type2_6"		"0"
+	}
+	"c10m5_houseboat"
+	{
+		// FistSpawn Trigger
+		"min_trigger"		"100.0"
+		"max_trigger"		"120.0"
+		"trigger_type"		"0"
+		"map_ci"			"105"
+		"center_point"		"2140.62 4508.61 -63.96"
+
+		// SurFlow Change Spwn Type
+		"sur_flow_1"		"1.0"
+		"spawn_type1_1"		"1"
+		"spawn_type2_1"		"0"
+		"sur_flow_2"		"1000.0"
+		"spawn_type1_2"		"2"
+		"spawn_type2_2"		"0"
+		"sur_flow_3"		"1500.0"
+		"spawn_type1_3"		"1"
+		"spawn_type2_3"		"0"
+		"sur_flow_4"		"2400.0"
+		"spawn_type1_4"		"2"
+		"spawn_type2_4"		"0"
+		"sur_flow_5"		"3400.0"
+		"spawn_type1_5"		"1"
+		"spawn_type2_5"		"0"
+		"sur_flow_6"		"6720.0"
+		"spawn_type1_6"		"2"
+		"spawn_type2_6"		"2"
+		"sur_flow_7"		"8110.0"
+		"spawn_type1_7"		"1"
+		"spawn_type2_7"		"0"
+		"sur_flow_8"		"12000.0"
+		"spawn_type1_8"		"1"
+		"spawn_type2_8"		"0"
+	}
+	"c11m1_greenhouse"
+	{
+		// FistSpawn Trigger
+		"min_trigger"		"300.0"
+		"max_trigger"		"700.0"
+		"trigger_type"		"2"
+		"map_ci"			"111"
+		"center_point"		"6126.97 -633.02 672.03"
+
+		// SurFlow Change Spwn Type
+		"sur_flow_1"		"1.0"
+		"spawn_type1_1"		"1"
+		"spawn_type2_1"		"2"
+		"sur_flow_2"		"3000.0"
+		"spawn_type1_2"		"2"
+		"spawn_type2_2"		"2"
+		"sur_flow_3"		"3400.0"
+		"spawn_type1_3"		"1"
+		"spawn_type2_3"		"1"
+		"sur_flow_4"		"4800.0"
+		"spawn_type1_4"		"2"
+		"spawn_type2_4"		"0"
+		"sur_flow_5"		"6720.0"
+		"spawn_type1_5"		"1"
+		"spawn_type2_5"		"0"
+		"sur_flow_6"		"10400.0"
+		"spawn_type1_6"		"1"
+		"spawn_type2_6"		"0"
+	}
+	"c11m2_offices"
+	{
+		// FistSpawn Trigger
+		"min_trigger"		"105.0"
+		"max_trigger"		"125.0"
+		"trigger_type"		"3"
+		"map_ci"			"112"
+		"center_point"		"5426.33 3280.00 16.03"
+
+		// FirstSpawn Pos
+		"fs_minpos_1"		"5669.74 3600.03 16.03" // 前方柱子后 *1
+		"fs_type_1"			"0"
+		"fs_select_1"		"0 2 7 0 1 1"
+
+		"fs_minpos_2"		"5442.65 3600.03 61.66" // 前方柱子后 *2
+		"fs_type_2"			"0"
+		"fs_select_2"		"0 2 7 0 1 1"
+
+		"fs_minpos_3"		"5236.30 3600.03 68.24" // 前方柱子后 *3
+		"fs_type_3"			"0"
+		"fs_select_3"		"0 2 7 0 1 1"
+
+		"fs_minpos_4"		"5654.76 3872.03 16.03" // 后方柱子后 *1
+		"fs_type_4"			"0"
+		"fs_select_4"		"1 0 3 1 0 0"
+
+		"fs_minpos_5"		"5448.51 3872.03 56.49" // 后方柱子后 *2
+		"fs_type_5"			"0"
+		"fs_select_5"		"1 0 3 1 0 0"
+
+		"fs_minpos_6"		"5705.46 3861.15 826.03" // 起重机货物上
+		"fs_type_6"			"0"
+		"fs_select_6"		"3 3 3 0 12 6"
+
+		"fs_minpos_7"		"5232.51 3601.75 147.06" // 左侧栅栏上
+		"fs_type_7"			"0"
+		"fs_select_7"		"0 3 0 0 3 0"
+
+		"fs_minpos_8"		"4911.94 3770.02 544.03" // 左侧三楼楼梯上 *Duck
+		"fs_type_8"			"0"
+		"fs_select_8"		"1 0 0 0 0 0"
+
+		"fs_minpos_9"		"4863.96 3448.03 208.03" // 左侧二楼 *1
+		"fs_type_9"			"0"
+		"fs_select_9"		"1 0 0 0 0 0"
+
+		"fs_minpos_10"		"4855.96 3581.66 208.03" // 左侧二楼 *2
+		"fs_type_10"		"0"
+		"fs_select_10"		"1 0 0 0 0 0"
+
+		"fs_minpos_11"		"4830.00 3447.99 704.03" // 左侧屋顶
+		"fs_maxpos_11"		"4830.00 3556.36 704.03"
+		"fs_type_11"		"1"
+		"fs_select_11"		"1 0 0 2 0 0"
+
+		"fs_minpos_12"		"5840.0 3306.88 523.97" // 右侧楼顶
+		"fs_maxpos_12"		"5840.0 3464.47 523.97"
+		"fs_type_12"		"1"
+		"fs_select_12"		"1 3 0 2 12 6"
+
+		// SurFlow Change Spwn Type
+		"sur_flow_1"		"1.0"
+		"spawn_type1_1"		"1"
+		"spawn_type2_1"		"0"
+		"sur_flow_2"		"2280.0"
+		"spawn_type1_2"		"2"
+		"spawn_type2_2"		"2"
+		"sur_flow_3"		"3000.0"
+		"spawn_type1_3"		"1"
+		"spawn_type2_3"		"0"
+		"sur_flow_4"		"20550"
+		"spawn_type1_4"		"2"
+		"spawn_type2_4"		"0"
+		"sur_flow_5"		"21420.0"
+		"spawn_type1_5"		"1"
+		"spawn_type2_5"		"0"
+		"sur_flow_6"		"22300.0"
+		"spawn_type1_6"		"1"
+		"spawn_type2_6"		"0"
+	}
+	"c11m3_garage"
+	{
+		// FistSpawn Trigger
+		"min_trigger"		"130.0"
+		"max_trigger"		"150.0"
+		"trigger_type"		"0"
+		"map_ci"			"113"
+		"center_point"		"-5207.51 -3034.02 16.03"
+
+		// FirstSpawn Pos
+		"fs_minpos_1"		"-4963.79 -2810.44 72.72" // 前方右边墙后
+		"fs_type_1"			"0"
+		"fs_select_1"		"0 2 0 0 6 12"
+
+		"fs_minpos_2"		"-5141.57 -2363.38 16.03" // 前方车后
+		"fs_type_2"			"0"
+		"fs_select_2"		"0 0 4 0 0 0"
+
+		"fs_minpos_3"		"-5002.00 -2699.19 712.03" // 前方屋顶 *Duck
+		"fs_type_3"			"0"
+		"fs_select_3"		"2 0 0 0 3 3"
+
+		"fs_minpos_4"		"-5183.60 -3101.33 976.03" // 屋顶 *Duck
+		"fs_maxpos_4"		"-5183.60 -2898.36 976.03"
+		"fs_type_4"			"1"
+		"fs_select_4"		"0 3 0 0 9 3"
+
+		"fs_minpos_5"		"-5183.44 -2726.81 282.74" // 前方楼梯上 *1
+		"fs_type_5"			"0"
+		"fs_select_5"		"0 1 0 0 2 2"
+
+		"fs_minpos_6"		"-5182.05 -2773.19 418.74" // 前方楼梯上 *2
+		"fs_type_6"			"0"
+		"fs_select_6"		"0 1 0 0 2 2"
+
+		"fs_minpos_7"		"-5181.37 -2794.64 546.74" // 前方楼梯上 *3
+		"fs_type_7"			"0"
+		"fs_select_7"		"0 1 0 0 2 2"
+
+		"fs_minpos_8"		"-5202.90 -3164.62 464.03" // 后方屋顶
+		"fs_type_8"			"0"
+		"fs_select_8"		"4 2 0 7 6 6"
+
+		"fs_minpos_9"		"-5137.61 -3399.08 393.59" // 后方楼梯上 *1
+		"fs_type_9"			"0"
+		"fs_select_9"		"1 0 0 1 0 0"
+
+		"fs_minpos_10"		"-5183.99 -3479.46 273.74" // 后方楼梯上 *2
+		"fs_type_10"		"0"
+		"fs_select_10"		"1 0 0 1 0 0"
+
+		"fs_minpos_11"		"-4998.41 -3664.20 16.03" // 后方墙后
+		"fs_type_11"		"0"
+		"fs_select_11"		"2 0 1 1 0 0"
+
+		// SurFlow Change Spwn Type
+		"sur_flow_1"		"1.0"
+		"spawn_type1_1"		"2"
+		"spawn_type2_1"		"0"
+		"sur_flow_2"		"500.0"
+		"spawn_type1_2"		"1"
+		"spawn_type2_2"		"0"
+		"sur_flow_3"		"2450.0"
+		"spawn_type1_3"		"2"
+		"spawn_type2_3"		"0"
+		"sur_flow_4"		"8000.0"
+		"spawn_type1_4"		"1"
+		"spawn_type2_4"		"0"
+		"sur_flow_5"		"9500.0"
+		"spawn_type1_5"		"2"
+		"spawn_type2_5"		"0"
+		"sur_flow_6"		"12260.0"
+		"spawn_type1_6"		"1"
+		"spawn_type2_6"		"1"
+		"sur_flow_7"		"14260.0"
+		"spawn_type1_7"		"1"
+		"spawn_type2_7"		"0"
+		"sur_flow_8"		"17880.0"
+		"spawn_type1_8"		"1"
+		"spawn_type2_8"		"1"
+		"sur_flow_9"		"20330.0"
+		"spawn_type1_9"		"3"
+		"spawn_type2_9"		"0"
+		"sur_flow_10"		"20930.0"
+		"spawn_type1_10"	"1"
+		"spawn_type2_10"	"2"
+		"sur_flow_11"		"25300.0"
+		"spawn_type1_11"	"1"
+		"spawn_type2_11"	"0"
+	}
+	"c11m4_terminal"
+	{
+		// FistSpawn Trigger
+		"min_trigger"		"260.0"
+		"max_trigger"		"360.0"
+		"trigger_type"		"0"
+		"map_ci"			"114"
+		"center_point"		"-284.67 3280.03 296.03"
+
+		// SurFlow Change Spwn Type
+		"sur_flow_1"		"1.0"
+		"spawn_type1_1"		"1"
+		"spawn_type2_1"		"2"
+		"sur_flow_2"		"5750.0"
+		"spawn_type1_2"		"1"
+		"spawn_type2_2"		"0"
+		"sur_flow_3"		"18700.0"
+		"spawn_type1_3"		"1"
+		"spawn_type2_3"		"0"
+	}
+	"c11m5_runway"
+	{
+		// FistSpawn Trigger
+		"min_trigger"		"30.0"
+		"max_trigger"		"40.0"
+		"trigger_type"		"6"
+		"map_ci"			"115"
+		"center_point"		"-5638.25 11632.37 27.89"
+
+		// SurFlow Change Spwn Type
+		"sur_flow_1"		"1.0"
+		"spawn_type1_1"		"1"
+		"spawn_type2_1"		"0"
+		"sur_flow_2"		"4400.0"
+		"spawn_type1_2"		"1"
+		"spawn_type2_2"		"0"
+	}
+	"c12m1_hilltop"
+	{
+		// FistSpawn Trigger
+		"min_trigger"		"130.0"
+		"max_trigger"		"150.0"
+		"trigger_type"		"2"
+		"map_ci"			"121"
+		"center_point"		"-8896.55 -14758.11 360.63"
+
+		// SurFlow Change Spwn Type
+		"sur_flow_1"		"1.0"
+		"spawn_type1_1"		"1"
+		"spawn_type2_1"		"0"
+		"sur_flow_2"		"1690.0"
+		"spawn_type1_2"		"1"
+		"spawn_type2_2"		"0"
+		"sur_flow_3"		"5040.0"
+		"spawn_type1_3"		"1"
+		"spawn_type2_3"		"0"
+		"sur_flow_4"		"7610.0"
+		"spawn_type1_4"		"1"
+		"spawn_type2_4"		"0"
+		"sur_flow_5"		"11500.0"
+		"spawn_type1_5"		"1"
+		"spawn_type2_5"		"0"
+		"sur_flow_6"		"12680.0"
+		"spawn_type1_6"		"2"
+		"spawn_type2_6"		"0"
+		"sur_flow_7"		"14100.0"
+		"spawn_type1_7"		"1"
+		"spawn_type2_7"		"0"
+	}
+	"c12m2_traintunnel"
+	{
+		// FistSpawn Trigger
+		"min_trigger"		"80.0"
+		"max_trigger"		"90.0"
+		"trigger_type"		"0"
+		"map_ci"			"122"
+		"center_point"		"-6333.84 -6718.02 348.03"
+
+		// FirstSpawn Pos
+		"fs_minpos_1"		"-6304.84 -6992.25 348.03" // 前方墙后
+		"fs_type_1"			"0"
+		"fs_select_1"		"0 1 5 1 1 2"
+
+		"fs_minpos_2"		"-6276.88 -7126.45 256.03" // 前方下方楼梯上
+		"fs_type_2"			"0"
+		"fs_select_2"		"3 0 0 0 0 0"
+
+		"fs_minpos_3"		"-6350.24 -6511.96 348.03" // 后右方屋里
+		"fs_type_3"			"0"
+		"fs_select_3"		"0 1 3 0 1 3"
+
+		"fs_minpos_4"		"-6308.68 -6359.96 348.03" // 后方屋里
+		"fs_type_4"			"0"
+		"fs_select_4"		"2 0 2 4 0 0"
+
+		// SurFlow Change Spwn Type
+		"sur_flow_1"		"1.0"
+		"spawn_type1_1"		"1"
+		"spawn_type2_1"		"2"
+		"sur_flow_2"		"2500.0"
+		"spawn_type1_2"		"2"
+		"spawn_type2_2"		"2"
+		"sur_flow_3"		"4300.0"
+		"spawn_type1_3"		"1"
+		"spawn_type2_3"		"2"
+		"sur_flow_4"		"7350.0"
+		"spawn_type1_4"		"2"
+		"spawn_type2_4"		"0"
+		"sur_flow_5"		"10780.0"
+		"spawn_type1_5"		"1"
+		"spawn_type2_5"		"0"
+		"sur_flow_6"		"14620.0"
+		"spawn_type1_6"		"1"
+		"spawn_type2_6"		"0"
+	}
+	"c12m3_bridge"
+	{
+		// FistSpawn Trigger
+		"min_trigger"		"180.0"
+		"max_trigger"		"200.0"
+		"trigger_type"		"0"
+		"map_ci"			"123"
+		"center_point"		"-877.16 -10505.16 -63.96"
+
+		// FirstSpawn Pos
+		"fs_minpos_1"		"-407.31 -10675.93 -31.96" // 前方墙后
+		"fs_type_1"			"0"
+		"fs_select_1"		"1 7 4 3 2 7"
+
+		"fs_minpos_2"		"-1197.22 -10682.56 -63.96" // 后方墙后
+		"fs_type_2"			"0"
+		"fs_select_2"		"4 3 1 7 3 3"
+
+		// SurFlow Change Spwn Type
+		"sur_flow_1"		"1.0"
+		"spawn_type1_1"		"1"
+		"spawn_type2_1"		"0"
+		"sur_flow_2"		"2500.0"
+		"spawn_type1_2"		"1"
+		"spawn_type2_2"		"1"
+		"sur_flow_3"		"3470.0"
+		"spawn_type1_3"		"2"
+		"spawn_type2_3"		"0"
+		"sur_flow_4"		"6630.0"
+		"spawn_type1_4"		"1"
+		"spawn_type2_4"		"2"
+		"sur_flow_5"		"7380.0"
+		"spawn_type1_5"		"1"
+		"spawn_type2_5"		"0"
+		"sur_flow_6"		"15680.0"
+		"spawn_type1_6"		"1"
+		"spawn_type2_6"		"2"
+		"sur_flow_7"		"17800.0"
+		"spawn_type1_7"		"1"
+		"spawn_type2_7"		"0"
+	}
+	"c12m4_barn"
+	{
+		// FistSpawn Trigger
+		"min_trigger"		"240.0"
+		"max_trigger"		"300.0"
+		"trigger_type"		"0"
+		"map_ci"			"124"
+		"center_point"		"7756.58 -11249.58 440.03"
+
+		// FirstSpawn Pos
+		"fs_minpos_1"		"7582.45 -11433.85 650.00" // 屋顶
+		"fs_maxpos_1"		"7852.31 -11433.85 650.00"
+		"fs_type_1"			"1"
+		"fs_select_1"		"0 1 0 1 6 12"
+
+		"fs_minpos_2"		"7712.79 -10674.86 482.44" // 左侧石头后
+		"fs_type_2"			"0"
+		"fs_select_2"		"0 1 0 0 3 6"
+
+		"fs_minpos_3"		"8219.17 -10816.07 468.64" // 前方树后 *1
+		"fs_type_3"			"0"
+		"fs_select_3"		"0 0 14 0 1 2"
+
+		"fs_minpos_4"		"8209.07 -10623.72 422.04" // 前方树后 *2
+		"fs_type_4"			"0"
+		"fs_select_4"		"0 0 14 0 1 2"
+
+		"fs_minpos_5"		"7907.57 -10526.46 431.59" // 前方树后 *3
+		"fs_type_5"			"0"
+		"fs_select_5"		"0 0 14 0 1 2"
+
+		"fs_minpos_6"		"8488.67 -11115.17 628.87" // 右侧树后 *1
+		"fs_type_6"			"0"
+		"fs_select_6"		"9 0 9 0 3 3"
+
+		"fs_minpos_7"		"8466.27 -11020.54 602.55" // 右侧树后 *2
+		"fs_type_7"			"0"
+		"fs_select_7"		"9 0 9 0 3 3"
+
+		"fs_minpos_8"		"7326.77 -10738.34 943.97" // 左侧山上 *1
+		"fs_type_8"			"0"
+		"fs_select_8"		"8 2 0 1 2 8"
+
+		"fs_minpos_9"		"7211.82 -11278.20 933.60" // 左侧山上 *2
+		"fs_type_9"			"0"
+		"fs_select_9"		"8 2 0 1 2 8"
+
+		"fs_minpos_10"		"7414.21 -10610.39 907.42" // 左侧山上 *3
+		"fs_type_10"		"0"
+		"fs_select_10"		"8 2 0 1 2 8"
+
+		"fs_minpos_11"		"8486.78 -11350.58 970.23" // 右侧山上
+		"fs_type_11"		"0"
+		"fs_select_11"		"18 2 0 1 6 6"
+
+		// SurFlow Change Spwn Type
+		"sur_flow_1"		"1.0"
+		"spawn_type1_1"		"1"
+		"spawn_type2_1"		"0"
+		"sur_flow_2"		"2000.0"
+		"spawn_type1_2"		"2"
+		"spawn_type2_2"		"0"
+		"sur_flow_3"		"3000.0"
+		"spawn_type1_3"		"1"
+		"spawn_type2_3"		"0"
+		"sur_flow_4"		"4220.0"
+		"spawn_type1_4"		"2"
+		"spawn_type2_4"		"0"
+		"sur_flow_5"		"5000.0"
+		"spawn_type1_5"		"1"
+		"spawn_type2_5"		"0"
+		"sur_flow_6"		"6000.0"
+		"spawn_type1_6"		"2"
+		"spawn_type2_6"		"0"
+		"sur_flow_7"		"6800.0"
+		"spawn_type1_7"		"1"
+		"spawn_type2_7"		"0"
+		"sur_flow_8"		"16000.0"
+		"spawn_type1_8"		"1"
+		"spawn_type2_8"		"0"
+	}
+	"c12m5_cornfield"
+	{
+		// FistSpawn Trigger
+		"min_trigger"		"360.0"
+		"max_trigger"		"450.0"
+		"trigger_type"		"0"
+		"map_ci"			"125"
+		"center_point"		"10416.01 -164.78 -28.96"
+
+		// FirstSpawn Pos
+		"fs_minpos_1"		"10684.29 590.51 -80.81" // 前方树后
+		"fs_type_1"			"0"
+		"fs_select_1"		"1 0 3 0 1 1"
+
+		"fs_minpos_2"		"10900.98 543.58 -95.94" // 前右方树后
+		"fs_type_2"			"0"
+		"fs_select_2"		"2 0 1 2 3 1"
+
+		"fs_minpos_3"		"11012.80 -12.91 -104.15" // 右侧草丛
+		"fs_type_3"			"0"
+		"fs_select_3"		"3 3 1 1 3 5"
+
+		"fs_minpos_4"		"9944.00 435.08 443.14" // 左侧山上
+		"fs_type_4"			"0"
+		"fs_select_4"		"2 7 0 7 3 3"
+
+		"fs_minpos_5"		"10549.16 -625.47 260.03" // 后方桥柱上
+		"fs_type_5"			"0"
+		"fs_select_5"		"2 0 0 0 0 0"
+
+		// SurFlow Change Spwn Type
+		"sur_flow_1"		"1.0"
+		"spawn_type1_1"		"1"
+		"spawn_type2_1"		"0"
+		"sur_flow_2"		"5700.0"
+		"spawn_type1_2"		"2"
+		"spawn_type2_2"		"2"
+		"sur_flow_3"		"7600.0"
+		"spawn_type1_3"		"1"
+		"spawn_type2_3"		"0"
+		"sur_flow_4"		"12000.0"
+		"spawn_type1_4"		"1"
+		"spawn_type2_4"		"0"
+	}
+	"c13m1_alpinecreek"
+	{
+		// FistSpawn Trigger
+		"min_trigger"		"120.0"
+		"max_trigger"		"155.0"
+		"trigger_type"		"3"
+		"map_ci"			"131"
+		"center_point"		"-2978.21 -238.69 75.99"
+
+		// FirstSpawn Pos
+		"fs_minpos_1"		"-2911.08 152.26 96.03" // 前方石头后
+		"fs_type_1"			"0"
+		"fs_select_1"		"0 2 8 0 0 8"
+
+		"fs_minpos_2"		"-3475.46 -711.92 558.74" // 左侧山上 *1
+		"fs_type_2"			"0"
+		"fs_select_2"		"9 4 0 7 2 3"
+
+		"fs_minpos_3"		"-3523.76 -246.01 577.60" // 左侧山上 *2
+		"fs_type_3"			"0"
+		"fs_select_3"		"9 4 0 7 2 3"
+
+		"fs_minpos_4"		"-3569.07 134.44 551.62" // 左侧山上 *3
+		"fs_type_4"			"0"
+		"fs_select_4"		"9 4 0 7 2 3"
+
+		"fs_minpos_5"		"-3639.08 416.89 573.14" // 左侧山上 *4
+		"fs_type_5"			"0"
+		"fs_select_5"		"9 4 0 7 2 3"
+
+		"fs_minpos_6"		"-2502.24 -266.26 317.24" // 右侧树后 *1
+		"fs_type_6"			"0"
+		"fs_select_6"		"2 1 1 6 1 0"
+
+		"fs_minpos_7"		"-2501.61 -0.63 304.93" // 右侧树后 *2
+		"fs_type_7"			"0"
+		"fs_select_7"		"2 1 1 6 1 0"
+
+		// SurFlow Change Spwn Type
+		"sur_flow_1"		"1.0"
+		"spawn_type1_1"		"2"
+		"spawn_type2_1"		"0"
+		"sur_flow_2"		"1470.0"
+		"spawn_type1_2"		"1"
+		"spawn_type2_2"		"0"
+		"sur_flow_3"		"3730.0"
+		"spawn_type1_3"		"2"
+		"spawn_type2_3"		"2"
+		"sur_flow_4"		"6010.0"
+		"spawn_type1_4"		"1"
+		"spawn_type2_4"		"0"
+		"sur_flow_5"		"13000.0"
+		"spawn_type1_5"		"1"
+		"spawn_type2_5"		"0"
+	}
+	"c13m2_southpinestream"
+	{
+		// FistSpawn Trigger
+		"min_trigger"		"620.0"
+		"max_trigger"		"680.0"
+		"trigger_type"		"4"
+		"map_ci"			"132"
+		"center_point"		"8047.64 7271.96 449.20"
+
+		// FirstSpawn Pos
+		"fs_minpos_1"		"7940.46 6326.34 447.79" // 右侧纸箱后
+		"fs_type_1"			"0"
+		"fs_select_1"		"0 1 9 0 1 1"
+
+		"fs_minpos_2"		"8215.39 6036.96 466.44" // 左侧纸箱后
+		"fs_type_2"			"0"
+		"fs_select_2"		"1 0 1 1 0 0"
+
+		// SurFlow Change Spwn Type
+		"sur_flow_1"		"1.0"
+		"spawn_type1_1"		"1"
+		"spawn_type2_1"		"1"
+		"sur_flow_2"		"2260.0"
+		"spawn_type1_2"		"2"
+		"spawn_type2_2"		"0"
+		"sur_flow_3"		"6710.0"
+		"spawn_type1_3"		"1"
+		"spawn_type2_3"		"2"
+		"sur_flow_4"		"9400.0"
+		"spawn_type1_4"		"1"
+		"spawn_type2_4"		"0"
+		"sur_flow_5"		"12500.0"
+		"spawn_type1_5"		"1"
+		"spawn_type2_5"		"2"
+		"sur_flow_6"		"14070.0"
+		"spawn_type1_6"		"1"
+		"spawn_type2_6"		"0"
+		"sur_flow_7"		"20650.0"
+		"spawn_type1_7"		"1"
+		"spawn_type2_7"		"1"
+		"sur_flow_8"		"21860.0"
+		"spawn_type1_8"		"1"
+		"spawn_type2_8"		"0"
+		"sur_flow_9"		"25600.0"
+		"spawn_type1_9"		"1"
+		"spawn_type2_9"		"0"
+	}
+	"c13m3_memorialbridge"
+	{
+		// FistSpawn Trigger
+		"min_trigger"		"100.0"
+		"max_trigger"		"200.0"
+		"trigger_type"		"0"
+		"map_ci"			"133"
+		"center_point"		"-4162.74 -5092.82 96.03"
+
+		// SurFlow Change Spwn Type
+		"sur_flow_1"		"1.0"
+		"spawn_type1_1"		"0"
+		"spawn_type2_1"		"0"
+		"sur_flow_2"		"2160.0"
+		"spawn_type1_2"		"1"
+		"spawn_type2_2"		"0"
+		"sur_flow_3"		"3540.0"
+		"spawn_type1_3"		"2"
+		"spawn_type2_3"		"2"
+		"sur_flow_4"		"6760.0"
+		"spawn_type1_4"		"1"
+		"spawn_type2_4"		"0"
+		"sur_flow_5"		"13570.0"
+		"spawn_type1_5"		"1"
+		"spawn_type2_5"		"1"
+		"sur_flow_6"		"16800.0"
+		"spawn_type1_6"		"1"
+		"spawn_type2_6"		"0"
+		"sur_flow_7"		"18000.0"
+		"spawn_type1_7"		"2"
+		"spawn_type2_7"		"0"
+		"sur_flow_8"		"19000.0"
+		"spawn_type1_8"		"1"
+		"spawn_type2_8"		"0"
+		"sur_flow_9"		"24400.0"
+		"spawn_type1_9"		"1"
+		"spawn_type2_9"		"0"
+	}
+	"c13m4_cutthroatcreek"
+	{
+		// FistSpawn Trigger
+		"min_trigger"		"250.0"
+		"max_trigger"		"300.0"
+		"trigger_type"		"0"
+		"map_ci"			"134"
+		"center_point"		"-3181.62 -8875.12 360.03"
+
+		// FirstSpawn Pos
+		"fs_minpos_1"		"-3667.85 -8241.58 723.03" // 前方屋顶
+		"fs_type_1"			"0"
+		"fs_select_1"		"3 1 0 6 3 3"
+
+		"fs_minpos_2"		"-3676.68 -8373.45 807.33" // 前方屋顶高点
+		"fs_type_2"			"0"
+		"fs_select_2"		"1 0 0 1 1 0"
+
+		"fs_minpos_3"		"-3659.53 -8900.59 356.03" // 左侧墙后
+		"fs_type_3"			"0"
+		"fs_select_3"		"2 0 1 1 2 2"
+
+		"fs_minpos_4"		"-3693.22 -8757.07 348.03" // 左侧树后
+		"fs_type_4"			"0"
+		"fs_select_4"		"1 0 3 0 0 0"
+
+		"fs_minpos_5"		"-3102.23 -8332.98 348.03" // 前方树后(近点)
+		"fs_type_5"			"0"
+		"fs_select_5"		"0 2 3 0 2 3"
+
+		"fs_minpos_6"		"-3070.28 -8147.16 348.03" // 前方树后(远点)
+		"fs_type_6"			"0"
+		"fs_select_6"		"2 0 0 1 0 0"
+
+		"fs_minpos_7"		"-2747.63 -8671.22 348.03" // 右侧树后(近点)
+		"fs_type_7"			"0"
+		"fs_select_7"		"0 2 3 0 2 2"
+
+		"fs_minpos_8"		"-2770.63 -8416.01 348.11" // 右侧树后(远点)
+		"fs_type_8"			"0"
+		"fs_select_8"		"1 0 0 1 0 0"
+
+		// SurFlow Change Spwn Type
+		"sur_flow_1"		"1.0"
+		"spawn_type1_1"		"1"
+		"spawn_type2_1"		"1"
+		"sur_flow_2"		"2340.0"
+		"spawn_type1_2"		"2"
+		"spawn_type2_2"		"0"
+		"sur_flow_3"		"2680.0"
+		"spawn_type1_3"		"1"
+		"spawn_type2_3"		"0"
+		"sur_flow_4"		"4600.0"
+		"spawn_type1_4"		"2"
+		"spawn_type2_4"		"2"
+		"sur_flow_5"		"10500.0"
+		"spawn_type1_5"		"1"
+		"spawn_type2_5"		"0"
+		"sur_flow_6"		"12340.0"
+		"spawn_type1_6"		"2"
+		"spawn_type2_6"		"0"
+		"sur_flow_7"		"13500.0"
+		"spawn_type1_7"		"1"
+		"spawn_type2_7"		"1"
+		"sur_flow_8"		"15520.0"
+		"spawn_type1_8"		"2"
+		"spawn_type2_8"		"0"
+		"sur_flow_9"		"24100.0"
+		"spawn_type1_9"		"1"
+		"spawn_type2_9"		"0"
+	}
+	"c14m1_junkyard"
+	{
+		// FistSpawn Trigger
+		"min_trigger"		"240.0"
+		"max_trigger"		"290.0"
+		"trigger_type"		"3"
+		"map_ci"			"141"
+		"center_point"		"-4146.01 -9923.53 -254.86"
+
+		// SurFlow Change Spwn Type
+		"sur_flow_1"		"1.0"
+		"spawn_type1_1"		"1"
+		"spawn_type2_1"		"0"
+		"sur_flow_2"		"3500.0"
+		"spawn_type1_2"		"1"
+		"spawn_type2_2"		"0"
+		"sur_flow_3"		"5200.0"
+		"spawn_type1_3"		"2"
+		"spawn_type2_3"		"0"
+		"sur_flow_4"		"6000.0"
+		"spawn_type1_4"		"1"
+		"spawn_type2_4"		"0"
+		"sur_flow_5"		"6780.0"
+		"spawn_type1_5"		"2"
+		"spawn_type2_5"		"0"
+		"sur_flow_6"		"8510.0"
+		"spawn_type1_6"		"1"
+		"spawn_type2_6"		"0"
+		"sur_flow_7"		"10700.0"
+		"spawn_type1_7"		"2"
+		"spawn_type2_7"		"0"
+		"sur_flow_8"		"12760.0"
+		"spawn_type1_8"		"1"
+		"spawn_type2_8"		"0"
+		"sur_flow_9"		"13860.0"
+		"spawn_type1_9"		"2"
+		"spawn_type2_9"		"0"
+		"sur_flow_10"		"15220.0"
+		"spawn_type1_10"	"1"
+		"spawn_type2_10"	"0"
+		"sur_flow_11"		"16370.0"
+		"spawn_type1_11"	"2"
+		"spawn_type2_11"	"0"
+		"sur_flow_12"		"17210.0"
+		"spawn_type1_12"	"1"
+		"spawn_type2_12"	"0"
+		"sur_flow_13"		"20530.0"
+		"spawn_type1_13"	"2"
+		"spawn_type2_13"	"0"
+		"sur_flow_14"		"23650.0"
+		"spawn_type1_14"	"1"
+		"spawn_type2_14"	"0"
+		"sur_flow_15"		"19400.0"
+		"spawn_type1_15"	"2"
+		"spawn_type2_15"	"0"
+		"sur_flow_16"		"33300.0"
+		"spawn_type1_16"	"1"
+		"spawn_type2_16"	"0"
+	}
+	"c14m2_lighthouse"
+	{
+		// FistSpawn Trigger
+		"min_trigger"		"170.0"
+		"max_trigger"		"190.0"
+		"trigger_type"		"0"
+		"map_ci"			"142"
+		"center_point"		"1908.88 -961.15 448.03"
+
+		// FirstSpawn Pos
+		"fs_minpos_1"		"2064.68 -1176.39 707.63" // 屋顶
+		"fs_maxpos_1"		"2064.68 -733.16 707.63"
+		"fs_type_1"			"1"
+		"fs_select_1"		"0 2 0 9 3 0"
+
+		"fs_minpos_2"		"1859.75 -1484.80 463.63" // 左侧柴堆后
+		"fs_type_2"			"0"
+		"fs_select_2"		"0 2 2 0 3 0"
+
+		"fs_minpos_3"		"1211.91 -949.15 327.77" // 前方车后
+		"fs_type_3"			"0"
+		"fs_select_3"		"3 0 7 0 0 0"
+
+		"fs_minpos_4"		"1933.92 -658.82 446.72" // 右侧墙后
+		"fs_type_4"			"0"
+		"fs_select_4"		"1 1 1 1 4 1"
+
+		"fs_minpos_5"		"1346.21 -362.58 314.60" // 前方栅栏后
+		"fs_type_5"			"0"
+		"fs_select_5"		"1 0 0 0 0 0"
+
+		// SurFlow Change Spwn Type
+		"sur_flow_1"		"1.0"
+		"spawn_type1_1"		"1"
+		"spawn_type2_1"		"0"
+		"sur_flow_2"		"2950.0"
+		"spawn_type1_2"		"2"
+		"spawn_type2_2"		"0"
+		"sur_flow_3"		"6900.0"
+		"spawn_type1_3"		"1"
+		"spawn_type2_3"		"0"
+		"sur_flow_4"		"10400.0"
+		"spawn_type1_4"		"1"
+		"spawn_type2_4"		"0"
+	}
+	"dcr_m1_hotel"
+	{
+		// FistSpawn Trigger
+		"min_trigger"		"140.0"
+		"max_trigger"		"240.0"
+		"trigger_type"		"1"
+		"map_ci"			"151"
+		"center_point"		"392.20 5628.05 2656.03"
+
+		// SurFlow Change Spwn Type
+		"sur_flow_1"		"1.0"
+		"spawn_type1_1"		"1"
+		"spawn_type2_1"		"0"
+		"sur_flow_2"		"3770.0"
+		"spawn_type1_2"		"1"
+		"spawn_type2_2"		"1"
+		"sur_flow_3"		"5720.0"
+		"spawn_type1_3"		"1"
+		"spawn_type2_3"		"0"
+		"sur_flow_4"		"8550.0"
+		"spawn_type1_4"		"1"
+		"spawn_type2_4"		"2"
+		"sur_flow_5"		"9210.0"
+		"spawn_type1_5"		"1"
+		"spawn_type2_5"		"1"
+		"sur_flow_6"		"10240.0"
+		"spawn_type1_6"		"1"
+		"spawn_type2_6"		"0"
+		"sur_flow_7"		"14600.0"
+		"spawn_type1_7"		"1"
+		"spawn_type2_7"		"0"
+	}
+	"dcr_m2_streets"
+	{
+		// FistSpawn Trigger
+		"min_trigger"		"100.0"
+		"max_trigger"		"110.0"
+		"trigger_type"		"0"
+		"map_ci"			"152"
+		"center_point"		"2317.43 4939.82 448.03"
+
+		// FirstSpawn Pos
+		"fs_minpos_1"		"2000.0 4661.26 704.03" // 右边顶上
+		"fs_maxpos_1"		"2000.0 4911.98 704.03"
+		"fs_type_1"			"1"
+		"fs_select_1"		"0 4 0 3 4 4"
+
+		"fs_minpos_2"		"2075.36 4591.96 451.23" // 前方墙后
+		"fs_type_2"			"0"
+		"fs_select_2"		"0 3 1 0 1 1"
+
+		"fs_minpos_3"		"1695.96 4616.19 448.81" // 右方墙后
+		"fs_type_3"			"0"
+		"fs_select_3"		"1 0 1 1 0 0"
+
+		"fs_minpos_4"		"2592.69 4640.48 448.03" // 左方车厢后
+		"fs_type_4"			"0"
+		"fs_select_4"		"0 3 1 0 1 1"
+
+		"fs_minpos_5"		"1761.54 4504.50 460.16" // 右方车厢后
+		"fs_type_5"			"0"
+		"fs_select_5"		"1 0 0 1 0 0"
+
+		"fs_minpos_6"		"2567.37 4457.84 640.03" // 左方车厢顶部
+		"fs_type_6"			"0"
+		"fs_select_6"		"1 0 0 0 0 0"
+
+		"fs_minpos_7"		"1911.24 4558.31 631.88" // 右方车厢顶部
+		"fs_type_7"			"0"
+		"fs_select_7"		"0 0 0 1 0 0"
+
+		"fs_minpos_8"		"2659.93 4893.37 448.03" // 左方盆栽后
+		"fs_type_8"			"0"
+		"fs_select_8"		"1 0 1 0 0 0"
+
+		"fs_minpos_9"		"1717.51 4887.99 448.03" // 右方盆栽后
+		"fs_type_9"			"0"
+		"fs_select_9"		"1 0 1 0 0 0"
+
+		// SurFlow Change Spwn Type
+		"sur_flow_1"		"1.0"
+		"spawn_type1_1"		"1"
+		"spawn_type2_1"		"0"
+		"sur_flow_2"		"3510.0"
+		"spawn_type1_2"		"1"
+		"spawn_type2_2"		"1"
+		"sur_flow_3"		"6220.0"
+		"spawn_type1_3"		"1"
+		"spawn_type2_3"		"0"
+		"sur_flow_4"		"7400.0"
+		"spawn_type1_4"		"2"
+		"spawn_type2_4"		"2"
+		"sur_flow_5"		"8670.0"
+		"spawn_type1_5"		"1"
+		"spawn_type2_5"		"0"
+		"sur_flow_6"		"14860.0"
+		"spawn_type1_6"		"2"
+		"spawn_type2_6"		"0"
+		"sur_flow_7"		"21850.0"
+		"spawn_type1_7"		"1"
+		"spawn_type2_7"		"0"
+		"sur_flow_8"		"34700.0"
+		"spawn_type1_8"		"1"
+		"spawn_type2_8"		"0"
+	}
+	"dcr_m3_mall"
+	{
+		// FistSpawn Trigger
+		"min_trigger"		"120.0"
+		"max_trigger"		"140.0"
+		"trigger_type"		"0"
+		"map_ci"			"153"
+		"center_point"		"6905.75 -1526.57 24.03"
+
+		// SurFlow Change Spwn Type
+		"sur_flow_1"		"1.0"
+		"spawn_type1_1"		"1"
+		"spawn_type2_1"		"0"
+		"sur_flow_2"		"3000.0"
+		"spawn_type1_2"		"2"
+		"spawn_type2_2"		"0"
+		"sur_flow_3"		"5790.0"
+		"spawn_type1_3"		"1"
+		"spawn_type2_3"		"2"
+		"sur_flow_4"		"9000.0"
+		"spawn_type1_4"		"1"
+		"spawn_type2_4"		"0"
+		"sur_flow_5"		"18900.0"
+		"spawn_type1_5"		"1"
+		"spawn_type2_5"		"2"
+		"sur_flow_6"		"22620.0"
+		"spawn_type1_6"		"1"
+		"spawn_type2_6"		"0"
+		"sur_flow_7"		"25330.0"
+		"spawn_type1_7"		"3"
+		"spawn_type2_7"		"0"
+		"sur_flow_8"		"29000.0"
+		"spawn_type1_8"		"1"
+		"spawn_type2_8"		"0"
+		"sur_flow_9"		"33510.0"
+		"spawn_type1_9"		"1"
+		"spawn_type2_9"		"2"
+		"sur_flow_10"		"36900.0"
+		"spawn_type1_10"	"1"
+		"spawn_type2_10"	"0"
+	}
+	"dcr_m4_atrium"
+	{
+		// FistSpawn Trigger
+		"min_trigger"		"160.0"
+		"max_trigger"		"190.0"
+		"trigger_type"		"2"
+		"map_ci"			"154"
+		"center_point"		"-4516.25 -6865.66 536.03"
+
+		// SurFlow Change Spwn Type
+		"sur_flow_1"		"1.0"
+		"spawn_type1_1"		"1"
+		"spawn_type2_1"		"0"
+		"sur_flow_2"		"1720.0"
+		"spawn_type1_2"		"1"
+		"spawn_type2_2"		"2"
+		"sur_flow_3"		"3770.0"
+		"spawn_type1_3"		"1"
+		"spawn_type2_3"		"0"
+		"sur_flow_4"		"5900.0"
+		"spawn_type1_4"		"2"
+		"spawn_type2_4"		"2"
+		"sur_flow_5"		"8000.0"
+		"spawn_type1_5"		"1"
+		"spawn_type2_5"		"0"
+		"sur_flow_6"		"20000.0"
+		"spawn_type1_6"		"1"
+		"spawn_type2_6"		"0"
+	}
+	"DCR1_meetup_F"
+	{
+		// FistSpawn Trigger
+		"min_trigger"		"180.0"
+		"max_trigger"		"240.0"
+		"trigger_type"		"2"
+		"map_ci"			"161"
+		"center_point"		"14049.30 610.95 1171.14"
+
+		// FirstSpawn Pos
+		"fs_minpos_1"		"14056.62 231.37 1848.03" // 左后方楼顶
+		"fs_maxpos_1"		"14203.62 245.36 1848.03"
+		"fs_type_1"			"1"
+		"fs_select_1"		"0 1 0 2 3 2"
+
+		"fs_minpos_2"		"14117.77 1013.26 2205.03" // 右后方楼顶
+		"fs_maxpos_2"		"14320.78 1093.89 2205.03"
+		"fs_type_2"			"1"
+		"fs_select_2"		"0 0 0 0 1 1"
+
+		"fs_minpos_3"		"13770.21 19.98 1642.80" // 左边楼上
+		"fs_maxpos_3"		"13995.16 19.98 1642.80"
+		"fs_type_3"			"1"
+		"fs_select_3"		"1 2 0 1 2 5"
+
+		"fs_minpos_4"		"13532.37 1133.51 1504.03" // 右边顶上
+		"fs_maxpos_4"		"13718.45 1148.11 1504.03"
+		"fs_type_4"			"1"
+		"fs_select_4"		"2 2 0 0 1 2"
+
+		"fs_minpos_5"		"13431.86 429.05 1170.31" // 左侧白车后 *1
+		"fs_type_5"			"0"
+		"fs_select_5"		"1 0 1 0 0 0"
+
+		"fs_minpos_6"		"13340.57 525.98 1172.68" // 左侧白车后 *2
+		"fs_type_6"			"0"
+		"fs_select_6"		"1 0 1 0 1 0"
+
+		"fs_minpos_7"		"13331.96 1028.88 1169.03" // 右侧柱子后
+		"fs_type_7"			"0"
+		"fs_select_7"		"2 0 2 0 0 0"
+
+		// SurFlow Change Spwn Type
+		"sur_flow_1"		"1.0"
+		"spawn_type1_1"		"2"
+		"spawn_type2_1"		"0"
+		"sur_flow_2"		"1540.0"
+		"spawn_type1_2"		"1"
+		"spawn_type2_2"		"0"
+		"sur_flow_3"		"5280.0"
+		"spawn_type1_3"		"2"
+		"spawn_type2_3"		"0"
+		"sur_flow_4"		"6430.0"
+		"spawn_type1_4"		"1"
+		"spawn_type2_4"		"0"
+		"sur_flow_5"		"11600.0"
+		"spawn_type1_5"		"1"
+		"spawn_type2_5"		"1"
+		"sur_flow_6"		"14100.0"
+		"spawn_type1_6"		"1"
+		"spawn_type2_6"		"0"
+		"sur_flow_7"		"15640.0"
+		"spawn_type1_7"		"1"
+		"spawn_type2_7"		"1"
+		"sur_flow_8"		"18170.0"
+		"spawn_type1_8"		"1"
+		"spawn_type2_8"		"0"
+		"sur_flow_9"		"19770.0"
+		"spawn_type1_9"		"2"
+		"spawn_type2_9"		"2"
+		"sur_flow_10"		"22500.0"
+		"spawn_type1_10"	"1"
+		"spawn_type2_10"	"1"
+		"sur_flow_11"		"25000.0"
+		"spawn_type1_11"	"1"
+		"spawn_type2_11"	"0"
+	}
+	"DCR2_TheVannha_F"
+	{
+		// FistSpawn Trigger
+		"min_trigger"		"150.0"
+		"max_trigger"		"190.0"
+		"trigger_type"		"0"
+		"map_ci"			"162"
+		"center_point"		"1707.08 7674.29 2840.03"
+
+		// FirstSpawn Pos
+		"fs_minpos_1"		"1715.76 7747.89 2976.03" // 屋顶
+		"fs_maxpos_1"		"2002.32 7747.89 2976.03"
+		"fs_type_1"			"1"
+		"fs_select_1"		"0 3 0 0 3 2"
+
+		"fs_minpos_2"		"2080.00 7681.45 2874.03" // 左边边缘栏杆上
+		"fs_type_2"			"0"
+		"fs_select_2"		"0 1 0 0 1 1"
+
+		"fs_minpos_3"		"2042.88 7415.07 2832.03" // 左方电箱后
+		"fs_maxpos_3"		"2042.88 7483.36 2832.03"
+		"fs_type_3"			"1"
+		"fs_select_3"		"0 1 2 0 1 2"
+
+		"fs_minpos_4"		"2100.07 7000.19 2960.03" // 前方顶上
+		"fs_type_4"			"0"
+		"fs_select_4"		"1 0 0 0 0 0"
+
+		"fs_minpos_5"		"2160.03 7079.37 2817.01" // 前方墙后
+		"fs_type_5"			"0"
+		"fs_select_5"		"1 0 3 0 0 0"
+
+		// WaitSpawn Trigger
+		"wl_minpos_1"		"2060.00 5720.00 1160.00"
+		"wl_maxpos_1"		"2260.00 5900.00 2450.00"
+		"ws_mintrdist_1"	"80.0"
+		"ws_maxtrdist_1"	"100.0"
+		"ws_trtype_1"		"2"
+		"ws_cpoint_1"		"2171.65 5671.48 1184.03"
+
+		// SurFlow Change Spwn Type
+		"sur_flow_1"		"1.0"
+		"spawn_type1_1"		"1"
+		"spawn_type2_1"		"0"
+		"sur_flow_2"		"2100.0"
+		"spawn_type1_2"		"1"
+		"spawn_type2_2"		"2"
+		"sur_flow_3"		"4340.0"
+		"spawn_type1_3"		"1"
+		"spawn_type2_3"		"1"
+		"sur_flow_4"		"9400.0"
+		"spawn_type1_4"		"1"
+		"spawn_type2_4"		"0"
+		"sur_flow_5"		"9810.0"
+		"spawn_type1_5"		"1"
+		"spawn_type2_5"		"1"
+		"sur_flow_6"		"14000.0"
+		"spawn_type1_6"		"1"
+		"spawn_type2_6"		"0"
+		"sur_flow_7"		"18570.0"
+		"spawn_type1_7"		"2"
+		"spawn_type2_7"		"0"
+		"sur_flow_8"		"20000.0"
+		"spawn_type1_8"		"1"
+		"spawn_type2_8"		"0"
+	}
+	"DCR3_Streets_F"
+	{
+		// FistSpawn Trigger
+		"min_trigger"		"110.0"
+		"max_trigger"		"130.0"
+		"trigger_type"		"0"
+		"map_ci"			"163"
+		"center_point"		"2313.79 4936.83 448.03"
+
+		// FirstSpawn Pos
+		"fs_minpos_1"		"2046.00 4757.01 704.03" // 右方顶上
+		"fs_maxpos_1"		"2046.00 4904.61 704.03"
+		"fs_type_1"			"1"
+		"fs_select_1"		"0 3 0 4 4 2"
+
+		"fs_minpos_2"		"2668.00 4879.87 477.97" // 左侧树后
+		"fs_type_2"			"0"
+		"fs_select_2"		"0 1 0 0 1 1"
+
+		"fs_minpos_3"		"2904.11 4868.06 448.03" // 左侧箱子后 *1
+		"fs_type_3"			"0"
+		"fs_select_3"		"1 0 1 0 0 0"
+
+		"fs_minpos_4"		"3023.75 4723.09 448.03" // 左侧箱子后 *2
+		"fs_type_4"			"0"
+		"fs_select_4"		"1 0 1 0 0 0"
+
+		"fs_minpos_5"		"2661.03 4548.69 455.70" // 左侧墙后
+		"fs_type_5"			"0"
+		"fs_select_5"		"1 0 2 0 1 0"
+
+		"fs_minpos_6"		"2416.97 4152.77 507.31" // 前方墙后
+		"fs_type_6"			"0"
+		"fs_select_6"		"1 0 0 1 0 0"
+
+		"fs_minpos_7"		"2594.81 4341.62 645.00" // 左方车厢上
+		"fs_type_7"			"0"
+		"fs_select_7"		"1 0 1 1 0 0"
+
+		"fs_minpos_8"		"2069.98 4586.90 451.71" // 右方墙后
+		"fs_type_8"			"0"
+		"fs_select_8"		"0 1 4 0 3 2"
+
+		"fs_minpos_9"		"1978.16 4640.53 448.03" // 右方纸箱后
+		"fs_type_9"			"0"
+		"fs_select_9"		"0 1 1 0 1 1"
+
+		"fs_minpos_10"		"2178.70 4966.00 960.03" // 头顶
+		"fs_maxpos_10"		"2539.06 4966.00 960.03"
+		"fs_type_10"		"1"
+		"fs_select_10"		"0 3 0 4 4 3"
+
+		"fs_minpos_11"		"1695.99 4623.45 448.08" // 右侧栅栏外墙后
+		"fs_type_11"		"0"
+		"fs_select_11"		"1 0 0 0 0 0"
+
+		"fs_minpos_12"		"1748.43 4494.99 460.87" // 右侧栅栏外车厢后
+		"fs_type_12"		"0"
+		"fs_select_12"		"1 0 0 0 0 0"
+
+		// SurFlow Change Spwn Type
+		"sur_flow_1"		"1.0"
+		"spawn_type1_1"		"1"
+		"spawn_type2_1"		"0"
+		"sur_flow_2"		"4670.0"
+		"spawn_type1_2"		"2"
+		"spawn_type2_2"		"0"
+		"sur_flow_3"		"9180.0"
+		"spawn_type1_3"		"1"
+		"spawn_type2_3"		"2"
+		"sur_flow_4"		"11900.0"
+		"spawn_type1_4"		"2"
+		"spawn_type2_4"		"0"
+		"sur_flow_5"		"13460.0"
+		"spawn_type1_5"		"1"
+		"spawn_type2_5"		"0"
+		"sur_flow_6"		"15555.0"
+		"spawn_type1_6"		"1"
+		"spawn_type2_6"		"1"
+		"sur_flow_7"		"17380.0"
+		"spawn_type1_7"		"1"
+		"spawn_type2_7"		"0"
+		"sur_flow_8"		"19020.0"
+		"spawn_type1_8"		"2"
+		"spawn_type2_8"		"0"
+		"sur_flow_9"		"20710.0"
+		"spawn_type1_9"		"1"
+		"spawn_type2_9"		"1"
+		"sur_flow_10"		"21390.0"
+		"spawn_type1_10"	"1"
+		"spawn_type2_10"	"0"
+		"sur_flow_11"		"23140.0"
+		"spawn_type1_11"	"1"
+		"spawn_type2_11"	"2"
+		"sur_flow_12"		"27020.0"
+		"spawn_type1_12"	"1"
+		"spawn_type2_12"	"0"
+		"sur_flow_13"		"34250.0"
+		"spawn_type1_13"	"2"
+		"spawn_type2_13"	"0"
+		"sur_flow_14"		"36500.0"
+		"spawn_type1_14"	"1"
+		"spawn_type2_14"	"1"
+		"sur_flow_15"		"38200.0"
+		"spawn_type1_15"	"1"
+		"spawn_type2_15"	"0"
+	}
+	"DCR4_Mallentrance_F"
+	{
+		// FistSpawn Trigger
+		"min_trigger"		"150.0"
+		"max_trigger"		"180.0"
+		"trigger_type"		"4"
+		"map_ci"			"164"
+		"center_point"		"-4115.49 2207.10 64.03"
+
+		// FirstSpawn Pos
+		"fs_minpos_1"		"-3888.45 2224.03 320.03" // 二楼
+		"fs_type_1"			"0"
+		"fs_select_1"		"0 3 0 1 4 2"
+
+		"fs_minpos_2"		"-3870.00 1850.76 512.03" // 屋顶
+		"fs_maxpos_2"		"-3870.00 2116.18 512.03"
+		"fs_type_2"			"1"
+		"fs_select_2"		"1 3 0 3 3 3"
+
+		"fs_minpos_3"		"-4399.81 2282.09 320.03" // 右边桥上
+		"fs_type_3"			"0"
+		"fs_select_3"		"2 0 0 0 0 0"
+
+		"fs_minpos_4"		"-4491.63 1939.88 640.03" // 前方楼顶栅栏后 (高点)
+		"fs_type_4"			"0"
+		"fs_select_4"		"1 1 0 0 0 0"
+
+		"fs_minpos_5"		"-4501.67 1723.97 440.03" // 前方楼顶栅栏后 (低点)
+		"fs_type_5"			"0"
+		"fs_select_5"		"2 1 0 0 0 0"
+
+		"fs_minpos_6"		"-3872.68 1775.99 384.03" // 左方草丛旁边顶上
+		"fs_type_6"			"0"
+		"fs_select_6"		"1 2 0 1 3 3"
+
+		"fs_minpos_7"		"-4279.89 1889.64 64.03" // 前方墙后 (近点)
+		"fs_type_7"			"0"
+		"fs_select_7"		"0 1 1 0 1 2"
+
+		"fs_minpos_8"		"-4399.97 1780.11 69.58" // 前方墙后 (远点)
+		"fs_type_8"			"0"
+		"fs_select_8"		"0 0 0 2 0 0"
+
+		// SurFlow Change Spwn Type
+		"sur_flow_1"		"1.0"
+		"spawn_type1_1"		"1"
+		"spawn_type2_1"		"0"
+		"sur_flow_2"		"3070.0"
+		"spawn_type1_2"		"2"
+		"spawn_type2_2"		"0"
+		"sur_flow_3"		"4540.0"
+		"spawn_type1_3"		"1"
+		"spawn_type2_3"		"0"
+		"sur_flow_4"		"5800.0"
+		"spawn_type1_4"		"2"
+		"spawn_type2_4"		"0"
+		"sur_flow_5"		"13000.0"
+		"spawn_type1_5"		"1"
+		"spawn_type2_5"		"0"
+		"sur_flow_6"		"15320.0"
+		"spawn_type1_6"		"2"
+		"spawn_type2_6"		"0"
+		"sur_flow_7"		"17000.0"
+		"spawn_type1_7"		"1"
+		"spawn_type2_7"		"0"
+		"sur_flow_8"		"20330.0"
+		"spawn_type1_8"		"2"
+		"spawn_type2_8"		"2"
+		"sur_flow_9"		"21000.0"
+		"spawn_type1_9"		"2"
+		"spawn_type2_9"		"2"
+		"limit_pos_min_5"	"-6154.72 1730.00 1344.03"
+		"limit_pos_max_5"	"-5354.03 1735.00 1344.53"
+		"sur_flow_10"		"22450.0"
+		"spawn_type1_10"	"3"
+		"spawn_type2_10"	"0"
+		"sur_flow_11"		"24250.0"
+		"spawn_type1_11"	"2"
+		"spawn_type2_11"	"0"
+		"sur_flow_12"		"25620.0"
+		"spawn_type1_12"	"1"
+		"spawn_type2_12"	"2"
+		"sur_flow_13"		"27570.0"
+		"spawn_type1_13"	"1"
+		"spawn_type2_13"	"0"
+		"sur_flow_14"		"30240.0"
+		"spawn_type1_14"	"2"
+		"spawn_type2_14"	"0"
+		"sur_flow_15"		"31320.0"
+		"spawn_type1_15"	"2"
+		"spawn_type2_15"	"2"
+		"sur_flow_16"		"33990.0"
+		"spawn_type1_16"	"1"
+		"spawn_type2_16"	"0"
+		"sur_flow_17"		"39030.0"
+		"spawn_type1_17"	"2"
+		"spawn_type2_17"	"0"
+		"sur_flow_18"		"40200.0"
+		"spawn_type1_18"	"1"
+		"spawn_type2_18"	"0"
+	}
+	"DCR5_Mall_F"
+	{
+		// FistSpawn Trigger
+		"min_trigger"		"125.0"
+		"max_trigger"		"175.0"
+		"trigger_type"		"0"
+		"map_ci"			"165"
+		"center_point"		"6902.88 -1527.51 24.03"
+
+		// SurFlow Change Spwn Type
+		"sur_flow_1"		"1.0"
+		"spawn_type1_1"		"1"
+		"spawn_type2_1"		"0"
+		"sur_flow_2"		"4860.0"
+		"spawn_type1_2"		"2"
+		"spawn_type2_2"		"2"
+		"sur_flow_3"		"7400.0"
+		"spawn_type1_3"		"1"
+		"spawn_type2_3"		"0"
+		"sur_flow_4"		"10000.0"
+		"spawn_type1_4"		"2"
+		"spawn_type2_4"		"0"
+		"sur_flow_5"		"11130.0"
+		"spawn_type1_5"		"1"
+		"spawn_type2_5"		"0"
+		"sur_flow_6"		"25910.0"
+		"spawn_type1_6"		"2"
+		"spawn_type2_6"		"2"
+		"sur_flow_7"		"32400.0"
+		"spawn_type1_7"		"1"
+		"spawn_type2_7"		"0"
+		"sur_flow_8"		"37500.0"
+		"spawn_type1_8"		"2"
+		"spawn_type2_8"		"2"
+		"sur_flow_9"		"39200.0"
+		"spawn_type1_9"		"1"
+		"spawn_type2_9"		"0"
+		"sur_flow_10"		"48400.0"
+		"spawn_type1_10"	"1"
+		"spawn_type2_10"	"0"
+	}
+	"dkr_m1_motel"
+	{
+		// FistSpawn Trigger
+		"min_trigger"		"100.0"
+		"max_trigger"		"150.0"
+		"trigger_type"		"2"
+		"map_ci"			"171"
+		"center_point"		"10089.41 -4514.50 -515.14"
+
+		// FirstSpawn Pos
+		"fs_minpos_1"		"9708.90 -4373.00 -475.92" // 货车里
+		"fs_type_1"			"0"
+		"fs_select_1"		"0 3 0 0 2 1"
+
+		"fs_minpos_2"		"9485.56 -4653.82 -519.60" // 左边白车后
+		"fs_type_2"			"0"
+		"fs_select_2"		"0 1 4 0 1 1"
+
+		"fs_minpos_3"		"9451.35 -4398.60 -521.49" // 货车头后
+		"fs_type_3"			"0"
+		"fs_select_3"		"0 1 4 0 1 1"
+
+		"fs_minpos_4"		"9541.27 -4391.98 -421.27" // 货车头顶
+		"fs_type_4"			"0"
+		"fs_select_4"		"0 1 0 0 1 1"
+
+		"fs_minpos_5"		"9778.70 -4173.63 -270.00" // 广告牌二楼 *1
+		"fs_type_5"			"0"
+		"fs_select_5"		"1 0 1 0 1 1"
+
+		"fs_minpos_6"		"9679.09 -4171.45 -339.47" // 广告牌二楼 *2
+		"fs_type_6"			"0"
+		"fs_select_6"		"1 0 1 0 1 0"
+
+		"fs_minpos_7"		"9782.94 -4147.07 -165.47" // 广告牌顶 *Duck
+		"fs_type_7"			"0"
+		"fs_select_7"		"2 0 0 1 1 0"
+
+		"fs_minpos_8"		"8950.00 -4568.15 -223.87" // 前方小广告牌后
+		"fs_maxpos_8"		"8950.00 -4435.29 -223.87"
+		"fs_type_8"			"1"
+		"fs_select_8"		"1 0 0 1 0 0"
+
+		"fs_minpos_9"		"9077.54 -4624.97 -537.42" // 前方车后远点 *Duck
+		"fs_type_9"			"0"
+		"fs_select_9"		"2 0 0 1 0 0"
+
+		// SurFlow Change Spwn Type
+		"sur_flow_1"		"1.0"
+		"spawn_type1_1"		"1"
+		"spawn_type2_1"		"0"
+		"sur_flow_2"		"7300.0"
+		"spawn_type1_2"		"2"
+		"spawn_type2_2"		"0"
+		"sur_flow_3"		"8400.0"
+		"spawn_type1_3"		"1"
+		"spawn_type2_3"		"1"
+		"sur_flow_4"		"10900.0"
+		"spawn_type1_4"		"2"
+		"spawn_type2_4"		"2"
+		"sur_flow_5"		"11100.0"
+		"spawn_type1_5"		"1"
+		"spawn_type2_5"		"2"
+		"sur_flow_6"		"17000.0"
+		"spawn_type1_6"		"2"
+		"spawn_type2_6"		"2"
+		"sur_flow_7"		"19100.0"
+		"spawn_type1_7"		"1"
+		"spawn_type2_7"		"0"
+	}
+	"dkr_m2_carnival"
+	{
+		// FistSpawn Trigger
+		"min_trigger"		"100.0"
+		"max_trigger"		"120.0"
+		"trigger_type"		"0"
+		"map_ci"			"172"
+		"center_point"		"8974.00 424.00 -121.96"
+
+		// FirstSpawn Pos
+		"fs_minpos_1"		"8758.52 -124.04 -127.92" // 前方电箱后
+		"fs_type_1"			"0"
+		"fs_select_1"		"0 0 0 0 1 1"
+
+		"fs_minpos_2"		"8640.00 576.85 2.01" // 右边草丛上方
+		"fs_maxpos_2"		"8643.50 627.28 2.01"
+		"fs_type_2"			"1"
+		"fs_select_2"		"3 1 0 0 0 0"
+
+		"fs_minpos_3"		"8879.25 536.00 22.03" // 屋顶
+		"fs_maxpos_3"		"9161.74 537.00 22.03"
+		"fs_type_3"			"1"
+		"fs_select_3"		"0 3 0 3 4 2"
+
+		"fs_minpos_4"		"8563.85 -158.53 -61.37" // 前方铁丝网后右方
+		"fs_type_4"			"0"
+		"fs_select_4"		"1 0 0 0 0 0"
+
+		"fs_minpos_5"		"8809.66 -250.31 -125.96" // 前方铁丝网后左方
+		"fs_type_5"			"0"
+		"fs_select_5"		"1 0 0 0 0 0"
+
+		"fs_minpos_6"		"8267.46 398.64 -117.86" // 前方左侧后方
+		"fs_type_6"			"0"
+		"fs_select_6"		"2 0 1 1 0 0"
+
+		"fs_minpos_7"		"8269.21 -167.18 -117.86" // 前方右侧后方
+		"fs_type_7"			"0"
+		"fs_select_7"		"2 0 1 1 0 0"
+
+		// SurFlow Change Spwn Type
+		"sur_flow_1"		"1.0"
+		"spawn_type1_1"		"1"
+		"spawn_type2_1"		"0"
+		"sur_flow_2"		"1840.0"
+		"spawn_type1_2"		"2"
+		"spawn_type2_2"		"0"
+		"sur_flow_3"		"3800.0"
+		"spawn_type1_3"		"1"
+		"spawn_type2_3"		"0"
+		"sur_flow_4"		"9300.0"
+		"spawn_type1_4"		"1"
+		"spawn_type2_4"		"1"
+		"sur_flow_5"		"11900.0"
+		"spawn_type1_5"		"2"
+		"spawn_type2_5"		"0"
+		"sur_flow_6"		"20200.0"
+		"spawn_type1_6"		"1"
+		"spawn_type2_6"		"0"
+		"sur_flow_7"		"21200.0"
+		"spawn_type1_7"		"1"
+		"spawn_type2_7"		"2"
+		"sur_flow_8"		"23400.0"
+		"spawn_type1_8"		"2"
+		"spawn_type2_8"		"0"
+		"sur_flow_9"		"32800.0"
+		"spawn_type1_9"		"1"
+		"spawn_type2_9"		"0"
+		"sur_flow_10"		"36000.0"
+		"spawn_type1_10"	"1"
+		"spawn_type2_10"	"0"
+	}
+	"dkr_m3_tunneloflove"
+	{
+		// FistSpawn Trigger
+		"min_trigger"		"570.0"
+		"max_trigger"		"660.0"
+		"trigger_type"		"3"
+		"map_ci"			"173"
+		"center_point"		"1308.41 -4438.92 -63.96"
+
+		// FirstSpawn Pos
+		"fs_minpos_1"		"1202.03 -3586.97 -15.96" // 左边草丛后方
+		"fs_type_1"			"0"
+		"fs_select_1"		"0 1 0 0 1 1"
+
+		"fs_minpos_2"		"1394.81 -3585.91 -15.96" // 右边草丛后方
+		"fs_type_2"			"0"
+		"fs_select_2"		"0 1 0 0 1 1"
+
+		"fs_minpos_3"		"1191.03 -3372.18 -15.96" // 左边纸板后方
+		"fs_type_3"			"0"
+		"fs_select_3"		"1 0 1 0 0 0"
+
+		"fs_minpos_4"		"1403.77 -3369.41 -15.96" // 左边纸板后方
+		"fs_type_4"			"0"
+		"fs_select_4"		"1 0 1 0 0 0"
+
+		"fs_minpos_5"		"1195.42 -3319.64 -33.10" // 左边远点墙后
+		"fs_type_5"			"0"
+		"fs_select_5"		"3 0 0 1 0 0"
+
+		"fs_minpos_6"		"1440.70 -3305.70 -63.96" // 右边远点墙后
+		"fs_type_6"			"0"
+		"fs_select_6"		"0 0 0 1 0 0"
+
+		// SurFlow Change Spwn Type
+		"sur_flow_1"		"1.0"
+		"spawn_type1_1"		"1"
+		"spawn_type2_1"		"0"
+		"sur_flow_2"		"8200.0"
+		"spawn_type1_2"		"1"
+		"spawn_type2_2"		"2"
+		"sur_flow_3"		"11800.0"
+		"spawn_type1_3"		"1"
+		"spawn_type2_3"		"1"
+		"sur_flow_4"		"14940.0"
+		"spawn_type1_4"		"2"
+		"spawn_type2_4"		"0"
+		"sur_flow_5"		"16100.0"
+		"spawn_type1_5"		"1"
+		"spawn_type2_5"		"0"
+		"sur_flow_6"		"20800.0"
+		"spawn_type1_6"		"1"
+		"spawn_type2_6"		"2"
+		"sur_flow_7"		"33640.0"
+		"spawn_type1_7"		"1"
+		"spawn_type2_7"		"0"
+		"sur_flow_8"		"34560.0"
+		"spawn_type1_8"		"2"
+		"spawn_type2_8"		"0"
+		"sur_flow_9"		"36200.0"
+		"spawn_type1_9"		"1"
+		"spawn_type2_9"		"0"
+	}
+	"dkr_m4_ferris"
+	{
+		// FistSpawn Trigger
+		"min_trigger"		"1180.0"
+		"max_trigger"		"1280.0"
+		"trigger_type"		"3"
+		"map_ci"			"174"
+		"center_point"		"-2243.11 -10948.74 70.03"
+
+		// SurFlow Change Spwn Type
+		"sur_flow_1"		"1.0"
+		"spawn_type1_1"		"1"
+		"spawn_type2_1"		"0"
+		"sur_flow_2"		"4570.0"
+		"spawn_type1_2"		"1"
+		"spawn_type2_2"		"1"
+		"sur_flow_3"		"6600.0"
+		"spawn_type1_3"		"2"
+		"spawn_type2_3"		"0"
+		"sur_flow_4"		"7510.0"
+		"spawn_type1_4"		"1"
+		"spawn_type2_4"		"1"
+		"sur_flow_5"		"9870.0"
+		"spawn_type1_5"		"1"
+		"spawn_type2_5"		"0"
+		"sur_flow_6"		"15000.0"
+		"spawn_type1_6"		"1"
+		"spawn_type2_6"		"1"
+		"sur_flow_7"		"15740.0"
+		"spawn_type1_7"		"2"
+		"spawn_type2_7"		"2"
+		"sur_flow_8"		"19530.0"
+		"spawn_type1_8"		"1"
+		"spawn_type2_8"		"1"
+		"sur_flow_9"		"20300.0"
+		"spawn_type1_9"		"2"
+		"spawn_type2_9"		"0"
+		"sur_flow_10"		"21530.0"
+		"spawn_type1_10"	"1"
+		"spawn_type2_10"	"1"
+		"sur_flow_11"		"22880.0"
+		"spawn_type1_11"	"1"
+		"spawn_type2_11"	"0"
+		"sur_flow_12"		"26320.0"
+		"spawn_type1_12"	"1"
+		"spawn_type2_12"	"1"
+		"sur_flow_13"		"27650.0"
+		"spawn_type1_13"	"1"
+		"spawn_type2_13"	"0"
+		"sur_flow_14"		"29850.0"
+		"spawn_type1_14"	"1"
+		"spawn_type2_14"	"2"
+		"sur_flow_15"		"33460.0"
+		"spawn_type1_15"	"1"
+		"spawn_type2_15"	"0"
+		"sur_flow_16"		"35600.0"
+		"spawn_type1_16"	"1"
+		"spawn_type2_16"	"0"
+	}
+	"dkr_m5_stadium"
+	{
+		// FistSpawn Trigger
+		"min_trigger"		"180.0"
+		"max_trigger"		"220.0"
+		"trigger_type"		"0"
+		"map_ci"			"175"
+		"center_point"		"-3584.39 4714.57 -198.96"
+
+		// SurFlow Change Spwn Type
+		"sur_flow_1"		"1.0"
+		"spawn_type1_1"		"1"
+		"spawn_type2_1"		"0"
+		"sur_flow_2"		"20000.0"
+		"spawn_type1_2"		"1"
+		"spawn_type2_2"		"0"
+	}
+	"c3m1_plankcountry_dry"
+	{
+
+	}
+	"c3m2_swamp_dry"
+	{
+
+	}
+	"c3m3_shantytown_dry"
+	{
+
+	}
+	"c3m4_plantation_dry"
+	{
+
+	}
+	"dprm1_milltown_a"
+	{
+
+	}
+	"dprm2_sugarmill_a"
+	{
+
+	}
+	"dprm3_sugarmill_b"
+	{
+
+	}
+	"dprm4_milltown_b"
+	{
+
+	}
+	"dprm5_milltown_escape"
+	{
+
+	}
+	"PR1_Waterfront_F"
+	{
+		// FistSpawn Trigger
+		"min_trigger"		"160.0"
+		"max_trigger"		"220.0"
+		"trigger_type"		"2"
+		"map_ci"			"231"
+		"center_point"		"592.68 -32.44 -375.96"
+
+		// FirstSpawn Pos
+		"fs_minpos_1"		"245.0 300.0 -136.0" // 右边屋顶
+		"fs_maxpos_1"		"345.0 300.0 -83.5"
+		"fs_type_1"			"3"
+		"fs_select_1"		"4 4 14 1 6 18"
+
+		"fs_minpos_2"		"736.34 -409.92 -196.11" // 左边屋顶空调机后 *1
+		"fs_type_2"			"0"
+		"fs_select_2"		"2 2 2 0 3 1"
+
+		"fs_minpos_3"		"508.54 -408.26 -195.96" // 左边屋顶空调机后 *2
+		"fs_type_3"			"0"
+		"fs_select_3"		"2 2 2 0 3 1"
+
+		"fs_minpos_4"		"295.57 -413.42 -196.43" // 左边屋顶空调机后 *3
+		"fs_type_4"			"0"
+		"fs_select_4"		"2 2 2 0 3 1"
+
+		"fs_minpos_5"		"262.66 -377.51 -367.96" // 左右两掩体后 *1
+		"fs_type_5"			"0"
+		"fs_select_5"		"5 0 0 0 3 0"
+
+		"fs_minpos_6"		"88.05 327.28 -367.96" // 左右两掩体后 *2
+		"fs_type_6"			"0"
+		"fs_select_6"		"5 0 0 3 0 0"
+
+		// SurFlow Change Spwn Type
+		"sur_flow_1"		"1.0"
+		"spawn_type1_1"		"1"
+		"spawn_type2_1"		"0"
+		"sur_flow_2"		"2550.0"
+		"spawn_type1_2"		"1"
+		"spawn_type2_2"		"1"
+		"sur_flow_3"		"3050.0"
+		"spawn_type1_3"		"2"
+		"spawn_type2_3"		"0"
+		"sur_flow_4"		"5870.0"
+		"spawn_type1_4"		"1"
+		"spawn_type2_4"		"2"
+		"sur_flow_5"		"7500.0"
+		"spawn_type1_5"		"2"
+		"spawn_type2_5"		"0"
+		"sur_flow_6"		"16100.0"
+		"spawn_type1_6"		"1"
+		"spawn_type2_6"		"0"
+	}
+	"PR2_Park_F"
+	{
+		// FistSpawn Trigger
+		"min_trigger"		"190.0"
+		"max_trigger"		"200.0"
+		"trigger_type"		"0"
+		"map_ci"			"232"
+		"center_point"		"-3777.46 -1373.16 -343.96"
+
+		// FirstSpawn Pos
+		"fs_minpos_1"		"-3479.23 -1693.27 -379.96" // 白车后
+		"fs_type_1"			"0"
+		"fs_select_1"		"0 1 1 0 1 2"
+
+		"fs_minpos_2"		"-3869.20 -1600.00 -342.60" // 右侧墙后
+		"fs_type_2"			"0"
+		"fs_select_2"		"0 1 1 0 1 2"
+
+		"fs_minpos_3"		"-3608.03 -1849.19 -375.96" // 白车车头后
+		"fs_type_3"			"0"
+		"fs_select_3"		"0 0 1 0 1 0"
+
+		"fs_minpos_4"		"-3340.23 -1112.61 -372.36" // 后方栅栏后墙后
+		"fs_type_4"			"0"
+		"fs_select_4"		"2 0 0 0 0 0"
+
+		"fs_minpos_5"		"-3763.87 -1135.97 -383.96" // 后方墙后
+		"fs_type_5"			"0"
+		"fs_select_5"		"0 1 0 0 0 0"
+
+		"fs_minpos_6"		"-3147.58 -1034.96 -58.29" // 后方屋顶
+		"fs_type_6"			"0"
+		"fs_select_6"		"3 0 0 0 0 0"
+
+		"fs_minpos_7"		"-3167.00 -2094.26 -34.05" // 前方三楼
+		"fs_type_7"			"0"
+		"fs_select_7"		"1 0 0 1 0 0"
+
+		"fs_minpos_8"		"-3769.33 -1384.96 38.59" // 屋顶 (前点)
+		"fs_type_8"			"0"
+		"fs_select_8"		"0 2 0 3 3 3"
+
+		"fs_minpos_9"		"-3802.20 -1184.76 20.27" // 屋顶 (后点)
+		"fs_type_9"			"0"
+		"fs_select_9"		"0 2 0 3 3 3"
+
+		// SurFlow Change Spwn Type
+		"sur_flow_1"		"1.0"
+		"spawn_type1_1"		"1"
+		"spawn_type2_1"		"0"
+		"sur_flow_2"		"2910.0"
+		"spawn_type1_2"		"2"
+		"spawn_type2_2"		"0"
+		"sur_flow_3"		"8140.0"
+		"spawn_type1_3"		"1"
+		"spawn_type2_3"		"0"
+		"sur_flow_4"		"14360.0"
+		"spawn_type1_4"		"2"
+		"spawn_type2_4"		"0"
+		"sur_flow_5"		"15670.0"
+		"spawn_type1_5"		"1"
+		"spawn_type2_5"		"0"
+		"sur_flow_6"		"18660.0"
+		"spawn_type1_6"		"1"
+		"spawn_type2_6"		"1"
+		"sur_flow_7"		"19560.0"
+		"spawn_type1_7"		"2"
+		"spawn_type2_7"		"0"
+		"sur_flow_8"		"24870.0"
+		"spawn_type1_8"		"1"
+		"spawn_type2_8"		"1"
+		"sur_flow_9"		"25650.0"
+		"spawn_type1_9"		"1"
+		"spawn_type2_9"		"0"
+		"sur_flow_10"		"26830.0"
+		"spawn_type1_10"	"1"
+		"spawn_type2_10"	"1"
+		"sur_flow_11"		"29300.0"
+		"spawn_type1_11"	"1"
+		"spawn_type2_11"	"0"
+		"sur_flow_12"		"30500.0"
+		"spawn_type1_12"	"1"
+		"spawn_type2_12"	"0"
+	}
+	"PR3_Highway_F"
+	{
+		// FistSpawn Trigger
+		"min_trigger"		"180.0"
+		"max_trigger"		"210.0"
+		"trigger_type"		"0"
+		"map_ci"			"233"
+		"center_point"		"10372.92 8662.39 -7.96"
+
+		// FirstSpawn Pos
+		"fs_minpos_1"		"10874.75 9601.79 201.12" // 对面楼顶
+		"fs_type_1"			"0"
+		"fs_select_1"		"5 0 1 0 0 0"
+
+		"fs_minpos_2"		"9875.43 9538.57 247.79" // 对面二楼屋里
+		"fs_type_2"			"0"
+		"fs_select_2"		"2 0 0 0 0 0"
+
+		"fs_minpos_3"		"10785.57 9255.84 -8.20" // 前方车后
+		"fs_type_3"			"0"
+		"fs_select_3"		"0 0 3 0 0 0"
+
+		"fs_minpos_4"		"10396.91 8611.60 335.79" // 屋顶 (右侧)
+		"fs_type_4"			"0"
+		"fs_select_4"		"0 1 0 4 2 3"
+
+		"fs_minpos_5"		"10073.12 8603.30 335.79" // 屋顶 (左侧)
+		"fs_type_5"			"0"
+		"fs_select_5"		"0 1 0 1 3 2"
+
+		// SurFlow Change Spwn Type
+		"sur_flow_1"		"1.0"
+		"spawn_type1_1"		"2"
+		"spawn_type2_1"		"0"
+		"sur_flow_2"		"2800.0"
+		"spawn_type1_2"		"1"
+		"spawn_type2_2"		"1"
+		"sur_flow_3"		"4920.0"
+		"spawn_type1_3"		"1"
+		"spawn_type2_3"		"0"
+		"sur_flow_4"		"7910.0"
+		"spawn_type1_4"		"2"
+		"spawn_type2_4"		"0"
+		"sur_flow_5"		"9350.0"
+		"spawn_type1_5"		"1"
+		"spawn_type2_5"		"1"
+		"sur_flow_6"		"9960.0"
+		"spawn_type1_6"		"2"
+		"spawn_type2_6"		"0"
+		"sur_flow_7"		"11600.0"
+		"spawn_type1_7"		"1"
+		"spawn_type2_7"		"0"
+		"sur_flow_8"		"13390.0"
+		"spawn_type1_8"		"2"
+		"spawn_type2_8"		"0"
+		"sur_flow_9"		"15630.0"
+		"spawn_type1_9"		"1"
+		"spawn_type2_9"		"0"
+		"sur_flow_10"		"18120.0"
+		"spawn_type1_10"	"1"
+		"spawn_type2_10"	"2"
+		"sur_flow_11"		"20530.0"
+		"spawn_type1_11"	"1"
+		"spawn_type2_11"	"0"
+		"sur_flow_12"		"20890.0"
+		"spawn_type1_12"	"2"
+		"spawn_type2_12"	"0"
+		"sur_flow_13"		"21840.0"
+		"spawn_type1_13"	"1"
+		"spawn_type2_13"	"0"
+		"sur_flow_14"		"22790.0"
+		"spawn_type1_14"	"1"
+		"spawn_type2_14"	"2"
+		"sur_flow_15"		"24230.0"
+		"spawn_type1_15"	"2"
+		"spawn_type2_15"	"0"
+		"sur_flow_16"		"25120.0"
+		"spawn_type1_16"	"1"
+		"spawn_type2_16"	"1"
+		"sur_flow_17"		"26070.0"
+		"spawn_type1_17"	"1"
+		"spawn_type2_17"	"0"
+		"sur_flow_18"		"28020.0"
+		"spawn_type1_18"	"1"
+		"spawn_type2_18"	"0"
+		"sur_flow_19"		"35050.0"
+		"spawn_type1_19"	"2"
+		"spawn_type2_19"	"0"
+		"sur_flow_20"		"38000.0"
+		"spawn_type1_20"	"1"
+		"spawn_type2_20"	"0"
+	}
+	"PR4_Quarter_F"
+	{
+		// FistSpawn Trigger
+		"min_trigger"		"720.0"
+		"max_trigger"		"940.0"
+		"trigger_type"		"0"
+		"map_ci"			"234"
+		"center_point"		"-2502.58 10511.21 81.03"
+
+		// SurFlow Change Spwn Type
+		"sur_flow_1"		"1.0"
+		"spawn_type1_1"		"1"
+		"spawn_type2_1"		"0"
+		"sur_flow_2"		"2330.0"
+		"spawn_type1_2"		"2"
+		"spawn_type2_2"		"0"
+		"sur_flow_3"		"3000.0"
+		"spawn_type1_3"		"1"
+		"spawn_type2_3"		"0"
+		"sur_flow_4"		"6600.0"
+		"spawn_type1_4"		"2"
+		"spawn_type2_4"		"0"
+		"sur_flow_5"		"8160.0"
+		"spawn_type1_5"		"1"
+		"spawn_type2_5"		"0"
+		"sur_flow_6"		"10660.0"
+		"spawn_type1_6"		"1"
+		"spawn_type2_6"		"1"
+		"sur_flow_7"		"11780.0"
+		"spawn_type1_7"		"2"
+		"spawn_type2_7"		"0"
+		"sur_flow_8"		"13030.0"
+		"spawn_type1_8"		"1"
+		"spawn_type2_8"		"0"
+		"sur_flow_9"		"14620.0"
+		"spawn_type1_9"		"2"
+		"spawn_type2_9"		"0"
+		"sur_flow_10"		"17100.0"
+		"spawn_type1_10"	"1"
+		"spawn_type2_10"	"2"
+		"sur_flow_11"		"17840.0"
+		"spawn_type1_11"	"2"
+		"spawn_type2_11"	"0"
+		"sur_flow_12"		"18450.0"
+		"spawn_type1_12"	"1"
+		"spawn_type2_12"	"0"
+		"sur_flow_13"		"19680.0"
+		"spawn_type1_13"	"2"
+		"spawn_type2_13"	"0"
+		"sur_flow_14"		"20750.0"
+		"spawn_type1_14"	"1"
+		"spawn_type2_14"	"2"
+		"sur_flow_15"		"25400.0"
+		"spawn_type1_15"	"2"
+		"spawn_type2_15"	"0"
+		"sur_flow_16"		"26400.0"
+		"spawn_type1_16"	"1"
+		"spawn_type2_16"	"0"
+		"sur_flow_17"		"29300.0"
+		"spawn_type1_17"	"2"
+		"spawn_type2_17"	"0"
+		"sur_flow_18"		"30930.0"
+		"spawn_type1_18"	"1"
+		"spawn_type2_18"	"2"
+		"sur_flow_19"		"32250.0"
+		"spawn_type1_19"	"2"
+		"spawn_type2_19"	"0"
+		"sur_flow_20"		"36800.0"
+		"spawn_type1_20"	"1"
+		"spawn_type2_20"	"0"
+	}
+	"PR5_bridge_F"
+	{
+		// FistSpawn Trigger
+		"min_trigger"		"170.0"
+		"max_trigger"		"220.0"
+		"trigger_type"		"0"
+		"map_ci"			"235"
+		"center_point"		"-11512.88 -904.13 135.84"
+
+		// SurFlow Change Spwn Type
+		"sur_flow_1"		"1.0"
+		"spawn_type1_1"		"1"
+		"spawn_type2_1"		"0"
+		"sur_flow_2"		"1960.0"
+		"spawn_type1_2"		"2"
+		"spawn_type2_2"		"0"
+		"sur_flow_3"		"5040.0"
+		"spawn_type1_3"		"1"
+		"spawn_type2_3"		"2"
+		"sur_flow_4"		"7270.0"
+		"spawn_type1_4"		"1"
+		"spawn_type2_4"		"0"
+		"sur_flow_5"		"81110.0"
+		"spawn_type1_5"		"2"
+		"spawn_type2_5"		"0"
+		"sur_flow_6"		"9050.0"
+		"spawn_type1_6"		"1"
+		"spawn_type2_6"		"1"
+		"sur_flow_7"		"9870.0"
+		"spawn_type1_7"		"1"
+		"spawn_type2_7"		"0"
+		"sur_flow_8"		"11710.0"
+		"spawn_type1_8"		"2"
+		"spawn_type2_8"		"0"
+		"sur_flow_9"		"14860.0"
+		"spawn_type1_9"		"1"
+		"spawn_type2_9"		"2"
+		"sur_flow_10"		"17270.0"
+		"spawn_type1_10"	"1"
+		"spawn_type2_10"	"0"
+		"sur_flow_11"		"25540.0"
+		"spawn_type1_11"	"2"
+		"spawn_type2_11"	"0"
+		"sur_flow_12"		"26510.0"
+		"spawn_type1_12"	"1"
+		"spawn_type2_12"	"0"
+		"sur_flow_13"		"29700.0"
+		"spawn_type1_13"	"2"
+		"spawn_type2_13"	"0"
+		"sur_flow_14"		"30650.0"
+		"spawn_type1_14"	"1"
+		"spawn_type2_14"	"1"
+		"sur_flow_15"		"33830.0"
+		"spawn_type1_15"	"2"
+		"spawn_type2_15"	"0"
+		"sur_flow_16"		"35050.0"
+		"spawn_type1_16"	"1"
+		"spawn_type2_16"	"1"
+		"sur_flow_17"		"36620.0"
+		"spawn_type1_17"	"2"
+		"spawn_type2_17"	"0"
+		"sur_flow_18"		"39000.0"
+		"spawn_type1_18"	"1"
+		"spawn_type2_18"	"0"
+		"sur_flow_19"		"41300.0"
+		"spawn_type1_19"	"1"
+		"spawn_type2_19"	"0"
+	}
+	"c5m1_darkwaterfront"
+	{
+		// FistSpawn Trigger
+		"min_trigger"		"160.0"
+		"max_trigger"		"220.0"
+		"trigger_type"		"2"
+		"map_ci"			"241"
+		"center_point"		"592.68 -32.44 -375.96"
+
+		// FirstSpawn Pos
+		"fs_minpos_1"		"245.0 300.0 -136.0" // 右边屋顶
+		"fs_maxpos_1"		"345.0 300.0 -83.5"
+		"fs_type_1"			"3"
+		"fs_select_1"		"4 4 14 1 6 18"
+
+		"fs_minpos_2"		"349.31 -417.21 -195.96" // 左边屋顶空调机后 *1
+		"fs_type_2"			"0"
+		"fs_select_2"		"3 3 3 0 4 1"
+
+		"fs_minpos_3"		"686.74 -413.11 -195.96" // 左边屋顶空调机后 *2
+		"fs_type_3"			"0"
+		"fs_select_3"		"3 3 3 0 4 1"
+
+		"fs_minpos_4"		"262.66 -377.51 -367.96" // 左右两掩体后 *1
+		"fs_type_4"			"0"
+		"fs_select_4"		"5 0 0 0 3 0"
+
+		"fs_minpos_5"		"88.05 327.28 -367.96" // 左右两掩体后 *2
+		"fs_type_5"			"0"
+		"fs_select_5"		"5 0 0 3 0 0"
+
+		// SurFlow Change Spwn Type
+		"sur_flow_1"		"1.0"
+		"spawn_type1_1"		"2"
+		"spawn_type2_1"		"0"
+		"sur_flow_2"		"1250.0"
+		"spawn_type1_2"		"1"
+		"spawn_type2_2"		"1"
+		"sur_flow_3"		"2340.0"
+		"spawn_type1_3"		"2"
+		"spawn_type2_3"		"0"
+		"sur_flow_4"		"7200.0"
+		"spawn_type1_4"		"1"
+		"spawn_type2_4"		"0"
+		"sur_flow_5"		"8320.0"
+		"spawn_type1_5"		"2"
+		"spawn_type2_5"		"0"
+		"sur_flow_6"		"10010.0"
+		"spawn_type1_6"		"1"
+		"spawn_type2_6"		"0"
+	}
+	"c5m2_darkpark"
+	{
+		// FistSpawn Trigger
+		"min_trigger"		"220.0"
+		"max_trigger"		"225.0"
+		"trigger_type"		"0"
+		"map_ci"			"242"
+		"center_point"		"-3762.43 -1368.90 -343.96"
+
+		// FirstSpawn Pos
+		"fs_minpos_1"		"-3767.36 -1174.44 12.15" // 屋顶高点1
+		"fs_type_1"			"0"
+		"fs_select_1"		"0 1 0 3 1 1"
+
+		"fs_minpos_2"		"-3808.31 -1382.66 40.41" // 屋顶高点2
+		"fs_type_2"			"0"
+		"fs_select_2"		"0 1 0 2 1 1"
+
+		"fs_minpos_3"		"-3277.05 -1500.43 -375.96" // 白色面包车
+		"fs_type_3"			"0"
+		"fs_select_3"		"0 2 2 0 1 2"
+
+		"fs_minpos_4"		"-3863.74 -1626.65 -343.33" // 侧墙
+		"fs_type_4"			"0"
+		"fs_select_4"		"0 2 2 0 1 1"
+
+		"fs_minpos_5"		"-3590.61 -1842.67 -373.86" // 近点黄车 *Duck
+		"fs_type_5"			"0"
+		"fs_select_5"		"3 1 1 0 1 0"
+
+		"fs_minpos_6"		"-3391.66 -2197.41 -379.96" // 远点警车
+		"fs_type_6"			"0"
+		"fs_select_6"		"1 0 0 0 0 0"
+
+		"fs_minpos_7"		"-3160.18 -2064.03 -215.96" // 远二楼
+		"fs_type_7"			"0"
+		"fs_select_7"		"1 0 0 0 0 0"
+
+		"fs_minpos_8"		"-3197.64 -2079.57 -29.81" // 远三楼
+		"fs_type_8"			"0"
+		"fs_select_8"		"2 0 0 3 0 0"
+
+		"fs_minpos_9"		"-3113.00 -1039.99 -49.28" // 后面对楼高点
+		"fs_type_9"			"0"
+		"fs_select_9"		"3 0 0 2 0 0"
+
+		"fs_minpos_10"		"-3805.10 -1112.03 -375.96" // 后点
+		"fs_type_10"		"0"
+		"fs_select_10"		"0 3 0 0 0 0"
+
+		"fs_minpos_11"		"-3070.84 -1365.96 137.52" // 对面楼顶
+		"fs_type_11"		"0"
+		"fs_select_11"		"1 0 0 0 2 2"
+
+		// SurFlow Change Spwn Type
+		"sur_flow_1"		"1.0"
+		"spawn_type1_1"		"2"
+		"spawn_type2_1"		"0"
+		"sur_flow_2"		"500.0"
+		"spawn_type1_2"		"1"
+		"spawn_type2_2"		"2"
+		"sur_flow_3"		"2900.0"
+		"spawn_type1_3"		"1"
+		"spawn_type2_3"		"0"
+		"sur_flow_4"		"4500.0"
+		"spawn_type1_4"		"2"
+		"spawn_type2_4"		"0"
+		"sur_flow_5"		"5220.0"
+		"spawn_type1_5"		"0"
+		"spawn_type2_5"		"0"
+		"sur_flow_6"		"6140.0"
+		"spawn_type1_6"		"3"
+		"spawn_type2_6"		"0"
+		"sur_flow_7"		"8220.0"
+		"spawn_type1_7"		"2"
+		"spawn_type2_7"		"0"
+		"sur_flow_8"		"15620.0"
+		"spawn_type1_8"		"1"
+		"spawn_type2_8"		"0"
+		"sur_flow_9"		"19110.0"
+		"spawn_type1_9"		"2"
+		"spawn_type2_9"		"0"
+		"sur_flow_10"		"21500.0"
+		"spawn_type1_10"	"1"
+		"spawn_type2_10"	"1"
+		"sur_flow_11"		"24000.0"
+		"spawn_type1_11"	"2"
+		"spawn_type2_11"	"3"
+		"sur_flow_12"		"26400.0"
+		"spawn_type1_12"	"1"
+		"spawn_type2_12"	"0"
+	}
+	"c5m3_darkcemetery"
+	{
+		// FistSpawn Trigger
+		"min_trigger"		"240.0"
+		"max_trigger"		"420.0"
+		"trigger_type"		"0"
+		"map_ci"			"243"
+		"center_point"		"6217.66 8346.22 0.03"
+
+		// FirstSpawn Pos
+		"fs_minpos_1"		"6242.00 7952.00 310.00" // 屋顶高桥
+		"fs_maxpos_1"		"6242.00 8452.00 340.00"
+		"fs_type_1"			"4"
+		"fs_select_1"		"4 3 2 7 8 8"
+
+		"fs_minpos_2"		"5735.00 7954.00 267.00" // 对面高桥
+		"fs_maxpos_2"		"5735.00 8454.00 297.00"
+		"fs_type_2"			"4"
+		"fs_select_2"		"0 2 0 3 10 10"
+
+		"fs_minpos_3"		"6154.59 7775.78 208.03" // 左边高点桥柱后
+		"fs_type_3"			"0"
+		"fs_select_3"		"4 0 0 0 0 0"
+
+		"fs_minpos_4"		"5804.77 7660.58 11.48" // 左边低点桥柱后 1*
+		"fs_type_4"			"0"
+		"fs_select_4"		"3 0 4 0 1 1"
+
+		"fs_minpos_5"		"5617.05 7663.66 23.97" // 左边低点桥柱后 2*
+		"fs_type_5"			"0"
+		"fs_select_5"		"3 0 4 0 1 1"
+
+		// SurFlow Change Spwn Type
+		"sur_flow_1"		"1.0"
+		"spawn_type1_1"		"2"
+		"spawn_type2_1"		"0"
+		"sur_flow_2"		"2000.0"
+		"spawn_type1_2"		"1"
+		"spawn_type2_2"		"2"
+		"sur_flow_3"		"6250.0"
+		"spawn_type1_3"		"2"
+		"spawn_type2_3"		"0"
+		"sur_flow_4"		"8800.0"
+		"spawn_type1_4"		"1"
+		"spawn_type2_4"		"2"
+		"sur_flow_5"		"11250.0"
+		"spawn_type1_5"		"2"
+		"spawn_type2_5"		"2"
+		"sur_flow_6"		"12730.0"
+		"spawn_type1_6"		"1"
+		"spawn_type2_6"		"0"
+		"sur_flow_7"		"14100.0"
+		"spawn_type1_7"		"2"
+		"spawn_type2_7"		"0"
+		"sur_flow_8"		"15300.0"
+		"spawn_type1_8"		"1"
+		"spawn_type2_8"		"1"
+		"sur_flow_9"		"16230.0"
+		"spawn_type1_9"		"2"
+		"spawn_type2_9"		"2"
+		"sur_flow_10"		"17100.0"
+		"spawn_type1_10"	"1"
+		"spawn_type2_10"	"1"
+		"sur_flow_11"		"19080.0"
+		"spawn_type1_11"	"1"
+		"spawn_type2_11"	"3"
+		"sur_flow_12"		"22000.0"
+		"spawn_type1_12"	"3"
+		"spawn_type2_12"	"2"
+		"sur_flow_13"		"22875.0"
+		"spawn_type1_13"	"1"
+		"spawn_type2_13"	"2"
+		"sur_flow_14"		"24520.0"
+		"spawn_type1_14"	"1"
+		"spawn_type2_14"	"3"
+		"sur_flow_15"		"33300.0"
+		"spawn_type1_15"	"1"
+		"spawn_type2_15"	"0"
+		"sur_flow_16"		"34300.0"
+		"spawn_type1_16"	"1"
+		"spawn_type2_16"	"0"
+	}
+	"c5m4_darkquarter"
+	{
+		// FistSpawn Trigger
+		"min_trigger"		"170.0"
+		"max_trigger"		"300.0"
+		"trigger_type"		"0"
+		"map_ci"			"244"
+		"center_point"		"-3296.72 4744.62 68.03"
+
+		// FirstSpawn Pos
+		"fs_minpos_1"		"-3577.96 4719.96 224.03" // 二楼内侧
+		"fs_type_1"			"0"
+		"fs_select_1"		"0 1 0 0 1 1"
+
+		"fs_minpos_2"		"-3122.44 4694.89 427.01" // 三楼左侧边高点
+		"fs_type_2"			"0"
+		"fs_select_2"		"0 1 0 0 1 2"
+
+		"fs_minpos_3"		"-3453.50 4676.97 381.78" // 三楼高点
+		"fs_type_3"			"0"
+		"fs_select_3"		"0 1 0 0 2 2"
+
+		"fs_minpos_4"		"-3575.95 4555.99 381.87" // 三楼右侧边高点
+		"fs_type_4"			"0"
+		"fs_select_4"		"0 1 0 0 1 2"
+
+		"fs_minpos_5"		"-3006.40 4403.48 80.03" // 左边屋里
+		"fs_type_5"			"0"
+		"fs_select_5"		"0 1 2 0 1 2"
+
+		"fs_minpos_6"		"-3175.68 4015.99 82.28" // 左边远点墙后
+		"fs_type_6"			"0"
+		"fs_select_6"		"2 0 2 1 0 0"
+
+		"fs_minpos_7"		"-2831.00 4247.48 540.54" // 左边楼顶高点左方
+		"fs_type_7"			"0"
+		"fs_select_7"		"1 0 2 1 1 1"
+
+		"fs_minpos_8"		"-2940.41 4005.94 452.99" // 左边楼顶高点后方
+		"fs_type_8"			"0"
+		"fs_select_8"		"1 0 2 1 1 0"
+
+		"fs_minpos_9"		"-3470.18 4111.99 68.03" // 右边对面柱子后
+		"fs_type_9"			"0"
+		"fs_select_9"		"2 0 1 0 1 0"
+
+		"fs_minpos_10"		"-3801.64 4398.18 240.03" // 右边二楼平台
+		"fs_type_10"		"0"
+		"fs_select_10"		"0 0 1 0 1 0"
+
+		"fs_minpos_11"		"-3549.62 4045.13 384.03" // 右边二楼正窗口
+		"fs_type_11"		"0"
+		"fs_select_11"		"2 0 0 1 0 0"
+
+		"fs_minpos_12"		"-3434.35 3885.54 384.03" // 右边二楼侧窗口
+		"fs_type_12"		"0"
+		"fs_select_12"		"2 0 0 1 0 0"
+
+		// SurFlow Change Spwn Type
+		"sur_flow_1"		"1.0"
+		"spawn_type1_1"		"2"
+		"spawn_type2_1"		"0"
+		"sur_flow_2"		"1750.0"
+		"spawn_type1_2"		"1"
+		"spawn_type2_2"		"0"
+		"sur_flow_3"		"3010.0"
+		"spawn_type1_3"		"2"
+		"spawn_type2_3"		"0"
+		"sur_flow_4"		"5150.0"
+		"spawn_type1_4"		"2"
+		"spawn_type2_4"		"0"
+		"sur_flow_5"		"6010.0"
+		"spawn_type1_5"		"3"
+		"spawn_type2_5"		"2"
+		"sur_flow_6"		"10280.0"
+		"spawn_type1_6"		"2"
+		"spawn_type2_6"		"0"
+		"sur_flow_7"		"11500.0"
+		"spawn_type1_7"		"1"
+		"spawn_type2_7"		"0"
+		"sur_flow_8"		"14100.0"
+		"spawn_type1_8"		"2"
+		"spawn_type2_8"		"2"
+		"sur_flow_9"		"15000.0"
+		"spawn_type1_9"		"1"
+		"spawn_type2_9"		"0"
+		"sur_flow_10"		"16580.0"
+		"spawn_type1_10"	"2"
+		"spawn_type2_10"	"0"
+		"sur_flow_11"		"17300.0"
+		"spawn_type1_11"	"1"
+		"spawn_type2_11"	"0"
+		"sur_flow_12"		"18300.0"
+		"spawn_type1_12"	"2"
+		"spawn_type2_12"	"3"
+		"sur_flow_13"		"20000.0"
+		"spawn_type1_13"	"1"
+		"spawn_type2_13"	"2"
+		"sur_flow_14"		"22580.0"
+		"spawn_type1_14"	"3"
+		"spawn_type2_14"	"0"
+		"sur_flow_15"		"23900.0"
+		"spawn_type1_15"	"1"
+		"spawn_type2_15"	"3"
+		"sur_flow_16"		"26640.0"
+		"spawn_type1_16"	"4"
+		"spawn_type2_16"	"0"
+		"sur_flow_17"		"27600.0"
+		"spawn_type1_17"	"1"
+		"spawn_type2_17"	"0"
+	}
+	"c5m5_darkbridge"
+	{
+		// FistSpawn Trigger
+		"min_trigger"		"240.0"
+		"max_trigger"		"340.0"
+		"trigger_type"		"0"
+		"map_ci"			"245"
+		"center_point"		"-11970.50 6001.22 513.03"
+
+		// FirstSpawn Pos
+		"fs_minpos_1"		"-12061.67 6080.00 788.03"
+		"fs_maxpos_1"		"-11864.05 6080.00 788.03"
+		"fs_type_1"			"1"
+		"fs_select_1"		"0 2 1 4 1 4"
+
+		"fs_minpos_2"		"-11832.34 6505.87 576.64"
+		"fs_type_2"			"0"
+		"fs_select_2"		"1 3 9 1 0 1"
+
+		// SurFlow Change Spwn Type
+		"sur_flow_1"		"1.0"
+		"spawn_type1_1"		"2"
+		"spawn_type2_1"		"0"
+		"sur_flow_2"		"1800.0"
+		"spawn_type1_2"		"1"
+		"spawn_type2_2"		"0"
+		"sur_flow_3"		"9800.0"
+		"spawn_type1_3"		"2"
+		"spawn_type2_3"		"2"
+		"sur_flow_4"		"12160.0"
+		"spawn_type1_4"		"1"
+		"spawn_type2_4"		"0"
+		"sur_flow_5"		"13350.0"
+		"spawn_type1_5"		"2"
+		"spawn_type2_5"		"0"
+		"sur_flow_6"		"14740.0"
+		"spawn_type1_6"		"1"
+		"spawn_type2_6"		"0"
+		"sur_flow_7"		"16900.0"
+		"spawn_type1_7"		"2"
+		"spawn_type2_7"		"0"
+		"sur_flow_8"		"21410.0"
+		"spawn_type1_8"		"1"
+		"spawn_type2_8"		"2"
+		"sur_flow_9"		"19070.0"
+		"spawn_type1_9"		"1"
+		"spawn_type2_9"		"1"
+		"sur_flow_10"		"24000.0"
+		"spawn_type1_10"	"1"
+		"spawn_type2_10"	"0"
+	}
+	"nmrm1_apartment"
+	{
+		// FistSpawn Trigger
+		"min_trigger"		"55.0"
+		"max_trigger"		"60.0"
+		"trigger_type"		"3"
+		"map_ci"			"291"
+		"center_point"		"2146.20 1192.92 296.03"
+
+		// SurFlow Change Spwn Type
+		"sur_flow_1"		"1.0"
+		"spawn_type1_1"		"1"
+		"spawn_type2_1"		"1"
+		"sur_flow_2"		"2500.0"
+		"spawn_type1_2"		"1"
+		"spawn_type2_2"		"2"
+		"sur_flow_3"		"3310.0"
+		"spawn_type1_3"		"2"
+		"spawn_type2_3"		"2"
+		"sur_flow_4"		"7590.0"
+		"spawn_type1_4"		"1"
+		"spawn_type2_4"		"1"
+		"sur_flow_5"		"8650.0"
+		"spawn_type1_5"		"1"
+		"spawn_type2_5"		"0"
+		"sur_flow_6"		"9730.0"
+		"spawn_type1_6"		"1"
+		"spawn_type2_6"		"1"
+		"sur_flow_7"		"10800.0"
+		"spawn_type1_7"		"1"
+		"spawn_type2_7"		"0"
+	}
+	"nmrm2_subway"
+	{
+		// FistSpawn Trigger
+		"min_trigger"		"80.0"
+		"max_trigger"		"100.0"
+		"trigger_type"		"6"
+		"map_ci"			"292"
+		"center_point"		"2915.53 2908.52 16.03"
+
+		// SurFlow Change Spwn Type
+		"sur_flow_1"		"1.0"
+		"spawn_type1_1"		"1"
+		"spawn_type2_1"		"1"
+		"sur_flow_2"		"11660.0"
+		"spawn_type1_2"		"2"
+		"spawn_type2_2"		"0"
+		"sur_flow_3"		"13360.0"
+		"spawn_type1_3"		"1"
+		"spawn_type2_3"		"0"
+		"sur_flow_4"		"15510.0"
+		"spawn_type1_4"		"1"
+		"spawn_type2_4"		"1"
+		"sur_flow_5"		"16500.0"
+		"spawn_type1_5"		"1"
+		"spawn_type2_5"		"0"
+	}
+	"nmrm3_sewers"
+	{
+		// FistSpawn Trigger
+		"min_trigger"		"150.0"
+		"max_trigger"		"175.0"
+		"trigger_type"		"1"
+		"map_ci"			"293"
+		"center_point"		"11103.33 4743.21 16.03"
+
+		// SurFlow Change Spwn Type
+		"sur_flow_1"		"1.0"
+		"spawn_type1_1"		"2"
+		"spawn_type2_1"		"0"
+		"sur_flow_2"		"2480.0"
+		"spawn_type1_2"		"1"
+		"spawn_type2_2"		"1"
+		"sur_flow_3"		"3760.0"
+		"spawn_type1_3"		"1"
+		"spawn_type2_3"		"0"
+		"sur_flow_4"		"5120.0"
+		"spawn_type1_4"		"1"
+		"spawn_type2_4"		"1"
+		"sur_flow_5"		"6500.0"
+		"spawn_type1_5"		"2"
+		"spawn_type2_5"		"0"
+		"sur_flow_6"		"7000.0"
+		"spawn_type1_6"		"1"
+		"spawn_type2_6"		"1"
+		"sur_flow_7"		"9950.0"
+		"spawn_type1_7"		"2"
+		"spawn_type2_7"		"0"
+		"sur_flow_8"		"10400.0"
+		"spawn_type1_8"		"1"
+		"spawn_type2_8"		"1"
+		"sur_flow_9"		"22690.0"
+		"spawn_type1_9"		"2"
+		"spawn_type2_9"		"0"
+		"sur_flow_10"		"23510.0"
+		"spawn_type1_10"	"1"
+		"spawn_type2_10"	"1"
+		"sur_flow_11"		"24400.0"
+		"spawn_type1_11"	"1"
+		"spawn_type2_11"	"0"
+		"sur_flow_12"		"27000.0"
+		"spawn_type1_12"	"1"
+		"spawn_type2_12"	"0"
+	}
+	"nmrm4_hospital"
+	{
+		// FistSpawn Trigger
+		"min_trigger"		"250.0"
+		"max_trigger"		"550.0"
+		"trigger_type"		"0"
+		"map_ci"			"294"
+		"center_point"		"12722.84 12461.56 16.03"
+
+		// WaitSpawn Trigger
+		"wl_minpos_1"		"13280.00 15120.00 500.00"
+		"wl_maxpos_1"		"13580.00 15400.00 5750.00"
+		"ws_mintrdist_1"	"125.0"
+		"ws_maxtrdist_1"	"175.0"
+		"ws_trtype_1"		"0"
+		"ws_cpoint_1"		"13432.83 15088.13 5536.03"
+
+		// SurFlow Change Spwn Type
+		"sur_flow_1"		"1.0"
+		"spawn_type1_1"		"1"
+		"spawn_type2_1"		"1"
+		"sur_flow_2"		"25000.0"
+		"spawn_type1_2"		"1"
+		"spawn_type2_2"		"0"
+	}
+	"nmrm5_rooftop"
+	{
+		// FistSpawn Trigger
+		"min_trigger"		"200.0"
+		"max_trigger"		"220.0"
+		"trigger_type"		"1"
+		"map_ci"			"295"
+		"center_point"		"5456.03 8327.67 5760.03"
+
+		// SurFlow Change Spwn Type
+		"sur_flow_1"		"1.0"
+		"spawn_type1_1"		"1"
+		"spawn_type2_1"		"1"
+		"sur_flow_2"		"4190.0"
+		"spawn_type1_2"		"1"
+		"spawn_type2_2"		"2"
+		"sur_flow_3"		"6160.0"
+		"spawn_type1_3"		"1"
+		"spawn_type2_3"		"0"
+		"sur_flow_4"		"10000.0"
+		"spawn_type1_4"		"1"
+		"spawn_type2_4"		"0"
+	}
+	"CCR1_alleys"
+	{
+		// FistSpawn Trigger
+		"min_trigger"		"860.0"
+		"max_trigger"		"880.0"
+		"trigger_type"		"0"
+		"map_ci"			"311"
+		"center_point"		"-11098.85 -9250.31 1.03"
+
+		// FirstSpawn Pos
+		"fs_minpos_1"		"-10297.25 -9611.69 516.08" // 屋顶
+		"fs_maxpos_1"		"-10297.25 -9174.36 516.08"
+		"fs_type_1"			"1"
+		"fs_select_1"		"0 1 0 6 4 5"
+
+		"fs_minpos_2"		"-9540.40 -9612.74 -0.33" // 前方柱子后
+		"fs_type_2"			"0"
+		"fs_select_2"		"2 0 0 0 0 0"
+
+		"fs_minpos_3"		"-9681.35 -9065.92 -5.83" // 左方飞机残骸头部后方
+		"fs_type_3"			"0"
+		"fs_select_3"		"1 0 0 2 0 0"
+
+		"fs_minpos_4"		"-9990.79 -9144.40 -6.45" // 前方车后
+		"fs_type_4"			"0"
+		"fs_select_4"		"0 2 1 0 2 3"
+
+		"fs_minpos_5"		"-10287.99 -9463.36 346.86" // 上方空调箱上
+		"fs_type_5"			"0"
+		"fs_select_5"		"0 7 0 0 7 3"
+
+		"fs_minpos_6"		"-10314.24 -9680.04 288.03" // 右后放楼顶
+		"fs_type_6"			"0"
+		"fs_select_6"		"0 0 0 0 3 4"
+
+		"fs_minpos_7"		"-10063.13 -8742.52 -4.85" // 左方飞机残骸尾部后方
+		"fs_type_7"			"0"
+		"fs_select_7"		"1 0 0 1 0 0"
+
+		"fs_minpos_8"		"-10267.00 -8685.13 1.76" // 左方电箱后
+		"fs_type_8"			"0"
+		"fs_select_8"		"1 0 0 1 0 0"
+
+		// SurFlow Change Spwn Type
+		"sur_flow_1"		"1.0"
+		"spawn_type1_1"		"1"
+		"spawn_type2_1"		"0"
+		"sur_flow_2"		"3390.0"
+		"spawn_type1_2"		"2"
+		"spawn_type2_2"		"0"
+		"sur_flow_3"		"6950.0"
+		"spawn_type1_3"		"1"
+		"spawn_type2_3"		"1"
+		"sur_flow_4"		"8730.0"
+		"spawn_type1_4"		"2"
+		"spawn_type2_4"		"0"
+		"sur_flow_5"		"11210.0"
+		"spawn_type1_5"		"2"
+		"spawn_type2_5"		"2"
+		"sur_flow_6"		"12850.0"
+		"spawn_type1_6"		"1"
+		"spawn_type2_6"		"1"
+		"sur_flow_7"		"13830.0"
+		"spawn_type1_7"		"2"
+		"spawn_type2_7"		"0"
+		"sur_flow_8"		"17290.0"
+		"spawn_type1_8"		"2"
+		"spawn_type2_8"		"2"
+		"sur_flow_9"		"20000.0"
+		"spawn_type1_9"		"1"
+		"spawn_type2_9"		"0"
+		"sur_flow_10"		"21660.0"
+		"spawn_type1_10"	"3"
+		"spawn_type2_10"	"1"
+		"sur_flow_11"		"24000.0"
+		"spawn_type1_11"	"1"
+		"spawn_type2_11"	"0"
+	}
+	"ccr2_lots"
+	{
+		// FistSpawn Trigger
+		"min_trigger"		"600.0"
+		"max_trigger"		"640.0"
+		"trigger_type"		"0"
+		"map_ci"			"92"
+		"center_point"		"434.71 -1235.28 -175.96"
+
+		// FirstSpawn Pos
+		"fs_minpos_1"		"791.60 -1015.35 108.03" // 屋顶 *1
+		"fs_maxpos_1"		"791.60 -1328.24 224.03"
+		"fs_type_1"			"7"
+		"fs_select_1"		"4 2 0 8 7 9"
+
+		"fs_minpos_2"		"791.60 -1468.39 175.35" // 屋顶 *2
+		"fs_maxpos_2"		"791.60 -1328.24 225.35"
+		"fs_type_2"			"4"
+		"fs_select_2"		"4 2 0 8 7 9"
+
+		"fs_minpos_3"		"1491.57 -1132.24 -138.93" // 对面屋里 *1
+		"fs_type_3"			"0"
+		"fs_select_3"		"1 0 0 1 0 0"
+
+		"fs_minpos_4"		"1488.70 -1296.28 -191.96" // 对面屋里 *2
+		"fs_type_4"			"0"
+		"fs_select_4"		"1 0 0 1 0 0"
+
+		"fs_minpos_5"		"1152.87 -677.50 -230.17" // 对面白车后
+		"fs_type_5"			"0"
+		"fs_select_5"		"2 0 3 0 4 0"
+
+		"fs_minpos_6"		"548.44 -710.92 -177.26" // 左侧车厢后
+		"fs_type_6"			"0"
+		"fs_select_6"		"0 0 2 0 2 2"
+
+		"fs_minpos_7"		"841.64 -592.67 -230.36" // 左侧货车头后
+		"fs_type_7"			"0"
+		"fs_select_7"		"4 0 3 0 0 0"
+
+		"fs_minpos_8"		"1503.55 -1552.03 -223.96" // 右侧墙后
+		"fs_type_8"			"0"
+		"fs_select_8"		"4 1 2 2 0 0"
+
+		// SurFlow Change Spwn Type
+		"sur_flow_1"		"1.0"
+		"spawn_type1_1"		"1"
+		"spawn_type2_1"		"1"
+		"sur_flow_2"		"730.0"
+		"spawn_type1_2"		"2"
+		"spawn_type2_2"		"0"
+		"sur_flow_3"		"1460.0"
+		"spawn_type1_3"		"1"
+		"spawn_type2_3"		"0"
+		"sur_flow_4"		"2890.0"
+		"spawn_type1_4"		"3"
+		"spawn_type2_4"		"0"
+		"sur_flow_5"		"4090.0"
+		"spawn_type1_5"		"1"
+		"spawn_type2_5"		"1"
+		"sur_flow_6"		"7900.0"
+		"spawn_type1_6"		"1"
+		"spawn_type2_6"		"0"
+		"sur_flow_7"		"9010.0"
+		"spawn_type1_7"		"2"
+		"spawn_type2_7"		"2"
+		"sur_flow_8"		"9540.0"
+		"spawn_type1_8"		"2"
+		"spawn_type2_8"		"0"
+		"sur_flow_9"		"11740.0"
+		"spawn_type1_9"		"1"
+		"spawn_type2_9"		"1"
+		"sur_flow_10"		"15230.0"
+		"spawn_type1_10"	"2"
+		"spawn_type2_10"	"0"
+		"sur_flow_11"		"22180.0"
+		"spawn_type1_11"	"1"
+		"spawn_type2_11"	"1"
+		"sur_flow_12"		"23470.0"
+		"spawn_type1_12"	"2"
+		"spawn_type2_12"	"0"
+		"sur_flow_13"		"30000.0"
+		"spawn_type1_13"	"1"
+		"spawn_type2_13"	"0"
+	}
+	"ccr3_factories"
+	{
+		// FistSpawn Trigger
+		"min_trigger"		"120.0"
+		"max_trigger"		"140.0"
+		"trigger_type"		"0"
+		"map_ci"			"313"
+		"center_point"		"7172.45 5693.11 64.03"
+
+		// SurFlow Change Spwn Type
+		"sur_flow_1"		"1.0"
+		"spawn_type1_1"		"1"
+		"spawn_type2_1"		"0"
+		"sur_flow_2"		"840.0"
+		"spawn_type1_2"		"2"
+		"spawn_type2_2"		"0"
+		"sur_flow_3"		"1690.0"
+		"spawn_type1_3"		"1"
+		"spawn_type2_3"		"1"
+		"sur_flow_4"		"5300.0"
+		"spawn_type1_4"		"1"
+		"spawn_type2_4"		"0"
+		"sur_flow_5"		"6950.0"
+		"spawn_type1_5"		"2"
+		"spawn_type2_5"		"0"
+		"sur_flow_6"		"13000.0"
+		"spawn_type1_6"		"1"
+		"spawn_type2_6"		"2"
+		"sur_flow_7"		"18490.0"
+		"spawn_type1_7"		"1"
+		"spawn_type2_7"		"1"
+		"sur_flow_8"		"25420.0"
+		"spawn_type1_8"		"1"
+		"spawn_type2_8"		"0"
+		"sur_flow_9"		"27910.0"
+		"spawn_type1_9"		"2"
+		"spawn_type2_9"		"0"
+		"sur_flow_10"		"30550.0"
+		"spawn_type1_10"	"1"
+		"spawn_type2_10"	"2"
+		"sur_flow_11"		"31610.0"
+		"spawn_type1_11"	"2"
+		"spawn_type2_11"	"2"
+		"sur_flow_12"		"35000.0"
+		"spawn_type1_12"	"1"
+		"spawn_type2_12"	"0"
+	}
+	"ccr4_waterworks"
+	{
+		// FistSpawn Trigger
+		"min_trigger"		"640.0"
+		"max_trigger"		"650.0"
+		"trigger_type"		"0"
+		"map_ci"			"311"
+		"center_point"		"-4227.26 -1819.60 -175.96"
+
+		// FirstSpawn Pos
+		"fs_minpos_1"		"-3988.80 -2320.00 140.48" // 上方空调机上
+		"fs_type_1"			"0"
+		"fs_select_1"		"1 1 0 0 2 1"
+
+		"fs_minpos_2"		"-4120.33 -2254.40 173.03" // 屋顶
+		"fs_maxpos_2"		"-4261.06 -2257.46 173.03"
+		"fs_type_2"			"1"
+		"fs_select_2"		"3 1 3 1 3 4"
+
+		"fs_minpos_3"		"-4518.74 -2633.82 -223.96" // 迷彩车后 *1
+		"fs_type_3"			"0"
+		"fs_select_3"		"2 0 1 0 0 0"
+
+		"fs_minpos_4"		"-4629.55 -2569.99 -223.96" // 迷彩车后 *2
+		"fs_type_4"			"0"
+		"fs_select_4"		"2 0 0 0 0 0"
+
+		// SurFlow Change Spwn Type
+		"sur_flow_1"		"1.0"
+		"spawn_type1_1"		"2"
+		"spawn_type2_1"		"0"
+		"sur_flow_2"		"6020.0"
+		"spawn_type1_2"		"1"
+		"spawn_type2_2"		"1"
+		"sur_flow_3"		"7500.0"
+		"spawn_type1_3"		"2"
+		"spawn_type2_3"		"2"
+		"sur_flow_4"		"9420.0"
+		"spawn_type1_4"		"1"
+		"spawn_type2_4"		"1"
+		"sur_flow_5"		"11180.0"
+		"spawn_type1_5"		"3"
+		"spawn_type2_5"		"1"
+		"sur_flow_6"		"11850.0"
+		"spawn_type1_6"		"2"
+		"spawn_type2_6"		"0"
+		"sur_flow_7"		"13000.0"
+		"spawn_type1_7"		"1"
+		"spawn_type2_7"		"0"
+		"sur_flow_8"		"15190.0"
+		"spawn_type1_8"		"1"
+		"spawn_type2_8"		"1"
+		"sur_flow_9"		"16730.0"
+		"spawn_type1_9"		"1"
+		"spawn_type2_9"		"0"
+		"sur_flow_10"		"18830.0"
+		"spawn_type1_10"	"2"
+		"spawn_type2_10"	"0"
+		"sur_flow_11"		"20880.0"
+		"spawn_type1_11"	"1"
+		"spawn_type2_11"	"1"
+		"sur_flow_12"		"21710.0"
+		"spawn_type1_12"	"1"
+		"spawn_type2_12"	"0"
+		"sur_flow_13"		"23350.0"
+		"spawn_type1_13"	"1"
+		"spawn_type2_13"	"2"
+		"sur_flow_14"		"24340.0"
+		"spawn_type1_14"	"2"
+		"spawn_type2_14"	"2"
+		"sur_flow_15"		"31000.0"
+		"spawn_type1_15"	"1"
+		"spawn_type2_15"	"1"
+		"sur_flow_16"		"31710.0"
+		"spawn_type1_16"	"1"
+		"spawn_type2_16"	"0"
+		"sur_flow_17"		"34730.0"
+		"spawn_type1_17"	"2"
+		"spawn_type2_17"	"0"
+		"sur_flow_18"		"38000.0"
+		"spawn_type1_18"	"1"
+		"spawn_type2_18"	"0"
+	}
+	"ccr5_storage_f"
+	{
+		// FistSpawn Trigger
+		"min_trigger"		"420.0"
+		"max_trigger"		"500.0"
+		"trigger_type"		"0"
+		"map_ci"			"315"
+		"center_point"		"-844.70 -11382.65 64.03"
+
+		// SurFlow Change Spwn Type
+		"sur_flow_1"		"1.0"
+		"spawn_type1_1"		"2"
+		"spawn_type2_1"		"0"
+		"sur_flow_2"		"1580.0"
+		"spawn_type1_2"		"1"
+		"spawn_type2_2"		"0"
+		"sur_flow_3"		"3940.0"
+		"spawn_type1_3"		"1"
+		"spawn_type2_3"		"1"
+		"sur_flow_4"		"6220.0"
+		"spawn_type1_4"		"1"
+		"spawn_type2_4"		"2"
+		"sur_flow_5"		"9400.0"
+		"spawn_type1_5"		"2"
+		"spawn_type2_5"		"0"
+		"sur_flow_6"		"12500.0"
+		"spawn_type1_6"		"1"
+		"spawn_type2_6"		"0"
+		"sur_flow_7"		"20500.0"
+		"spawn_type1_7"		"1"
+		"spawn_type2_7"		"1"
+		"sur_flow_8"		"21500.0"
+		"spawn_type1_8"		"1"
+		"spawn_type2_8"		"0"
+		"sur_flow_9"		"30450.0"
+		"spawn_type1_9"		"2"
+		"spawn_type2_9"		"0"
+		"sur_flow_10"		"33850.0"
+		"spawn_type1_10"	"1"
+		"spawn_type2_10"	"0"
+		"sur_flow_11"		"35760.0"
+		"spawn_type1_11"	"2"
+		"spawn_type2_11"	"0"
+		"sur_flow_12"		"40850.0"
+		"spawn_type1_12"	"1"
+		"spawn_type2_12"	"0"
+		"sur_flow_13"		"45000.0"
+		"spawn_type1_13"	"1"
+		"spawn_type2_13"	"0"
+	}
+	"cwm1_intro"
+	{
+		// FistSpawn Trigger
+		"min_trigger"		"520.0"
+		"max_trigger"		"540.0"
+		"trigger_type"		"0"
+		"map_ci"			"431"
+		"center_point"		"2563.99 -2095.96 -15.96"
+
+		// FirstSpawn Pos
+		"fs_minpos_1"		"2743.67 -1887.45 411.50" // 后方屋顶
+		"fs_type_1"			"0"
+		"fs_select_1"		"3 0 1 0 1 0"
+
+		"fs_minpos_2"		"1768.00 -2428.00 480.03" // 右边屋顶
+		"fs_maxpos_2"		"1780.00 -2388.00 480.03"
+		"fs_type_2"			"1"
+		"fs_select_2"		"1 2 1 1 3 3"
+
+		"fs_minpos_3"		"1945.44 -2438.30 128.03" // 前方屋里
+		"fs_type_3"			"0"
+		"fs_select_3"		"0 1 8 1 1 3"
+
+		"fs_minpos_4"		"1993.20 -2655.24 748.79" // 前方屋顶
+		"fs_maxpos_4"		"2393.69 -2655.24 748.79"
+		"fs_type_4"			"1"
+		"fs_select_4"		"1 0 0 0 3 1"
+
+		// SurFlow Change Spwn Type
+		"sur_flow_1"		"0.0"
+		"spawn_type1_1"		"1"
+		"spawn_type2_1"		"2"
+		"sur_flow_2"		"840.0"
+		"spawn_type1_2"		"2"
+		"spawn_type2_2"		"0"
+		"sur_flow_3"		"1370.0"
+		"spawn_type1_3"		"1"
+		"spawn_type2_3"		"2"
+		"sur_flow_4"		"5740.0"
+		"spawn_type1_4"		"1"
+		"spawn_type2_4"		"0"
+		"sur_flow_5"		"8180.0"
+		"spawn_type1_5"		"2"
+		"spawn_type2_5"		"0"
+		"sur_flow_6"		"12372.0"
+		"spawn_type1_6"		"1"
+		"spawn_type2_6"		"1"
+		"sur_flow_7"		"13810.0"
+		"spawn_type1_7"		"2"
+		"spawn_type2_7"		"0"
+		"sur_flow_8"		"15850.0"
+		"spawn_type1_8"		"1"
+		"spawn_type2_8"		"2"
+		"sur_flow_9"		"18350.0"
+		"spawn_type1_9"		"1"
+		"spawn_type2_9"		"0"
+		"sur_flow_10"		"24000.0"
+		"spawn_type1_10"	"1"
+		"spawn_type2_10"	"0"
+	}
+	"cwm2_warehouse"
+	{
+		// FistSpawn Trigger
+		"min_trigger"		"160.0"
+		"max_trigger"		"180.0"
+		"trigger_type"		"0"
+		"map_ci"			"432"
+		"center_point"		"-1795.22 -3383.09 292.36"
+
+		// FirstSpawn Pos
+		"fs_minpos_1"		"-1712.00 -3670.14 410.36" // 头顶
+		"fs_maxpos_1"		"-1712.00 -3353.02 410.36"
+		"fs_type_1"			"1"
+		"fs_select_1"		"0 3 3 1 5 2"
+
+		"fs_minpos_2"		"-1895.23 -2996.83 256.03" // 白车头后
+		"fs_type_2"			"0"
+		"fs_select_2"		"1 0 1 0 2 1"
+
+		"fs_minpos_3"		"-1712.26 -3157.80 255.55" // 白车后
+		"fs_type_3"			"0"
+		"fs_select_3"		"0 2 1 0 0 1"
+
+		"fs_minpos_4"		"-2022.43 -2787.97 256.03" // 右方柱子后
+		"fs_type_4"			"0"
+		"fs_select_4"		"2 0 0 0 0 0"
+
+		"fs_minpos_5"		"-2406.71 -3449.79 288.03" // 对面掩体后
+		"fs_type_5"			"0"
+		"fs_select_5"		"3 0 1 0 0 0"
+
+		// SurFlow Change Spwn Type
+		"sur_flow_1"		"1.0"
+		"spawn_type1_1"		"2"
+		"spawn_type2_1"		"0"
+		"sur_flow_2"		"2630.0"
+		"spawn_type1_2"		"1"
+		"spawn_type2_2"		"1"
+		"sur_flow_3"		"5000.0"
+		"spawn_type1_3"		"2"
+		"spawn_type2_3"		"0"
+		"sur_flow_4"		"6480.0"
+		"spawn_type1_4"		"1"
+		"spawn_type2_4"		"1"
+		"sur_flow_5"		"7430.0"
+		"spawn_type1_5"		"2"
+		"spawn_type2_5"		"0"
+		"sur_flow_6"		"7730.0"
+		"spawn_type1_6"		"1"
+		"spawn_type2_6"		"0"
+		"sur_flow_7"		"13380.0"
+		"spawn_type1_7"		"1"
+		"spawn_type2_7"		"2"
+		"sur_flow_8"		"15780.0"
+		"spawn_type1_8"		"1"
+		"spawn_type2_8"		"1"
+		"sur_flow_9"		"19610.0"
+		"spawn_type1_9"		"1"
+		"spawn_type2_9"		"0"
+		"sur_flow_10"		"22510.0"
+		"spawn_type1_10"	"2"
+		"spawn_type2_10"	"0"
+		"sur_flow_11"		"27030.0"
+		"spawn_type1_11"	"1"
+		"spawn_type2_11"	"0"
+		"sur_flow_12"		"28450.0"
+		"spawn_type1_12"	"2"
+		"spawn_type2_12"	"0"
+		"sur_flow_13"		"29220.0"
+		"spawn_type1_13"	"1"
+		"spawn_type2_13"	"1"
+		"sur_flow_14"		"31330.0"
+		"spawn_type1_14"	"2"
+		"spawn_type2_14"	"0"
+		"sur_flow_15"		"34330.0"
+		"spawn_type1_15"	"1"
+		"spawn_type2_15"	"0"
+		"sur_flow_16"		"35080.0"
+		"spawn_type1_16"	"2"
+		"spawn_type2_16"	"0"
+		"sur_flow_17"		"39670.0"
+		"spawn_type1_17"	"1"
+		"spawn_type2_17"	"1"
+		"sur_flow_18"		"46000.0"
+		"spawn_type1_18"	"1"
+		"spawn_type2_18"	"0"
+	}
+	"cwm3_drain"
+	{
+		// FistSpawn Trigger
+		"min_trigger"		"95.0"
+		"max_trigger"		"100.0"
+		"trigger_type"		"0"
+		"map_ci"			"433"
+		"center_point"		"-1796.49 220.41 -383.96"
+
+		// FirstSpawn Pos
+		"fs_minpos_1"		"-1644.24 432.49 -307.67" // 后方墙上
+		"fs_type_1"			"0"
+		"fs_select_1"		"0 1 0 1 3 1"
+
+		"fs_minpos_2"		"-1672.51 864.27 -383.96" // 后方远点墙后
+		"fs_type_2"			"0"
+		"fs_select_2"		"1 0 0 0 0 0"
+
+		"fs_minpos_3"		"-1515.00 -80.00 -383.96" // 前方墙后
+		"fs_type_3"			"0"
+		"fs_select_3"		"0 0 1 4 1 1"
+
+		// SurFlow Change Spwn Type
+		"sur_flow_1"		"1.0"
+		"spawn_type1_1"		"1"
+		"spawn_type2_1"		"2"
+		"sur_flow_2"		"3830.0"
+		"spawn_type1_2"		"1"
+		"spawn_type2_2"		"0"
+		"sur_flow_3"		"7060.0"
+		"spawn_type1_3"		"2"
+		"spawn_type2_3"		"2"
+		"sur_flow_4"		"11790.0"
+		"spawn_type1_4"		"2"
+		"spawn_type2_4"		"0"
+		"sur_flow_5"		"14100.0"
+		"spawn_type1_5"		"1"
+		"spawn_type2_5"		"2"
+		"sur_flow_6"		"14780.0"
+		"spawn_type1_6"		"1"
+		"spawn_type2_6"		"1"
+		"sur_flow_7"		"16210.0"
+		"spawn_type1_7"		"1"
+		"spawn_type2_7"		"0"
+		"sur_flow_8"		"22200.0"
+		"spawn_type1_8"		"1"
+		"spawn_type2_8"		"0"
+	}
+	"cwm4_building"
+	{
+		// FistSpawn Trigger
+		"min_trigger"		"230.0"
+		"max_trigger"		"240.0"
+		"trigger_type"		"4"
+		"map_ci"			"434"
+		"center_point"		"669.78 454.05 -143.96"
+
+		// FirstSpawn Pos
+		"fs_minpos_1"		"779.53 7.56 -143.96" // 货箱架后
+		"fs_type_1"			"0"
+		"fs_select_1"		"0 1 3 1 4 1"
+
+		"fs_minpos_2"		"624.88 -230.56 -127.96" // 门后
+		"fs_type_2"			"0"
+		"fs_select_2"		"1 0 1 0 1 0"
+
+		// SurFlow Change Spwn Type
+		"sur_flow_1"		"1.0"
+		"spawn_type1_1"		"1"
+		"spawn_type2_1"		"0"
+		"sur_flow_2"		"2610.0"
+		"spawn_type1_2"		"1"
+		"spawn_type2_2"		"2"
+		"sur_flow_3"		"5560.0"
+		"spawn_type1_3"		"1"
+		"spawn_type2_3"		"0"
+		"sur_flow_4"		"10880.0"
+		"spawn_type1_4"		"1"
+		"spawn_type2_4"		"2"
+		"sur_flow_5"		"15180.0"
+		"spawn_type1_5"		"1"
+		"spawn_type2_5"		"1"
+		"sur_flow_6"		"18440.0"
+		"spawn_type1_6"		"1"
+		"spawn_type2_6"		"0"
+		"sur_flow_7"		"24700.0"
+		"spawn_type1_7"		"1"
+		"spawn_type2_7"		"1"
+		"sur_flow_8"		"27200.0"
+		"spawn_type1_8"		"1"
+		"spawn_type2_8"		"0"
+		"sur_flow_9"		"28760.0"
+		"spawn_type1_9"		"2"
+		"spawn_type2_9"		"2"
+		"sur_flow_10"		"30000.0"
+		"spawn_type1_10"	"1"
+		"spawn_type2_10"	"0"
+	}
+	"cdta_01detour"
+	{
+		// FistSpawn Trigger
+		"min_trigger"		"320.0"
+		"max_trigger"		"360.0"
+		"trigger_type"		"4"
+		"map_ci"			"441"
+		"center_point"		"-295.12 3216.36 136.57"
+
+		// SurFlow Change Spwn Type
+		"sur_flow_1"		"1.0"
+		"spawn_type1_1"		"2"
+		"spawn_type2_1"		"0"
+		"sur_flow_2"		"7130.0"
+		"spawn_type1_2"		"1"
+		"spawn_type2_2"		"0"
+		"sur_flow_3"		"11070.0"
+		"spawn_type1_3"		"1"
+		"spawn_type2_3"		"1"
+		"sur_flow_4"		"12550.0"
+		"spawn_type1_4"		"1"
+		"spawn_type2_4"		"2"
+		"sur_flow_5"		"16100.0"
+		"spawn_type1_5"		"2"
+		"spawn_type2_5"		"2"
+		"sur_flow_6"		"21480.0"
+		"spawn_type1_6"		"1"
+		"spawn_type2_6"		"0"
+		"sur_flow_7"		"24000.0"
+		"spawn_type1_7"		"1"
+		"spawn_type2_7"		"0"
+	}
+	"cdta_02road"
+	{
+		// FistSpawn Trigger
+		"min_trigger"		"135.0"
+		"max_trigger"		"140.0"
+		"trigger_type"		"0"
+		"map_ci"			"442"
+		"center_point"		"-3962.09 -501.87 -111.96"
+
+		// SurFlow Change Spwn Type
+		"sur_flow_1"		"1.0"
+		"spawn_type1_1"		"1"
+		"spawn_type2_1"		"1"
+		"sur_flow_2"		"950.0"
+		"spawn_type1_2"		"2"
+		"spawn_type2_2"		"0"
+		"sur_flow_3"		"2900.0"
+		"spawn_type1_3"		"1"
+		"spawn_type2_3"		"0"
+		"sur_flow_4"		"19560.0"
+		"spawn_type1_4"		"1"
+		"spawn_type2_4"		"1"
+		"sur_flow_5"		"22000.0"
+		"spawn_type1_5"		"1"
+		"spawn_type2_5"		"0"
+	}
+	"cdta_03warehouse"
+	{
+		// FistSpawn Trigger
+		"min_trigger"		"170.0"
+		"max_trigger"		"180.0"
+		"trigger_type"		"3"
+		"map_ci"			"443"
+		"center_point"		"-4757.60 -7263.96 309.14"
+
+		// SurFlow Change Spwn Type
+		"sur_flow_1"		"1.0"
+		"spawn_type1_1"		"2"
+		"spawn_type2_1"		"2"
+		"sur_flow_2"		"1680.0"
+		"spawn_type1_2"		"1"
+		"spawn_type2_2"		"2"
+		"sur_flow_3"		"3500.0"
+		"spawn_type1_3"		"1"
+		"spawn_type2_3"		"0"
+		"sur_flow_4"		"4900.0"
+		"spawn_type1_4"		"2"
+		"spawn_type2_4"		"0"
+		"sur_flow_5"		"7940.0"
+		"spawn_type1_5"		"1"
+		"spawn_type2_5"		"1"
+		"sur_flow_6"		"10420.0"
+		"spawn_type1_6"		"1"
+		"spawn_type2_6"		"2"
+		"sur_flow_7"		"10800.0"
+		"spawn_type1_7"		"2"
+		"spawn_type2_7"		"0"
+		"sur_flow_8"		"13850.0"
+		"spawn_type1_8"		"1"
+		"spawn_type2_8"		"1"
+		"sur_flow_9"		"25520.0"
+		"spawn_type1_9"		"2"
+		"spawn_type2_9"		"0"
+		"sur_flow_10"		"25950.0"
+		"spawn_type1_10"	"1"
+		"spawn_type2_10"	"0"
+		"sur_flow_11"		"31000.0"
+		"spawn_type1_11"	"1"
+		"spawn_type2_11"	"0"
+	}
+	"cdta_04onarail"
+	{
+		// FistSpawn Trigger
+		"min_trigger"		"240.0"
+		"max_trigger"		"300.0"
+		"trigger_type"		"1"
+		"map_ci"			"444"
+		"center_point"		"-11367.99 2763.51 656.03"
+
+		// SurFlow Change Spwn Type
+		"sur_flow_1"		"1.0"
+		"spawn_type1_1"		"1"
+		"spawn_type2_1"		"1"
+		"sur_flow_2"		"1120.0"
+		"spawn_type1_2"		"1"
+		"spawn_type2_2"		"0"
+		"sur_flow_3"		"12270.0"
+		"spawn_type1_3"		"1"
+		"spawn_type2_3"		"2"
+		"sur_flow_4"		"18210.0"
+		"spawn_type1_4"		"1"
+		"spawn_type2_4"		"0"
+		"sur_flow_5"		"27290.0"
+		"spawn_type1_5"		"1"
+		"spawn_type2_5"		"1"
+		"sur_flow_6"		"31840.0"
+		"spawn_type1_6"		"1"
+		"spawn_type2_6"		"0"
+		"sur_flow_7"		"36000.0"
+		"spawn_type1_7"		"1"
+		"spawn_type2_7"		"0"
+	}
+	"cdta_05finalroad"
+	{
+		// FistSpawn Trigger
+		"min_trigger"		"210.0"
+		"max_trigger"		"250.0"
+		"trigger_type"		"0"
+		"map_ci"			"445"
+		"center_point"		"-11480.26 -12193.01 969.03"
+
+		// SurFlow Change Spwn Type
+		"sur_flow_1"		"1.0"
+		"spawn_type1_1"		"1"
+		"spawn_type2_1"		"0"
+		"sur_flow_2"		"10280.0"
+		"spawn_type1_2"		"1"
+		"spawn_type2_2"		"2"
+		"sur_flow_3"		"11840.0"
+		"spawn_type1_3"		"1"
+		"spawn_type2_3"		"0"
+		"sur_flow_4"		"21000.0"
+		"spawn_type1_4"		"1"
+		"spawn_type2_4"		"0"
+	}
+	"x1m1_cliffs"
+	{
+
+	}
+	"x1m2_path"
+	{
+
+	}
+	"x1m3_city"
+	{
+
+	}
+	"x1m4_forest"
+	{
+
+	}
+	"x1m5_salvation"
+	{
+
+	}
+	"l4d2_daybreak01_hotel"
+	{
+
+	}
+	"l4d2_daybreak02_coastline"
+	{
+
+	}
+	"l4d2_daybreak03_bridge"
+	{
+
+	}
+	"l4d2_daybreak04_cruise"
+	{
+
+	}
+	"l4d2_daybreak05_rescue"
+	{
+
+	}
+	"l4d2_city17_01_revamped"
+	{
+
+	}
+	"l4d2_city17_02_revamped"
+	{
+
+	}
+	"l4d2_city17_03_revamped"
+	{
+
+	}
+	"l4d2_city17_04_revamped"
+	{
+
+	}
+	"l4d2_city17_05_revampedau"
+	{
+
+	}
+	"l4d_damit01_orchard"
+	{
+
+	}
+	"l4d_damit02_campground"
+	{
+
+	}
+	"l4d_damit03_dam"
+	{
+
+	}
+	"c14m1_orchard"
+	{
+
+	}
+	"c14m2_campground"
+	{
+
+	}
+	"c14m3_dam"
+	{
+
+	}
+	"damitdc1"
+	{
+
+	}
+	"damitdc2"
+	{
+
+	}
+	"damitdc3"
+	{
+
+	}
+	"damitdc4"
+	{
+
+	}
+	"l4d_ihm01_forest"
+	{
+		// FistSpawn Trigger
+		"min_trigger"		"50.0"
+		"max_trigger"		"200.0"
+		"trigger_type"		"1"
+		"map_ci"			"471"
+		"center_point"		"-1245.49 122.07 10.66"
+
+		// SurFlow Change Spwn Type
+		"sur_flow_1"		"1.0"
+		"spawn_type1_1"		"1"
+		"spawn_type2_1"		"0"
+		"sur_flow_2"		"2260.0"
+		"spawn_type1_2"		"1"
+		"spawn_type2_2"		"2"
+		"sur_flow_3"		"4470.0"
+		"spawn_type1_3"		"1"
+		"spawn_type2_3"		"0"
+		"sur_flow_4"		"9690.0"
+		"spawn_type1_4"		"2"
+		"spawn_type2_4"		"0"
+		"sur_flow_5"		"13360.0"
+		"spawn_type1_5"		"1"
+		"spawn_type2_5"		"0"
+		"sur_flow_6"		"21000.0"
+		"spawn_type1_6"		"1"
+		"spawn_type2_6"		"0"
+	}
+	"l4d_ihm02_manor"
+	{
+		// FistSpawn Trigger
+		"min_trigger"		"180.0"
+		"max_trigger"		"380.0"
+		"trigger_type"		"0"
+		"map_ci"			"472"
+		"center_point"		"371.84 2902.96 140.03"
+
+		// SurFlow Change Spwn Type
+		"sur_flow_1"		"1.0"
+		"spawn_type1_1"		"1"
+		"spawn_type2_1"		"1"
+		"sur_flow_2"		"2880.0"
+		"spawn_type1_2"		"1"
+		"spawn_type2_2"		"0"
+		"sur_flow_3"		"3490.0"
+		"spawn_type1_3"		"1"
+		"spawn_type2_3"		"1"
+		"sur_flow_4"		"4210.0"
+		"spawn_type1_4"		"2"
+		"spawn_type2_4"		"0"
+		"sur_flow_5"		"4800.0"
+		"spawn_type1_5"		"1"
+		"spawn_type2_5"		"0"
+	}
+	"l4d_ihm03_underground"
+	{
+		// FistSpawn Trigger
+		"min_trigger"		"365.0"
+		"max_trigger"		"370.0"
+		"trigger_type"		"0"
+		"map_ci"			"473"
+		"center_point"		"8741.61 -382.06 0.03"
+
+		// SurFlow Change Spwn Type
+		"sur_flow_1"		"1.0"
+		"spawn_type1_1"		"1"
+		"spawn_type2_1"		"1"
+		"sur_flow_2"		"9000.0"
+		"spawn_type1_2"		"2"
+		"spawn_type2_2"		"2"
+		"sur_flow_3"		"13680.0"
+		"spawn_type1_3"		"1"
+		"spawn_type2_3"		"1"
+		"sur_flow_4"		"20920.0"
+		"spawn_type1_4"		"1"
+		"spawn_type2_4"		"0"
+		"sur_flow_5"		"23250.0"
+		"spawn_type1_5"		"1"
+		"spawn_type2_5"		"1"
+		"sur_flow_6"		"30200.0"
+		"spawn_type1_6"		"1"
+		"spawn_type2_6"		"2"
+		"sur_flow_7"		"30880.0"
+		"spawn_type1_7"		"1"
+		"spawn_type2_7"		"1"
+		"sur_flow_8"		"33000.0"
+		"spawn_type1_8"		"1"
+		"spawn_type2_8"		"0"
+	}
+	"l4d_ihm04_lumberyard"
+	{
+		// FistSpawn Trigger
+		"min_trigger"		"220.0"
+		"max_trigger"		"240.0"
+		"trigger_type"		"0"
+		"map_ci"			"474"
+		"center_point"		"-9971.51 -10521.05 -208.96"
+
+		// SurFlow Change Spwn Type
+		"sur_flow_1"		"1.0"
+		"spawn_type1_1"		"2"
+		"spawn_type2_1"		"0"
+		"sur_flow_2"		"720.0"
+		"spawn_type1_2"		"1"
+		"spawn_type2_2"		"0"
+		"sur_flow_3"		"3100.0"
+		"spawn_type1_3"		"1"
+		"spawn_type2_3"		"1"
+		"sur_flow_4"		"5490.0"
+		"spawn_type1_4"		"1"
+		"spawn_type2_4"		"0"
+		"sur_flow_5"		"18490.0"
+		"spawn_type1_5"		"1"
+		"spawn_type2_5"		"1"
+		"sur_flow_6"		"20550.0"
+		"spawn_type1_6"		"1"
+		"spawn_type2_6"		"0"
+		"sur_flow_7"		"21310.0"
+		"spawn_type1_7"		"1"
+		"spawn_type2_7"		"1"
+		"sur_flow_8"		"22120.0"
+		"spawn_type1_8"		"1"
+		"spawn_type2_8"		"0"
+		"sur_flow_9"		"24000.0"
+		"spawn_type1_9"		"1"
+		"spawn_type2_9"		"0"
+	}
+	"l4d_ihm05_lakeside"
+	{
+		// FistSpawn Trigger
+		"min_trigger"		"180.0"
+		"max_trigger"		"200.0"
+		"trigger_type"		"0"
+		"map_ci"			"475"
+		"center_point"		"-555.80 -4126.13 -35.96"
+
+		// SurFlow Change Spwn Type
+		"sur_flow_1"		"1.0"
+		"spawn_type1_1"		"1"
+		"spawn_type2_1"		"0"
+		"sur_flow_2"		"20000.0"
+		"spawn_type1_2"		"1"
+		"spawn_type2_2"		"0"
+	}
+	"l4d2_motamap_m1"
+	{
+
+	}
+	"l4d2_motamap_m2"
+	{
+
+	}
+	"l4d2_motamap_m3"
+	{
+
+	}
+	"l4d2_motamap_m4"
+	{
+
+	}
+	"l4d2_motamap_m5"
+	{
+
+	}
+	"2019_M1b"
+	{
+
+	}
+	"2019_M2b"
+	{
+
+	}
+	"2019_M3b"
+	{
+
+	}
+	"bloodtracks_01"
+	{
+
+	}
+	"bloodtracks_02"
+	{
+
+	}
+	"bloodtracks_03"
+	{
+
+	}
+	"bloodtracks_04"
+	{
+
+	}
+	"l4d2_stadium1_apartment"
+	{
+		// FistSpawn Trigger
+		"min_trigger"		"130.0"
+		"max_trigger"		"140.0"
+		"trigger_type"		"4"
+		"map_ci"			"501"
+		"center_point"		"59.36 880.00 -7.96"
+
+		// WaitSpawn Trigger
+		"wl_minpos_1"		"280.00 420.0 -2131.00"
+		"wl_maxpos_1"		"400.00 580.0 -145.00"
+		"ws_mintrdist_1"	"200.0" 
+		"ws_maxtrdist_1"	"220.0"
+		"ws_trtype_1"		"0"
+		"ws_cpoint_1"		"239.53 520.61 -2086.96"
+
+		"wl_minpos_2"		"280.00 420.0 -2131.00"
+		"wl_maxpos_2"		"400.00 580.0 -3745.00"
+		"ws_mintrdist_2"	"500.0"
+		"ws_maxtrdist_2"	"540.0"
+		"ws_trtype_2"		"2"
+		"ws_cpoint_2"		"260.59 518.02 -3743.96"
+
+		// SurFlow Change Spwn Type
+		"sur_flow_1"		"1.0"
+		"spawn_type1_1"		"1"
+		"spawn_type2_1"		"1"
+		"sur_flow_2"		"8070.0"
+		"spawn_type1_2"		"2"
+		"spawn_type2_2"		"0"
+		"sur_flow_3"		"17450.0"
+		"spawn_type1_3"		"1"
+		"spawn_type2_3"		"1"
+		"sur_flow_4"		"22000.0"
+		"spawn_type1_4"		"1"
+		"spawn_type2_4"		"0"
+	}
+	"l4d2_stadium2_riverwalk"
+	{
+		// FistSpawn Trigger
+		"min_trigger"		"840.0"
+		"max_trigger"		"880.0"
+		"trigger_type"		"0"
+		"map_ci"			"502"
+		"center_point"		"-1509.03 303.04 -231.96"
+
+		// SurFlow Change Spwn Type
+		"sur_flow_1"		"1.0"
+		"spawn_type1_1"		"2"
+		"spawn_type2_1"		"2"
+		"sur_flow_2"		"8100.0"
+		"spawn_type1_2"		"1"
+		"spawn_type2_2"		"0"
+		"sur_flow_3"		"10260.0"
+		"spawn_type1_3"		"2"
+		"spawn_type2_3"		"2"
+		"sur_flow_4"		"11360.0"
+		"spawn_type1_4"		"1"
+		"spawn_type2_4"		"1"
+		"sur_flow_5"		"15260.0"
+		"spawn_type1_5"		"2"
+		"spawn_type2_5"		"2"
+		"sur_flow_6"		"16000.0"
+		"spawn_type1_6"		"1"
+		"spawn_type2_6"		"2"
+		"sur_flow_7"		"17000.0"
+		"spawn_type1_7"		"2"
+		"spawn_type2_7"		"2"
+		"sur_flow_8"		"22130.0"
+		"spawn_type1_8"		"1"
+		"spawn_type2_8"		"1"
+		"sur_flow_9"		"24630.0"
+		"spawn_type1_9"		"2"
+		"spawn_type2_9"		"0"
+		"sur_flow_10"		"26600.0"
+		"spawn_type1_10"	"1"
+		"spawn_type2_10"	"1"
+		"sur_flow_11"		"40000.0"
+		"spawn_type1_11"	"1"
+		"spawn_type2_11"	"0"
+	}
+	"l4d2_stadium3_city1"
+	{
+		// FistSpawn Trigger
+		"min_trigger"		"135.0"
+		"max_trigger"		"140.0"
+		"trigger_type"		"0"
+		"map_ci"			"503"
+		"center_point"		"1341.86 6726.61 -421.96"
+
+		// SurFlow Change Spwn Type
+		"sur_flow_1"		"1.0"
+		"spawn_type1_1"		"1"
+		"spawn_type2_1"		"1"
+		"sur_flow_2"		"11520.0"
+		"spawn_type1_2"		"2"
+		"spawn_type2_2"		"0"
+		"sur_flow_3"		"12610.0"
+		"spawn_type1_3"		"1"
+		"spawn_type2_3"		"0"
+		"sur_flow_4"		"13850.0"
+		"spawn_type1_4"		"2"
+		"spawn_type2_4"		"0"
+		"sur_flow_5"		"14490.0"
+		"spawn_type1_5"		"1"
+		"spawn_type2_5"		"1"
+		"sur_flow_6"		"18420.0"
+		"spawn_type1_6"		"2"
+		"spawn_type2_6"		"0"
+		"sur_flow_7"		"18870.0"
+		"spawn_type1_7"		"1"
+		"spawn_type2_7"		"1"
+		"sur_flow_8"		"21470.0"
+		"spawn_type1_8"		"2"
+		"spawn_type2_8"		"0"
+		"sur_flow_9"		"23070.0"
+		"spawn_type1_9"		"1"
+		"spawn_type2_9"		"1"
+		"sur_flow_10"		"32000.0"
+		"spawn_type1_10"	"1"
+		"spawn_type2_10"	"0"
+	}
+	"l4d2_stadium4_city2"
+	{
+		// FistSpawn Trigger
+		"min_trigger"		"80.0"
+		"max_trigger"		"90.0"
+		"trigger_type"		"1"
+		"map_ci"			"504"
+		"center_point"		"806.32 -101.69 -419.96"
+
+		// SurFlow Change Spwn Type
+		"sur_flow_1"		"1.0"
+		"spawn_type1_1"		"1"
+		"spawn_type2_1"		"1"
+		"sur_flow_2"		"12460.0"
+		"spawn_type1_2"		"2"
+		"spawn_type2_2"		"0"
+		"sur_flow_3"		"15590.0"
+		"spawn_type1_3"		"1"
+		"spawn_type2_3"		"1"
+		"sur_flow_4"		"18350.0"
+		"spawn_type1_4"		"2"
+		"spawn_type2_4"		"0"
+		"sur_flow_5"		"20240.0"
+		"spawn_type1_5"		"1"
+		"spawn_type2_5"		"1"
+		"sur_flow_6"		"23910.0"
+		"spawn_type1_6"		"2"
+		"spawn_type2_6"		"0"
+		"sur_flow_7"		"24750.0"
+		"spawn_type1_7"		"1"
+		"spawn_type2_7"		"1"
+		"sur_flow_8"		"25830.0"
+		"spawn_type1_8"		"2"
+		"spawn_type2_8"		"0"
+		"sur_flow_9"		"27390.0"
+		"spawn_type1_9"		"1"
+		"spawn_type2_9"		"1"
+		"sur_flow_10"		"29070.0"
+		"spawn_type1_10"	"2"
+		"spawn_type2_10"	"2"
+		"sur_flow_11"		"29860.0"
+		"spawn_type1_11"	"2"
+		"spawn_type2_11"	"0"
+		"sur_flow_12"		"36500.0"
+		"spawn_type1_12"	"1"
+		"spawn_type2_12"	"0"
+	}
+	"l4d2_stadium5_stadium"
+	{
+		// FistSpawn Trigger
+		"min_trigger"		"60.0"
+		"max_trigger"		"70.0"
+		"trigger_type"		"3"
+		"map_ci"			"505"
+		"center_point"		"6534.56 -4551.82 375.62"
+
+		// SurFlow Change Spwn Type
+		"sur_flow_1"		"1.0"
+		"spawn_type1_1"		"1"
+		"spawn_type2_1"		"1"
+		"sur_flow_2"		"7050.0"
+		"spawn_type1_2"		"1"
+		"spawn_type2_2"		"2"
+		"sur_flow_3"		"10430.0"
+		"spawn_type1_3"		"1"
+		"spawn_type2_3"		"1"
+		"sur_flow_4"		"18550.0"
+		"spawn_type1_4"		"1"
+		"spawn_type2_4"		"2"
+		"sur_flow_5"		"19850.0"
+		"spawn_type1_5"		"1"
+		"spawn_type2_5"		"0"
+		"sur_flow_6"		"25910.0"
+		"spawn_type1_6"		"1"
+		"spawn_type2_6"		"1"
+		"sur_flow_7"		"18750.0"
+		"spawn_type1_7"		"1"
+		"spawn_type2_7"		"0"
+		"sur_flow_8"		"31000.0"
+		"spawn_type1_8"		"1"
+		"spawn_type2_8"		"0"
+	}
+	"dsr_m1"
+	{
+
+	}
+	"dsr_m2"
+	{
+
+	}
+	"dsr_m3"
+	{
+
+	}
+	"dsr_m4"
+	{
+
+	}
+	"dsr_m5"
+	{
+
+	}
+	"hf01_theforest"
+	{
+
+	}
+	"hf02_thesteeple"
+	{
+
+	}
+	"hf03_themansion"
+	{
+
+	}
+	"hf04_escape"
+	{
+
+	}
+	"srocchurch"
+	{
+
+	}
+	"plaza_espana"
+	{
+
+	}
+	"maria_cristina"
+	{
+
+	}
+	"mnac"
+	{
+
+	}
+	"l4d2_bts01_forest"
+	{
+
+	}
+	"l4d2_bts02_station"
+	{
+
+	}
+	"l4d2_bts03_town"
+	{
+
+	}
+	"l4d2_bts04_cinema"
+	{
+
+	}
+	"l4d2_bts05_church"
+	{
+
+	}
+	"l4d2_bts06_school"
+	{
+
+	}
+	"l4d2_diescraper1_apartment_361"
+	{
+		// FistSpawn Trigger
+		"min_trigger"		""
+		"max_trigger"		""
+		"trigger_type"		""
+		"map_ci"			""
+		"center_point"		""
+
+		// FirstSpawn Pos
+		"fs_minpos_1"		""
+		"fs_maxpos_1"		""
+		"fs_type_1"			""
+		"fs_select_1"		""
+
+		"fs_minpos_2"		""
+		"fs_maxpos_2"		""
+		"fs_type_2"			""
+		"fs_select_2"		""
+
+		"fs_minpos_3"		""
+		"fs_maxpos_3"		""
+		"fs_type_3"			""
+		"fs_select_3"		""
+
+		"fs_minpos_4"		""
+		"fs_maxpos_4"		""
+		"fs_type_4"			""
+		"fs_select_4"		""
+
+		"fs_minpos_5"		""
+		"fs_maxpos_5"		""
+		"fs_type_5"			""
+		"fs_select_5"		""
+
+		"fs_minpos_6"		""
+		"fs_maxpos_6"		""
+		"fs_type_6"			""
+		"fs_select_6"		""
+
+		"fs_minpos_7"		""
+		"fs_maxpos_7"		""
+		"fs_type_7"			""
+		"fs_select_7"		""
+
+		"fs_minpos_8"		""
+		"fs_maxpos_8"		""
+		"fs_type_8"			""
+		"fs_select_8"		""
+
+		"fs_minpos_9"		""
+		"fs_maxpos_9"		""
+		"fs_type_9"			""
+		"fs_select_9"		""
+
+		"fs_minpos_10"		""
+		"fs_maxpos_10"		""
+		"fs_type_10"		""
+		"fs_select_10"		""
+
+		"fs_minpos_11"		""
+		"fs_maxpos_11"		""
+		"fs_type_11"		""
+		"fs_select_11"		""
+
+		"fs_minpos_12"		""
+		"fs_maxpos_12"		""
+		"fs_type_12"		""
+		"fs_select_12"		""
+
+		"fs_minpos_13"		""
+		"fs_maxpos_13"		""
+		"fs_type_13"		""
+		"fs_select_13"		""
+
+		"fs_minpos_14"		""
+		"fs_maxpos_14"		""
+		"fs_type_14"		""
+		"fs_select_14"		""
+
+		"fs_minpos_15"		""
+		"fs_maxpos_15"		""
+		"fs_type_15"		""
+		"fs_select_15"		""
+
+		"fs_minpos_16"		""
+		"fs_maxpos_16"		""
+		"fs_type_16"		""
+		"fs_select_16"		""
+
+		"fs_minpos_17"		""
+		"fs_maxpos_17"		""
+		"fs_type_17"		""
+		"fs_select_17"		""
+
+		"fs_minpos_18"		""
+		"fs_maxpos_18"		""
+		"fs_type_18"		""
+		"fs_select_18"		""
+
+		"fs_minpos_19"		""
+		"fs_maxpos_19"		""
+		"fs_type_19"		""
+		"fs_select_19"		""
+
+		"fs_minpos_20"		""
+		"fs_maxpos_20"		""
+		"fs_type_20"		""
+		"fs_select_20"		""
+
+		// WaitSpawn Trigger
+		"wl_minpos_1"		""
+		"wl_maxpos_1"		""
+		"ws_mintrdist_1"	""
+		"ws_maxtrdist_1"	""
+		"ws_trtype_1"		""
+		"ws_cpoint_1"		""
+
+		"wl_minpos_2"		""
+		"wl_maxpos_2"		""
+		"ws_mintrdist_2"	""
+		"ws_maxtrdist_2"	""
+		"ws_trtype_2"		""
+		"ws_cpoint_2"		""
+
+		"wl_minpos_3"		""
+		"wl_maxpos_3"		""
+		"ws_mintrdist_3"	""
+		"ws_maxtrdist_3"	""
+		"ws_trtype_3"		""
+		"ws_cpoint_3"		""
+
+		"wl_minpos_4"		""
+		"wl_maxpos_4"		""
+		"ws_mintrdist_4"	""
+		"ws_maxtrdist_4"	""
+		"ws_trtype_4"		""
+		"ws_cpoint_4"		""
+
+		"wl_minpos_5"		""
+		"wl_maxpos_5"		""
+		"ws_mintrdist_5"	""
+		"ws_maxtrdist_5"	""
+		"ws_trtype_5"		""
+		"ws_cpoint_5"		""
+
+		// SurFlow Change Spwn Type
+		"sur_flow_1"		""
+		"spawn_type1_1"		""
+		"spawn_type2_1"		""
+		"sur_flow_2"		""
+		"spawn_type1_2"		""
+		"spawn_type2_2"		""
+		"sur_flow_3"		""
+		"spawn_type1_3"		""
+		"spawn_type2_3"		""
+		"sur_flow_4"		""
+		"spawn_type1_4"		""
+		"spawn_type2_4"		""
+		"sur_flow_5"		""
+		"spawn_type1_5"		""
+		"spawn_type2_5"		""
+		"sur_flow_6"		""
+		"spawn_type1_6"		""
+		"spawn_type2_6"		""
+		"sur_flow_7"		""
+		"spawn_type1_7"		""
+		"spawn_type2_7"		""
+		"sur_flow_8"		""
+		"spawn_type1_8"		""
+		"spawn_type2_8"		""
+		"sur_flow_9"		""
+		"spawn_type1_9"		""
+		"spawn_type2_9"		""
+		"sur_flow_10"		""
+		"spawn_type1_10"	""
+		"spawn_type2_10"	""
+		"sur_flow_11"		""
+		"spawn_type1_11"	""
+		"spawn_type2_11"	""
+		"sur_flow_12"		""
+		"spawn_type1_12"	""
+		"spawn_type2_12"	""
+		"sur_flow_13"		""
+		"spawn_type1_13"	""
+		"spawn_type2_13"	""
+		"sur_flow_14"		""
+		"spawn_type1_14"	""
+		"spawn_type2_14"	""
+		"sur_flow_15"		""
+		"spawn_type1_15"	""
+		"spawn_type2_15"	""
+		"sur_flow_16"		""
+		"spawn_type1_16"	""
+		"spawn_type2_16"	""
+		"sur_flow_17"		""
+		"spawn_type1_17"	""
+		"spawn_type2_17"	""
+		"sur_flow_18"		""
+		"spawn_type1_18"	""
+		"spawn_type2_18"	""
+		"sur_flow_19"		""
+		"spawn_type1_19"	""
+		"spawn_type2_19"	""
+		"sur_flow_20"		""
+		"spawn_type1_20"	""
+		"spawn_type2_20"	""
+	}
+	"l4d2_diescraper2_streets_361"
+	{
+		// FistSpawn Trigger
+		"min_trigger"		""
+		"max_trigger"		""
+		"trigger_type"		""
+		"map_ci"			""
+		"center_point"		""
+
+		// FirstSpawn Pos
+		"fs_minpos_1"		""
+		"fs_maxpos_1"		""
+		"fs_type_1"			""
+		"fs_select_1"		""
+
+		"fs_minpos_2"		""
+		"fs_maxpos_2"		""
+		"fs_type_2"			""
+		"fs_select_2"		""
+
+		"fs_minpos_3"		""
+		"fs_maxpos_3"		""
+		"fs_type_3"			""
+		"fs_select_3"		""
+
+		"fs_minpos_4"		""
+		"fs_maxpos_4"		""
+		"fs_type_4"			""
+		"fs_select_4"		""
+
+		"fs_minpos_5"		""
+		"fs_maxpos_5"		""
+		"fs_type_5"			""
+		"fs_select_5"		""
+
+		"fs_minpos_6"		""
+		"fs_maxpos_6"		""
+		"fs_type_6"			""
+		"fs_select_6"		""
+
+		"fs_minpos_7"		""
+		"fs_maxpos_7"		""
+		"fs_type_7"			""
+		"fs_select_7"		""
+
+		"fs_minpos_8"		""
+		"fs_maxpos_8"		""
+		"fs_type_8"			""
+		"fs_select_8"		""
+
+		"fs_minpos_9"		""
+		"fs_maxpos_9"		""
+		"fs_type_9"			""
+		"fs_select_9"		""
+
+		"fs_minpos_10"		""
+		"fs_maxpos_10"		""
+		"fs_type_10"		""
+		"fs_select_10"		""
+
+		"fs_minpos_11"		""
+		"fs_maxpos_11"		""
+		"fs_type_11"		""
+		"fs_select_11"		""
+
+		"fs_minpos_12"		""
+		"fs_maxpos_12"		""
+		"fs_type_12"		""
+		"fs_select_12"		""
+
+		"fs_minpos_13"		""
+		"fs_maxpos_13"		""
+		"fs_type_13"		""
+		"fs_select_13"		""
+
+		"fs_minpos_14"		""
+		"fs_maxpos_14"		""
+		"fs_type_14"		""
+		"fs_select_14"		""
+
+		"fs_minpos_15"		""
+		"fs_maxpos_15"		""
+		"fs_type_15"		""
+		"fs_select_15"		""
+
+		"fs_minpos_16"		""
+		"fs_maxpos_16"		""
+		"fs_type_16"		""
+		"fs_select_16"		""
+
+		"fs_minpos_17"		""
+		"fs_maxpos_17"		""
+		"fs_type_17"		""
+		"fs_select_17"		""
+
+		"fs_minpos_18"		""
+		"fs_maxpos_18"		""
+		"fs_type_18"		""
+		"fs_select_18"		""
+
+		"fs_minpos_19"		""
+		"fs_maxpos_19"		""
+		"fs_type_19"		""
+		"fs_select_19"		""
+
+		"fs_minpos_20"		""
+		"fs_maxpos_20"		""
+		"fs_type_20"		""
+		"fs_select_20"		""
+
+		// WaitSpawn Trigger
+		"wl_minpos_1"		""
+		"wl_maxpos_1"		""
+		"ws_mintrdist_1"	""
+		"ws_maxtrdist_1"	""
+		"ws_trtype_1"		""
+		"ws_cpoint_1"		""
+
+		"wl_minpos_2"		""
+		"wl_maxpos_2"		""
+		"ws_mintrdist_2"	""
+		"ws_maxtrdist_2"	""
+		"ws_trtype_2"		""
+		"ws_cpoint_2"		""
+
+		"wl_minpos_3"		""
+		"wl_maxpos_3"		""
+		"ws_mintrdist_3"	""
+		"ws_maxtrdist_3"	""
+		"ws_trtype_3"		""
+		"ws_cpoint_3"		""
+
+		"wl_minpos_4"		""
+		"wl_maxpos_4"		""
+		"ws_mintrdist_4"	""
+		"ws_maxtrdist_4"	""
+		"ws_trtype_4"		""
+		"ws_cpoint_4"		""
+
+		"wl_minpos_5"		""
+		"wl_maxpos_5"		""
+		"ws_mintrdist_5"	""
+		"ws_maxtrdist_5"	""
+		"ws_trtype_5"		""
+		"ws_cpoint_5"		""
+
+		// SurFlow Change Spwn Type
+		"sur_flow_1"		""
+		"spawn_type1_1"		""
+		"spawn_type2_1"		""
+		"sur_flow_2"		""
+		"spawn_type1_2"		""
+		"spawn_type2_2"		""
+		"sur_flow_3"		""
+		"spawn_type1_3"		""
+		"spawn_type2_3"		""
+		"sur_flow_4"		""
+		"spawn_type1_4"		""
+		"spawn_type2_4"		""
+		"sur_flow_5"		""
+		"spawn_type1_5"		""
+		"spawn_type2_5"		""
+		"sur_flow_6"		""
+		"spawn_type1_6"		""
+		"spawn_type2_6"		""
+		"sur_flow_7"		""
+		"spawn_type1_7"		""
+		"spawn_type2_7"		""
+		"sur_flow_8"		""
+		"spawn_type1_8"		""
+		"spawn_type2_8"		""
+		"sur_flow_9"		""
+		"spawn_type1_9"		""
+		"spawn_type2_9"		""
+		"sur_flow_10"		""
+		"spawn_type1_10"	""
+		"spawn_type2_10"	""
+		"sur_flow_11"		""
+		"spawn_type1_11"	""
+		"spawn_type2_11"	""
+		"sur_flow_12"		""
+		"spawn_type1_12"	""
+		"spawn_type2_12"	""
+		"sur_flow_13"		""
+		"spawn_type1_13"	""
+		"spawn_type2_13"	""
+		"sur_flow_14"		""
+		"spawn_type1_14"	""
+		"spawn_type2_14"	""
+		"sur_flow_15"		""
+		"spawn_type1_15"	""
+		"spawn_type2_15"	""
+		"sur_flow_16"		""
+		"spawn_type1_16"	""
+		"spawn_type2_16"	""
+		"sur_flow_17"		""
+		"spawn_type1_17"	""
+		"spawn_type2_17"	""
+		"sur_flow_18"		""
+		"spawn_type1_18"	""
+		"spawn_type2_18"	""
+		"sur_flow_19"		""
+		"spawn_type1_19"	""
+		"spawn_type2_19"	""
+		"sur_flow_20"		""
+		"spawn_type1_20"	""
+		"spawn_type2_20"	""
+	}
+	"l4d2_diescraper3_mid_361"
+	{
+		// FistSpawn Trigger
+		"min_trigger"		""
+		"max_trigger"		""
+		"trigger_type"		""
+		"map_ci"			""
+		"center_point"		""
+
+		// FirstSpawn Pos
+		"fs_minpos_1"		""
+		"fs_maxpos_1"		""
+		"fs_type_1"			""
+		"fs_select_1"		""
+
+		"fs_minpos_2"		""
+		"fs_maxpos_2"		""
+		"fs_type_2"			""
+		"fs_select_2"		""
+
+		"fs_minpos_3"		""
+		"fs_maxpos_3"		""
+		"fs_type_3"			""
+		"fs_select_3"		""
+
+		"fs_minpos_4"		""
+		"fs_maxpos_4"		""
+		"fs_type_4"			""
+		"fs_select_4"		""
+
+		"fs_minpos_5"		""
+		"fs_maxpos_5"		""
+		"fs_type_5"			""
+		"fs_select_5"		""
+
+		"fs_minpos_6"		""
+		"fs_maxpos_6"		""
+		"fs_type_6"			""
+		"fs_select_6"		""
+
+		"fs_minpos_7"		""
+		"fs_maxpos_7"		""
+		"fs_type_7"			""
+		"fs_select_7"		""
+
+		"fs_minpos_8"		""
+		"fs_maxpos_8"		""
+		"fs_type_8"			""
+		"fs_select_8"		""
+
+		"fs_minpos_9"		""
+		"fs_maxpos_9"		""
+		"fs_type_9"			""
+		"fs_select_9"		""
+
+		"fs_minpos_10"		""
+		"fs_maxpos_10"		""
+		"fs_type_10"		""
+		"fs_select_10"		""
+
+		"fs_minpos_11"		""
+		"fs_maxpos_11"		""
+		"fs_type_11"		""
+		"fs_select_11"		""
+
+		"fs_minpos_12"		""
+		"fs_maxpos_12"		""
+		"fs_type_12"		""
+		"fs_select_12"		""
+
+		"fs_minpos_13"		""
+		"fs_maxpos_13"		""
+		"fs_type_13"		""
+		"fs_select_13"		""
+
+		"fs_minpos_14"		""
+		"fs_maxpos_14"		""
+		"fs_type_14"		""
+		"fs_select_14"		""
+
+		"fs_minpos_15"		""
+		"fs_maxpos_15"		""
+		"fs_type_15"		""
+		"fs_select_15"		""
+
+		"fs_minpos_16"		""
+		"fs_maxpos_16"		""
+		"fs_type_16"		""
+		"fs_select_16"		""
+
+		"fs_minpos_17"		""
+		"fs_maxpos_17"		""
+		"fs_type_17"		""
+		"fs_select_17"		""
+
+		"fs_minpos_18"		""
+		"fs_maxpos_18"		""
+		"fs_type_18"		""
+		"fs_select_18"		""
+
+		"fs_minpos_19"		""
+		"fs_maxpos_19"		""
+		"fs_type_19"		""
+		"fs_select_19"		""
+
+		"fs_minpos_20"		""
+		"fs_maxpos_20"		""
+		"fs_type_20"		""
+		"fs_select_20"		""
+
+		// WaitSpawn Trigger
+		"wl_minpos_1"		""
+		"wl_maxpos_1"		""
+		"ws_mintrdist_1"	""
+		"ws_maxtrdist_1"	""
+		"ws_trtype_1"		""
+		"ws_cpoint_1"		""
+
+		"wl_minpos_2"		""
+		"wl_maxpos_2"		""
+		"ws_mintrdist_2"	""
+		"ws_maxtrdist_2"	""
+		"ws_trtype_2"		""
+		"ws_cpoint_2"		""
+
+		"wl_minpos_3"		""
+		"wl_maxpos_3"		""
+		"ws_mintrdist_3"	""
+		"ws_maxtrdist_3"	""
+		"ws_trtype_3"		""
+		"ws_cpoint_3"		""
+
+		"wl_minpos_4"		""
+		"wl_maxpos_4"		""
+		"ws_mintrdist_4"	""
+		"ws_maxtrdist_4"	""
+		"ws_trtype_4"		""
+		"ws_cpoint_4"		""
+
+		"wl_minpos_5"		""
+		"wl_maxpos_5"		""
+		"ws_mintrdist_5"	""
+		"ws_maxtrdist_5"	""
+		"ws_trtype_5"		""
+		"ws_cpoint_5"		""
+
+		// SurFlow Change Spwn Type
+		"sur_flow_1"		""
+		"spawn_type1_1"		""
+		"spawn_type2_1"		""
+		"sur_flow_2"		""
+		"spawn_type1_2"		""
+		"spawn_type2_2"		""
+		"sur_flow_3"		""
+		"spawn_type1_3"		""
+		"spawn_type2_3"		""
+		"sur_flow_4"		""
+		"spawn_type1_4"		""
+		"spawn_type2_4"		""
+		"sur_flow_5"		""
+		"spawn_type1_5"		""
+		"spawn_type2_5"		""
+		"sur_flow_6"		""
+		"spawn_type1_6"		""
+		"spawn_type2_6"		""
+		"sur_flow_7"		""
+		"spawn_type1_7"		""
+		"spawn_type2_7"		""
+		"sur_flow_8"		""
+		"spawn_type1_8"		""
+		"spawn_type2_8"		""
+		"sur_flow_9"		""
+		"spawn_type1_9"		""
+		"spawn_type2_9"		""
+		"sur_flow_10"		""
+		"spawn_type1_10"	""
+		"spawn_type2_10"	""
+		"sur_flow_11"		""
+		"spawn_type1_11"	""
+		"spawn_type2_11"	""
+		"sur_flow_12"		""
+		"spawn_type1_12"	""
+		"spawn_type2_12"	""
+		"sur_flow_13"		""
+		"spawn_type1_13"	""
+		"spawn_type2_13"	""
+		"sur_flow_14"		""
+		"spawn_type1_14"	""
+		"spawn_type2_14"	""
+		"sur_flow_15"		""
+		"spawn_type1_15"	""
+		"spawn_type2_15"	""
+		"sur_flow_16"		""
+		"spawn_type1_16"	""
+		"spawn_type2_16"	""
+		"sur_flow_17"		""
+		"spawn_type1_17"	""
+		"spawn_type2_17"	""
+		"sur_flow_18"		""
+		"spawn_type1_18"	""
+		"spawn_type2_18"	""
+		"sur_flow_19"		""
+		"spawn_type1_19"	""
+		"spawn_type2_19"	""
+		"sur_flow_20"		""
+		"spawn_type1_20"	""
+		"spawn_type2_20"	""
+	}
+	"l4d2_diescraper4_top_361"
+	{
+		// FistSpawn Trigger
+		"min_trigger"		""
+		"max_trigger"		""
+		"trigger_type"		""
+		"map_ci"			""
+		"center_point"		""
+
+		// FirstSpawn Pos
+		"fs_minpos_1"		""
+		"fs_maxpos_1"		""
+		"fs_type_1"			""
+		"fs_select_1"		""
+
+		"fs_minpos_2"		""
+		"fs_maxpos_2"		""
+		"fs_type_2"			""
+		"fs_select_2"		""
+
+		"fs_minpos_3"		""
+		"fs_maxpos_3"		""
+		"fs_type_3"			""
+		"fs_select_3"		""
+
+		"fs_minpos_4"		""
+		"fs_maxpos_4"		""
+		"fs_type_4"			""
+		"fs_select_4"		""
+
+		"fs_minpos_5"		""
+		"fs_maxpos_5"		""
+		"fs_type_5"			""
+		"fs_select_5"		""
+
+		"fs_minpos_6"		""
+		"fs_maxpos_6"		""
+		"fs_type_6"			""
+		"fs_select_6"		""
+
+		"fs_minpos_7"		""
+		"fs_maxpos_7"		""
+		"fs_type_7"			""
+		"fs_select_7"		""
+
+		"fs_minpos_8"		""
+		"fs_maxpos_8"		""
+		"fs_type_8"			""
+		"fs_select_8"		""
+
+		"fs_minpos_9"		""
+		"fs_maxpos_9"		""
+		"fs_type_9"			""
+		"fs_select_9"		""
+
+		"fs_minpos_10"		""
+		"fs_maxpos_10"		""
+		"fs_type_10"		""
+		"fs_select_10"		""
+
+		"fs_minpos_11"		""
+		"fs_maxpos_11"		""
+		"fs_type_11"		""
+		"fs_select_11"		""
+
+		"fs_minpos_12"		""
+		"fs_maxpos_12"		""
+		"fs_type_12"		""
+		"fs_select_12"		""
+
+		"fs_minpos_13"		""
+		"fs_maxpos_13"		""
+		"fs_type_13"		""
+		"fs_select_13"		""
+
+		"fs_minpos_14"		""
+		"fs_maxpos_14"		""
+		"fs_type_14"		""
+		"fs_select_14"		""
+
+		"fs_minpos_15"		""
+		"fs_maxpos_15"		""
+		"fs_type_15"		""
+		"fs_select_15"		""
+
+		"fs_minpos_16"		""
+		"fs_maxpos_16"		""
+		"fs_type_16"		""
+		"fs_select_16"		""
+
+		"fs_minpos_17"		""
+		"fs_maxpos_17"		""
+		"fs_type_17"		""
+		"fs_select_17"		""
+
+		"fs_minpos_18"		""
+		"fs_maxpos_18"		""
+		"fs_type_18"		""
+		"fs_select_18"		""
+
+		"fs_minpos_19"		""
+		"fs_maxpos_19"		""
+		"fs_type_19"		""
+		"fs_select_19"		""
+
+		"fs_minpos_20"		""
+		"fs_maxpos_20"		""
+		"fs_type_20"		""
+		"fs_select_20"		""
+
+		// WaitSpawn Trigger
+		"wl_minpos_1"		""
+		"wl_maxpos_1"		""
+		"ws_mintrdist_1"	""
+		"ws_maxtrdist_1"	""
+		"ws_trtype_1"		""
+		"ws_cpoint_1"		""
+
+		"wl_minpos_2"		""
+		"wl_maxpos_2"		""
+		"ws_mintrdist_2"	""
+		"ws_maxtrdist_2"	""
+		"ws_trtype_2"		""
+		"ws_cpoint_2"		""
+
+		"wl_minpos_3"		""
+		"wl_maxpos_3"		""
+		"ws_mintrdist_3"	""
+		"ws_maxtrdist_3"	""
+		"ws_trtype_3"		""
+		"ws_cpoint_3"		""
+
+		"wl_minpos_4"		""
+		"wl_maxpos_4"		""
+		"ws_mintrdist_4"	""
+		"ws_maxtrdist_4"	""
+		"ws_trtype_4"		""
+		"ws_cpoint_4"		""
+
+		"wl_minpos_5"		""
+		"wl_maxpos_5"		""
+		"ws_mintrdist_5"	""
+		"ws_maxtrdist_5"	""
+		"ws_trtype_5"		""
+		"ws_cpoint_5"		""
+
+		// SurFlow Change Spwn Type
+		"sur_flow_1"		""
+		"spawn_type1_1"		""
+		"spawn_type2_1"		""
+		"sur_flow_2"		""
+		"spawn_type1_2"		""
+		"spawn_type2_2"		""
+		"sur_flow_3"		""
+		"spawn_type1_3"		""
+		"spawn_type2_3"		""
+		"sur_flow_4"		""
+		"spawn_type1_4"		""
+		"spawn_type2_4"		""
+		"sur_flow_5"		""
+		"spawn_type1_5"		""
+		"spawn_type2_5"		""
+		"sur_flow_6"		""
+		"spawn_type1_6"		""
+		"spawn_type2_6"		""
+		"sur_flow_7"		""
+		"spawn_type1_7"		""
+		"spawn_type2_7"		""
+		"sur_flow_8"		""
+		"spawn_type1_8"		""
+		"spawn_type2_8"		""
+		"sur_flow_9"		""
+		"spawn_type1_9"		""
+		"spawn_type2_9"		""
+		"sur_flow_10"		""
+		"spawn_type1_10"	""
+		"spawn_type2_10"	""
+		"sur_flow_11"		""
+		"spawn_type1_11"	""
+		"spawn_type2_11"	""
+		"sur_flow_12"		""
+		"spawn_type1_12"	""
+		"spawn_type2_12"	""
+		"sur_flow_13"		""
+		"spawn_type1_13"	""
+		"spawn_type2_13"	""
+		"sur_flow_14"		""
+		"spawn_type1_14"	""
+		"spawn_type2_14"	""
+		"sur_flow_15"		""
+		"spawn_type1_15"	""
+		"spawn_type2_15"	""
+		"sur_flow_16"		""
+		"spawn_type1_16"	""
+		"spawn_type2_16"	""
+		"sur_flow_17"		""
+		"spawn_type1_17"	""
+		"spawn_type2_17"	""
+		"sur_flow_18"		""
+		"spawn_type1_18"	""
+		"spawn_type2_18"	""
+		"sur_flow_19"		""
+		"spawn_type1_19"	""
+		"spawn_type2_19"	""
+		"sur_flow_20"		""
+		"spawn_type1_20"	""
+		"spawn_type2_20"	""
+	}
+	"redtide_01_alleyways"
+	{
+		// FistSpawn Trigger
+		"min_trigger"		"180.0"
+		"max_trigger"		"200.0"
+		"trigger_type"		"2"
+		"map_ci"			"511"
+		"center_point"		"-391.69 -79.60 64.03"
+
+		// SurFlow Change Spwn Type
+		"sur_flow_1"		"1.0"
+		"spawn_type1_1"		"1"
+		"spawn_type2_1"		"1"
+		"sur_flow_2"		"2760.0"
+		"spawn_type1_2"		"1"
+		"spawn_type2_2"		"0"
+		"sur_flow_3"		"4980.0"
+		"spawn_type1_3"		"1"
+		"spawn_type2_3"		"1"
+		"sur_flow_4"		"8040.0"
+		"spawn_type1_4"		"2"
+		"spawn_type2_4"		"0"
+		"sur_flow_5"		"9660.0"
+		"spawn_type1_5"		"1"
+		"spawn_type2_5"		"1"
+		"sur_flow_6"		"14510.0"
+		"spawn_type1_6"		"2"
+		"spawn_type2_6"		"0"
+		"sur_flow_7"		"15330.0"
+		"spawn_type1_7"		"1"
+		"spawn_type2_7"		"1"
+		"sur_flow_8"		"16230.0"
+		"spawn_type1_8"		"1"
+		"spawn_type2_8"		"0"
+		"sur_flow_9"		"18000.0"
+		"spawn_type1_9"		"1"
+		"spawn_type2_9"		"0"
+	}
+	"redtide_02_condo"
+	{
+		// FistSpawn Trigger
+		"min_trigger"		"160.0"
+		"max_trigger"		"180.0"
+		"trigger_type"		"2"
+		"map_ci"			"512"
+		"center_point"		"5443.85 6659.31 64.03"
+
+		// WaitSpawn Trigger
+		"wl_minpos_1"		"-6750.00 -50.00 450.00"
+		"wl_maxpos_1"		"-6500.00 200.00 2000.00"
+		"ws_mintrdist_1"	"160.0"
+		"ws_maxtrdist_1"	"180.0"
+		"ws_trtype_1"		"0"
+		"ws_cpoint_1"		"-6635.27 -58.46 1960.03"
+
+		// SurFlow Change Spwn Type
+		"sur_flow_1"		"1.0"
+		"spawn_type1_1"		"1"
+		"spawn_type2_1"		"0"
+		"sur_flow_2"		"2850.0"
+		"spawn_type1_2"		"2"
+		"spawn_type2_2"		"0"
+		"sur_flow_3"		"4390.0"
+		"spawn_type1_3"		"1"
+		"spawn_type2_3"		"0"
+		"sur_flow_4"		"6420.0"
+		"spawn_type1_4"		"2"
+		"spawn_type2_4"		"0"
+		"sur_flow_5"		"12510.0"
+		"spawn_type1_5"		"1"
+		"spawn_type2_5"		"0"
+		"sur_flow_6"		"18530.0"
+		"spawn_type1_6"		"1"
+		"spawn_type2_6"		"2"
+		"sur_flow_7"		"23240.0"
+		"spawn_type1_7"		"1"
+		"spawn_type2_7"		"1"
+		"sur_flow_8"		"26720.0"
+		"spawn_type1_8"		"1"
+		"spawn_type2_8"		"2"
+		"sur_flow_9"		"29190.0"
+		"spawn_type1_9"		"1"
+		"spawn_type2_9"		"1"
+		"sur_flow_10"		"40000.0"
+		"spawn_type1_10"	"1"
+		"spawn_type2_10"	"0"
+	}
+	"redtide_03_carshow"
+	{
+		// FistSpawn Trigger
+		"min_trigger"		"80.0"
+		"max_trigger"		"90.0"
+		"trigger_type"		"4"
+		"map_ci"			"513"
+		"center_point"		"3765.83 3041.76 2217.03"
+
+		// WaitSpawn Trigger
+		"wl_minpos_1"		"3213.46 2666.03 2218.03"
+		"wl_maxpos_1"		"3052.52 2814.46 380.53"
+		"ws_mintrdist_1"	"30.0"
+		"ws_maxtrdist_1"	"35.0"
+		"ws_trtype_1"		"0"
+		"ws_cpoint_1"		"3127.10 2641.97 386.26"
+
+		// SurFlow Change Spwn Type
+		"sur_flow_1"		"1.0"
+		"spawn_type1_1"		"1"
+		"spawn_type2_1"		"1"
+		"sur_flow_2"		"5790.0"
+		"spawn_type1_2"		"1"
+		"spawn_type2_2"		"0"
+		"sur_flow_3"		"9650.0"
+		"spawn_type1_3"		"1"
+		"spawn_type2_3"		"1"
+		"sur_flow_4"		"11570.0"
+		"spawn_type1_4"		"2"
+		"spawn_type2_4"		"0"
+		"sur_flow_5"		"12690.0"
+		"spawn_type1_5"		"1"
+		"spawn_type2_5"		"1"
+		"sur_flow_6"		"15060.0"
+		"spawn_type1_6"		"2"
+		"spawn_type2_6"		"0"
+		"sur_flow_7"		"16500.0"
+		"spawn_type1_7"		"1"
+		"spawn_type2_7"		"1"
+		"sur_flow_8"		"21220.0"
+		"spawn_type1_8"		"2"
+		"spawn_type2_8"		"0"
+		"sur_flow_9"		"25700.0"
+		"spawn_type1_9"		"1"
+		"spawn_type2_9"		"0"
+		"sur_flow_10"		"27750.0"
+		"spawn_type1_10"	"1"
+		"spawn_type2_10"	"1"
+		"sur_flow_11"		"40000.0"
+		"spawn_type1_11"	"1"
+		"spawn_type2_11"	"0"
+	}
+	"redtide_04_retirementhome"
+	{
+		// FistSpawn Trigger
+		"min_trigger"		"520.0"
+		"max_trigger"		"550.0"
+		"trigger_type"		"4"
+		"map_ci"			"514"
+		"center_point"		"5951.94 6551.16 550.03"
+
+		// SurFlow Change Spwn Type
+		"sur_flow_1"		"1.0"
+		"spawn_type1_1"		"1"
+		"spawn_type2_1"		"1"
+		"sur_flow_2"		"1370.0"
+		"spawn_type1_2"		"2"
+		"spawn_type2_2"		"0"
+		"sur_flow_3"		"2740.0"
+		"spawn_type1_3"		"1"
+		"spawn_type2_3"		"2"
+		"sur_flow_4"		"3430.0"
+		"spawn_type1_4"		"1"
+		"spawn_type2_4"		"0"
+		"sur_flow_5"		"8220.0"
+		"spawn_type1_5"		"2"
+		"spawn_type2_5"		"2"
+		"sur_flow_6"		"11340.0"
+		"spawn_type1_6"		"1"
+		"spawn_type2_6"		"1"
+		"sur_flow_7"		"15770.0"
+		"spawn_type1_7"		"1"
+		"spawn_type2_7"		"0"
+		"sur_flow_8"		"17340.0"
+		"spawn_type1_8"		"1"
+		"spawn_type2_8"		"1"
+		"sur_flow_9"		"25980.0"
+		"spawn_type1_9"		"1"
+		"spawn_type2_9"		"0"
+		"sur_flow_10"		"29020.0"
+		"spawn_type1_10"	"2"
+		"spawn_type2_10"	"0"
+		"sur_flow_11"		"30630.0"
+		"spawn_type1_11"	"1"
+		"spawn_type2_11"	"1"
+		"sur_flow_12"		"34380.0"
+		"spawn_type1_12"	"1"
+		"spawn_type2_12"	"2"
+		"sur_flow_13"		"36650.0"
+		"spawn_type1_13"	"1"
+		"spawn_type2_13"	"1"
+		"sur_flow_14"		"38000.0"
+		"spawn_type1_14"	"1"
+		"spawn_type2_14"	"0"
+	}
+	"redtide_05_beachfront"
+	{
+		// FistSpawn Trigger
+		"min_trigger"		"410.0"
+		"max_trigger"		"450.0"
+		"trigger_type"		"3"
+		"map_ci"			"515"
+		"center_point"		"-7469.22 1630.66 499.03"
+
+		// SurFlow Change Spwn Type
+		"sur_flow_1"		"1.0"
+		"spawn_type1_1"		"1"
+		"spawn_type2_1"		"1"
+		"sur_flow_2"		"1350.0"
+		"spawn_type1_2"		"1"
+		"spawn_type2_2"		"2"
+		"sur_flow_3"		"5280.0"
+		"spawn_type1_3"		"1"
+		"spawn_type2_3"		"0"
+		"sur_flow_4"		"12220.0"
+		"spawn_type1_4"		"1"
+		"spawn_type2_4"		"1"
+		"sur_flow_5"		"17700.0"
+		"spawn_type1_5"		"1"
+		"spawn_type2_5"		"0"
+		"sur_flow_6"		"20490.0"
+		"spawn_type1_6"		"1"
+		"spawn_type2_6"		"1"
+		"sur_flow_7"		"24140.0"
+		"spawn_type1_7"		"1"
+		"spawn_type2_7"		"2"
+		"sur_flow_8"		"35000.0"
+		"spawn_type1_8"		"1"
+		"spawn_type2_8"		"0"
+	}
+	"msd1_town"
+	{
+
+	}
+	"msd2_gasstation"
+	{
+
+	}
+	"msdnew_tccity_newway"
+	{
+
+	}
+	"msd3_square"
+	{
+
+	}
+	"l4d_dbd2dc_anna_is_gone"
+	{
+
+	}
+	"l4d_dbd2dc_the_mall"
+	{
+
+	}
+	"l4d_dbd2dc_clean_up"
+	{
+
+	}
+	"l4d_dbd2dc_undead_center"
+	{
+
+	}
+	"l4d_dbd2dc_new_dawn"
+	{
+
+	}
+	"l4d2_city17_01"
+	{
+
+	}
+	"l4d2_city17_02"
+	{
+
+	}
+	"l4d2_city17_03"
+	{
+
+	}
+	"l4d2_city17_04"
+	{
+
+	}
+	"l4d2_city17_05"
+	{
+
+	}
+	"l4d_tbm_1"
+	{
+
+	}
+	"l4d_tbm_2"
+	{
+
+	}
+	"l4d_tbm_3"
+	{
+
+	}
+	"l4d_tbm_4"
+	{
+
+	}
+	"l4d_tbm_5"
+	{
+
+	}
+	"uz_crash"
+	{
+
+	}
+	"uz_town"
+	{
+
+	}
+	"uz_desert"
+	{
+
+	}
+	"uz_bunker"
+	{
+
+	}
+	"uz_escape"
+	{
+
+	}
+}
